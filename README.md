@@ -3,6 +3,11 @@ Arberia Mod for CKII
 This mod adds the possibility to play as Albanian (Arberia) in the Crusader's King II game. For some reason the CKII has completely wiped traces of Arberesh in the game. Some great Albanian families are mixed for Serbian or Greek (See below correction on dynasties). 
  
 -----
+## Mod Information
+* [GitHub Source](https://github.com/abrahaj/CrusadersKingAlbanianMod)
+* [Albforumi - Forum Discussions](http://forumi.shqiperia.com/threads/paradox-crusaders-king-play-as-albanian-arberia.30247/)
+
+
 ## How to use the Mod
 
 [Download the files](https://github.com/abrahaj/CrusadersKingAlbanianMod/archive/master.zip) and place them under *C:\Users\{YOURUSER}\Documents\Paradox Interactive\Crusader Kings II\mod* in your Windows Version. The same should be done with the Linux version, but the path to the mods dir will change slightly. 
