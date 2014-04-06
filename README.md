@@ -5,11 +5,14 @@ This mod adds the possibility to play as Albanian (Arberia) in the Crusader's Ki
 -----
 ## How to use the Mod
 
-Download the files and place them under C:\Users\{YOURUSER}\Documents\Paradox Interactive\Crusader Kings II\mod in your Windows Version. The same should be done with the Linux version, but the path to the mods dir will change slightly. 
-At the moment the mod relies on the [The Ruler Designer](http://www.ckiiwiki.com/Ruler_Designer) DLC is needed to start the game as an Albanian. I did not investigate much time to change the initial Dynasties, but in theory should be possible to start the game as Albanian without this DLC as well. 
+[Download the files](https://github.com/abrahaj/CrusadersKingAlbanianMod/archive/master.zip) and place them under *C:\Users\{YOURUSER}\Documents\Paradox Interactive\Crusader Kings II\mod* in your Windows Version. The same should be done with the Linux version, but the path to the mods dir will change slightly. 
+
 
 Start the game and if everything worked fine, you should see the "Arberia" Mod in the mods section ![Printscreen ](http://i.imgur.com/4Vb4AfU.png)
 
+At the moment the mod relies on the [The Ruler Designer](http://www.ckiiwiki.com/Ruler_Designer) DLC is needed to start the game as an Albanian. I did not investigate much time to change the initial Dynasties, but in theory should be possible to start the game as Albanian without this DLC as well. 
+
+Go to Dyrrachion, and change the leader with the Ruler Design. In the attributes section pick ethnicity Albanian (under Latin) and change the name and dynasty as you please.
 
 You do not need this section to play the MOD! This is an informative section in case you want to create the MOD yourself.
 -----
