@@ -262,12 +262,7 @@ Open the file _/common/dynasties/00\_dynasties.txt_ and change the following dyn
     	name="Muzaka"
     	culture = albanian
     }
-    
-    171 = {
-    	name="Komnenos"
-    	culture = albanian
-    }
-    
+
     508 = {
     	name="Kastriotis"
     	culture = albanian
