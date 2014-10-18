@@ -244,6 +244,17 @@
 46 = {
 	name="Kantakouzenos"
 	culture = greek
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 45
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 47 = {
 	name="di Monferrato"
@@ -272,7 +283,6 @@
 50 = {
 	name="Spinola"
 	culture = italian
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -414,8 +424,7 @@
 }
 74 = {
 	name="d'Entença"
-	culture = catalan
-	
+	culture = catalan	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -549,6 +558,17 @@
 92 = {
 	name="de Dampierre"
 	culture = frankish
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 93 = {
 	name="de Lusignan"
@@ -625,6 +645,17 @@
 103 = {
 	name="Balliol"
 	culture = norman
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 50
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 104 = {
 	name="Hayles"
@@ -758,8 +789,7 @@
 127 = {
 	name="Skancke"
 	culture = swedish
-	
-	coat_of_arms = {
+		coat_of_arms = {
 		template = 0
 		layer = {
 			texture = 5
@@ -978,7 +1008,6 @@
 177 = {
 	name="Gryfita"
 	culture = pommeranian
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -1018,7 +1047,6 @@
 184 = {
 	name="Nemanjic"
 	culture = serbian
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -1096,7 +1124,6 @@
 195 = {
 	name="Angelos"
 	culture = greek
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -1299,13 +1326,16 @@
 227 = {
 	name="von Thüringen"
 	culture = german
-	coat_of_arms=
-	{
-		data=
-		{
-			0 4 0 0 1 2 2
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 228 = {
@@ -1469,6 +1499,17 @@
 257 = {
 	name="Ludowinger"
 	culture = german
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 258 = {
 	name="von Kirchberg"
@@ -1620,6 +1661,17 @@
 285 = {
 	name="von Jülich"
 	culture = german
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 286 = {
 	name="van Bonen"
@@ -2178,13 +2230,16 @@
 388 = {
 	name="de Vasconia"
 	culture = basque
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 3 2 1 1
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 389 = {
@@ -2276,16 +2331,26 @@
 	culture = frankish
 }
 405 = {
+
 	name="Ansúrez"
-	culture = castillan
+
+	culture = visigothic
+
 	coat_of_arms=
 	{
+
 		data=
+
 		{
+
 			0 1 0 8 3 0 5
+
 		}
+
 		religion=catholic
+
 	}
+
 }
 406 = {
 	name="de Castrogeriz"
@@ -2764,7 +2829,6 @@
 490 = {
 	name="Knytling"
 	culture = norse
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -2804,7 +2868,6 @@
 495 = {
 	name="Stenkyrka"
 	culture = swedish
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -2820,7 +2883,6 @@
 496 = {
 	name="Sverker"
 	culture = swedish
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -2950,7 +3012,7 @@
 	used_for_random = no
 }
 508 = {
-	name="Kastriotis"
+	name="Kastrioti"
 	culture = albanian
 }
 509 = {
@@ -3178,13 +3240,16 @@
 547 = {
 	name="Morgannwg"
 	culture = welsh
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 19 3 0 0
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 548 = {
@@ -3405,6 +3470,17 @@
 582 = {
 	name="Taghlibid"
 	culture = bedouin_arabic
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 56
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 583 = {
 	name="Futohid" #of Mecca
@@ -3509,14 +3585,16 @@
 597 = {
 	name="Umayyad"
 	culture = egyptian_arabic
-	forced_coa_religiongroup = "muslim"
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 5 1 2 2
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 52
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion="sunni"
 	}
 }
 598 = {
@@ -3645,7 +3723,6 @@
 622 = {
 	name="Caetani"
 	culture = italian
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -3689,8 +3766,7 @@
 627 = {
 	name="Skleros"
 	culture = greek
-	
-	coat_of_arms = {
+		coat_of_arms = {
 		template = 0
 		layer = {
 			texture = 5
@@ -3725,25 +3801,31 @@
 631 = {
 	name="Botaneiates"
 	culture = greek
-	coat_of_arms=
-	{
-		data=
-		{
-			0 1 0 16 1 6 5
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=orthodox
 	}
 }
 632 = {
 	name="Diogenes"
 	culture = greek
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 10 5 1 1
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=orthodox
 	}
 }
 633 = {
@@ -3804,8 +3886,7 @@
 }
 639 = {
 	name="Argyros"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -3832,8 +3913,7 @@
 }
 641 = {
 	name="Phokas"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -3848,8 +3928,7 @@
 }
 642 = {
 	name="Lekapenos"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -3868,8 +3947,7 @@
 }
 644 = {
 	name="Makedon" #of Macedonia
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -3920,8 +3998,7 @@
 }
 651 = {
 	name="Salian"
-	culture = german
-	
+	culture = german	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -4948,13 +5025,16 @@
 804 = {
 	name="Radelchis"
 	culture = italian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 5 1 5 5
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 805 = {
@@ -5088,17 +5168,20 @@
 818 = {
 	name="Jute"
 	culture = danish
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 0 0 7 7
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion="norse_pagan"
 	}
 }
 819 = {
-	name = "Dal Fiatach"
+	name = "Dál Fiatach"
 	culture = irish
 	coat_of_arms=
 	{
@@ -5454,7 +5537,71 @@
 	name = Feruxid
 	culture = baloch
 }
-
+860 = {
+	name="Anward"
+	culture = swedish
+	used_for_random = no
+}
+861 = {
+	name="Palmqvist"
+	culture = swedish
+	used_for_random = no
+}
+862 = {
+	name="Vogelius"
+	culture = danish
+	used_for_random = no
+}
+863 = {
+	name="Ivannikov"
+	culture = russian
+	used_for_random = no
+}
+864 = {
+	name="Bodlund"
+	culture = swedish
+	used_for_random = no
+}
+865 = {
+	name="Lasan"
+	culture = italian
+	used_for_random = no
+}
+866 = {
+	name="Lugmaïr"
+	culture = swedish
+	used_for_random = no
+}
+867 = {
+	name="Tammpere"
+	culture = finnish
+	used_for_random = no
+}
+868 = {
+	name="Harnesk"
+	culture = swedish
+	used_for_random = no
+}
+869 = {
+	name="Bermann"
+	culture = swedish
+	used_for_random = no
+}
+870 = {
+	name="Tisander"
+	culture = german
+	used_for_random = no
+}
+871 = {
+	name="Sparrhult"
+	culture = swedish
+	used_for_random = no
+}
+872 = {
+	name="Sålder"
+	culture = norse
+	used_for_random = no
+}
 1002 = {
 	name="Banner"
 	culture = danish
@@ -7363,6 +7510,17 @@
 7001 = {
 	name="de Azagra"
 	culture = basque
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 7002 = {
 	name="Benavides"
@@ -7405,16 +7563,27 @@
 	culture = castillan
 }
 7012 = {
-	name="de Castilla"
-	culture = castillan
+
+	name="de Castella"
+
+	culture = visigothic
+
 	coat_of_arms=
+
 	{
+
 		data=
+
 		{
+
 			0 0 0 11 0 3 3
+
 		}
+
 		religion=catholic
+
 	}
+
 }
 7013 = {
 	name="de Noreña"
@@ -9084,44 +9253,76 @@
 	culture = breton
 }
 8600 = {
-	name="de Asturias"
-	culture = castillan
+
+	name="d'Asturias"
+
+	culture = visigothic
+
 	
 	coat_of_arms = {
+
 		template = 0
+
 		layer = {
+
 			texture = 7
+
 			texture_internal = 36
+
 			emblem = 0
+
 			color = 0
+
 			color = 0
+
 			color = 0
+
 		}
+
 	}
+
 }
+
 8601 = {
+
 	name="de Cantabria"
-	culture = castillan
+
+	culture = visigothic
+
 	
 	coat_of_arms = {
+
 		template = 0
+
 		layer = {
+
 			texture = 7
+
 			texture_internal = 12
+
 			emblem = 0
+
 			color = 0
+
 			color = 0
+
 			color = 0
+
 		}
+
 	}
+
 }
 8602 = {
 	name="Gutiérrez"
 	culture = castillan
 }
 8603 = {
-	name="de Saldaña"
+
+	name="Venigómez"
+
 	culture = castillan
+
 }
 8604 = {
 	name="de Liébana"
@@ -9168,7 +9369,7 @@
 	culture = basque
 }
 8615 = {
-	name="Ochoa"
+	name="de Viguera"
 	culture = basque
 }
 8616 = {
@@ -9192,8 +9393,11 @@
 	}
 }
 8618 = {
+
 	name="Gundemáriz"
-	culture = castillan
+
+	culture = visigothic
+
 }
 8619 = {
 	name="Peláez"
@@ -9220,19 +9424,25 @@
 	culture = castillan
 }
 8625 = {
-	name="de Pravia"
-	culture = castillan
+
+	name="de Prauia"
+
+	culture = visigothic
+
 }
 8626 = {
 	name="Vimaranes"
 	culture = portuguese
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 9 1 2 2
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 8627 = {
@@ -9346,6 +9556,14 @@
 8644 = {
 	name="Rangabes"
 	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 35 5 1 0
+		}
+		religion=orthodox
+	}
 }
 8645 = {
 	name="Logothetes" # instead of "Nikephoropoulos"
@@ -9354,6 +9572,19 @@
 8646 = {
 	name="Isauros"
 	culture = greek
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
 }
 8647 = {
 	name="ton Rhomaion"
@@ -9795,8 +10026,8 @@
 	culture = basque
 }
 8752 = {
-	name="de Lacarra"
-	culture = basque
+	name="de Lacarre"
+	culture = frankish
 }
 8753 = {
 	name="de Montaner"
@@ -9911,7 +10142,7 @@
 }
 8779 = {
 	name="Vela"
-	culture = castillan
+	culture = basque
 }
 8780 = {
 	name="de Risnal"
@@ -10647,8 +10878,11 @@
 	culture = catalan
 }
 10024 = {
-	name="de Ribagorza"
-	culture = castillan
+
+	name="de Ribagorça"
+
+	culture = visigothic
+
 }
 10025 = {
 	name="de Cardona"
@@ -10745,6 +10979,17 @@
 11100 = {
 	name="Borjigin"
 	culture = mongol
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 11101 = {
 	name="Mikulinich"
@@ -10941,13 +11186,16 @@
 12110 = {
 	name = "Unruochinger"
 	culture = german
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 3 7 0 0
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 12111 = {
@@ -11148,8 +11396,11 @@
 	culture = castillan
 }
 12160 = {
-	name = "de El Entrego"
+
+	name = "de Entralgo"
+
 	culture = castillan
+
 }
 12161 = {
 	name = "de Feniosara"
@@ -11172,8 +11423,8 @@
 	culture = castillan
 }
 12166 = {
-	name = "de Minerva"
-	culture = castillan
+	name = "Ponç de Minerva"
+	culture = catalan
 }
 12167 = {
 	name = "de Ledesma"
@@ -11541,6 +11792,19 @@
 12269 = {
 	name= "Ashina"
 	culture = khazar
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
 }
 12270 = {
 	name= "Bulanid"
@@ -11876,6 +12140,17 @@
 12463 = {
 	name="von Schauenburg"
 	culture = german
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 48
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 12464 = {
 	name="von Assel"
@@ -12100,7 +12375,6 @@
 13016 = {
 	name="Grimaldi"
 	culture = italian
-	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12147,8 +12421,7 @@
 }
 13026 = {
 	name="d'Appiano"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12163,8 +12436,7 @@
 }
 13027 = {
 	name="Dandolo"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12179,8 +12451,7 @@
 }
 13028 = {
 	name="Fieschi"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12203,8 +12474,7 @@
 }
 13031 = {
 	name="della Gherardesca"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12220,6 +12490,17 @@
 13032 = {
 	name="della Scala"
 	culture = italian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 13033 = {
 	name="Bandinelli"
@@ -12255,8 +12536,7 @@
 }
 13041 = {
 	name="Doria"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12383,8 +12663,7 @@
 }
 13070 = {
 	name="Morosini"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -12833,15 +13112,15 @@
 }
 15001 = {
 	name="Thopia"
-	culture = serbian
+	culture = albanian
 }
 15002 = {
 	name="Bua Spatas"
-	culture = greek
+	culture = albanian
 }
 15003 = {
 	name="Muzaka"
-	culture = serbian
+	culture = albanian
 }
 17000 = {
 	name="Assen"
@@ -13014,6 +13293,17 @@
 19010 = {
 	name="Csák"
 	culture = hungarian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 19011 = {
 	name="Csáky"
@@ -13479,13 +13769,16 @@
 20066 = {
 	name="Rallis-Raoul"
 	culture = norman
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 12 0 7 7
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=orthodox
 	}
 }
 20067 = {
@@ -13505,8 +13798,8 @@
 	culture = frankish
 }
 20071 = {
-	name="Progonovic"
-	culture = serbian
+	name="Progoni"
+	culture = albanian
 }
 20072 = {
 	name="Kamonas"
@@ -14414,7 +14707,7 @@
 }
 25061 = {
 	name="Karling"
-	culture = frankish
+	culture = old_frankish
 	
 	coat_of_arms = {
 		template = 0
@@ -14441,6 +14734,15 @@
 	name="Kálnoky"
 	culture = hungarian
 }
+25065 = {
+	name="Jerome-Karling"
+	culture = old_frankish
+}
+25066 = {
+	name="Bernhard-Karling"
+	culture = old_frankish
+}
+
 25200 = {
 	name="Voiteh"
 	culture = bulgarian
@@ -15450,13 +15752,16 @@
 100217 = {
 	name="Gellones"
 	culture = occitan
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 22 0 5 5
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 100218 = {
@@ -15532,7 +15837,7 @@
 	culture = italian
 }
 100235 = {
-	name="di Lombardia"
+	name="di lombardia"
 	culture = italian
 }
 100236 = {
@@ -16032,8 +16337,7 @@
 }
 100336 = {
 	name="di Salerno"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -16765,14 +17069,18 @@
 100502 = {
 	name="Vlastimirovic"
 	culture = serbian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 24 3 1 1
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=orthodox
 	}
+
 }
 100503 = {
 	name="Gojnikovic"
@@ -18486,8 +18794,7 @@
 }
 101078 = {
 	name="Branas"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -18502,8 +18809,7 @@
 }
 101079 = {
 	name="Bryennios"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -18538,8 +18844,7 @@
 }
 101085 = {
 	name="Dalassenos"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -18638,8 +18943,7 @@
 }
 101103 = {
 	name="Kontostephanos"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -18667,6 +18971,17 @@
 101107 = {
 	name="Laskaris"
 	culture = greek
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 101108 = {
 	name="Limpidares"
@@ -18783,6 +19098,15 @@
 101134 = {
 	name="Sarantapechos"
 	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 42 0 6 0
+		}
+		religion=orthodox
+	}
+
 }
 101135 = {
 	name="Sebastopoulos"
@@ -19177,7 +19501,7 @@
 	culture = greek
 }
 101224 = {
-	name="Brahaj"
+	name="Brachamios"
 	culture = greek
 }
 101225 = {
@@ -19703,6 +20027,15 @@
 101349 = {
 	name="Krinites"
 	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 13 1 7 0
+		}
+		religion=orthodox
+	}
+
 }
 101350 = {
 	name="Kritharas"
@@ -19902,8 +20235,7 @@
 }
 101399 = {
 	name="Melissenos"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -20079,6 +20411,17 @@
 101439 = {
 	name="Doukas Mourtzouphlos"
 	culture = greek
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 101440 = {
 	name="Palaiotes"
@@ -20370,8 +20713,7 @@
 }
 101510 = {
 	name="Taronites"
-	culture = greek
-	
+	culture = greek	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -20574,8 +20916,7 @@
 }
 101556 = {
 	name="di Canossa"
-	culture = italian
-	
+	culture = italian	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -20807,13 +21148,16 @@
 101682 = {
 	name="Dukljanin"
 	culture = serbian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 1 0 14 0 3 1
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 101683 = {
@@ -21003,13 +21347,16 @@
 101727 = {
 	name="Abbasid"
 	culture = bedouin_arabic
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 3 0 2 2
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 51
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion="sunni"
 	}
 }
 101728 = {
@@ -21052,6 +21399,14 @@
 101737 = {
 	name="Anchabadze"
 	culture = georgian #abghazian
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 43 5 1 0
+		}
+		religion=orthodox
+	}
 }
 101738 = {
 	name="Namrun Kalesi"
@@ -22328,8 +22683,23 @@
 	culture = frankish
 }
 102013 = {
-	name="Skiolding"
+	name="Skjöldung"
 	culture = swedish
+	culture = norse
+	used_for_random = no
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
 }
 102014 = {
 	name="Bååt" #Karlson
@@ -25061,13 +25431,16 @@
 1029102 = {
 	name="de Poher"
 	culture = breton
-	coat_of_arms=
-	{
-		data=
-		{
-			0 1 0 11 5 1 5
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 1029103 = {
@@ -25089,13 +25462,16 @@
 1029042 = {
 	name="Cerneu"
 	culture = breton
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 26 0 5 5
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
 }
 12289 = {
@@ -25131,8 +25507,11 @@
 	culture = andalusian_arabic
 }
 12295 = {
-	name= "Tudmirid"
-	culture = andalusian_arabic
+
+	name= "d'Oriola"
+
+	culture = visigothic
+
 }
 12296 = {
 	name= "Qaysid"
@@ -25245,7 +25624,7 @@
 }
 
 9552 = {
-	name= "Hilditönn"
+	name= "Akra"
 	culture = danish
 	coat_of_arms=
 	{
@@ -25438,10 +25817,25 @@
 	culture = serbian
 }
 9570 = {
-	name="Dengizikhid"
-	culture = avar
-}
 
+	name="Khunzakhal"
+
+	culture = avar
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
+}
 9563 = {
 	name="d'Auriate"
 	culture = italian
@@ -25960,12 +26354,19 @@
 	}
 }
 12313 = {
-	name= "de Majorica"
-	culture = catalan
+
+	name= "de Maiorica"
+
+	culture = visigothic
+
 }
+
 12314 = {
-	name= "de Minorca"
-	culture = catalan
+
+	name= "de Minorica"
+
+	culture = visigothic
+
 }
 12315 = {
 	name= "Galindid"
@@ -26084,14 +26485,19 @@
 9586 = {
 	name="Senulatovic"
 	culture = croatian
-	coat_of_arms=
-	{
-		data=
-		{
-			0 1 0 15 1 2 3
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
 		}
-		religion=catholic
 	}
+
+
 }
 
 9587 = {
@@ -26640,16 +27046,27 @@
 	}
 }
 1043002 = {
+
 	name="Mlechchha"
-	culture = bengali
+
+	culture = assamese
+
 	coat_of_arms=
+
 	{
+
 		data=
+
 		{
+
 			0 0 0 11 1 2 2
+
 		}
+
 		religion=buddhist
+
 	}
+
 }
 1043003 = {
 	name="Rashtrakuta"
@@ -26713,7 +27130,7 @@
 	}
 }
 1043009 = {
-	name="Pandyan"
+	name="Pandya"
 	culture = tamil
 	coat_of_arms=
 	{
@@ -26745,28 +27162,50 @@
 	culture = kannada
 }
 1043013 = {
+
 	name="Bhaumakara"
-	culture = bengali
+
+	culture = oriya
+
 	coat_of_arms=
+
 	{
+
 		data=
+
 		{
-			0 0 0 4 1 11 11
+
+			0 0 0 15 1 11 11
+
 		}
+
 		religion=buddhist
+
 	}
+
 }
 1043014 = {
+
 	name="Bana"
-	culture = bengali
+
+	culture = oriya
+
 	coat_of_arms=
+
 	{
+
 		data=
+
 		{
+
 			0 0 0 10 7 0 0
+
 		}
+
 		religion=buddhist
+
 	}
+
 }
 1043015 = {
 	name="Maldivia"
@@ -26842,16 +27281,16 @@
 	culture = kannada
 }
 12321 = {
-	name= "Kolhapur Shilahara"
-	culture = marathi
+	name= "Kolhapur Silahara"
+	culture = kannada
 }
 12322 = {
-	name= "Thana Shilahara" #North Konkan Shilahara
-	culture = marathi
+	name= "Thana Silahara" #North Konkan Silahara
+	culture = kannada
 }
 12323 = {
-	name= "Shilahara" #South Konkan Shilahara
-	culture = marathi
+	name= "Silahara" #South Konkan Silahara
+	culture = kannada
 }
 12324 = {
 	name= "Goa Kadamba"
@@ -26970,17 +27409,17 @@
 }
 1022237 = {
 	name="Warsangali"
-	culture = bedouin_arabic
+	culture = somali
 }
 
 1022238 = {
-	name="Sentiko"
-	culture = ethiopian
+	name="Darod"
+	culture = somali
 }
 
 1022239 = {
-	name="Mena"
-	culture = ethiopian
+	name="Samaale"
+	culture = somali
 }
 
 1022240 = {
@@ -26996,6 +27435,17 @@
 1022242 = {
 	name="Gideon"
 	culture = ethiopian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 1022243 = {
 	name="Assabi"
@@ -27084,6 +27534,95 @@
 1022260 = {
 	name="Getachew"
 	culture = ethiopian
+}
+
+1022333 = {
+	name="Abrone"
+	culture = somali
+}
+1022334 = {
+	name="Dir"
+	culture = somali
+}
+1022335 = {
+	name="Hawiye"
+	culture = somali
+}
+1022336 = {
+	name="Isaaq"
+	culture = somali
+}
+1022337 = {
+	name="Digil"
+	culture = somali
+}
+1022338 = {
+	name="Mirifle"
+	culture = somali
+}
+1022339 = {
+	name="Gadabuursi"
+	culture = somali
+}
+1022340 = {
+	name="Akishe"
+	culture = somali
+}
+1022341 = {
+	name="Biyomaal"
+	culture = somali
+}
+1022342 = {
+	name="Surre"
+	culture = somali
+}
+1022343 = {
+	name="Gurgura"
+	culture = somali
+}
+1022344 = {
+	name="Issa"
+	culture = somali
+}
+1022345 = {
+	name="Harti"
+	culture = somali
+}
+1022346 = {
+	name="Marehan"
+	culture = somali
+}
+1022347 = {
+	name="Bartire"
+	culture = somali
+}
+1022348 = {
+	name="Rahanweyn"
+	culture = somali
+}
+1022349 = {
+	name="Bigawi"
+	culture = nubian
+}
+1022350 = {
+	name="Qamhat"
+	culture = nubian
+}
+1022351 = {
+	name="Amarrar"
+	culture = nubian
+}
+1022352 = {
+	name="Hadendiwa"
+	culture = nubian
+}
+1022353 = {
+	name="Hadareb"
+	culture = nubian
+}
+1022354 = {
+	name="Beniamer"
+	culture = nubian
 }
 
 12335 = {
@@ -27192,8 +27731,11 @@
 	culture = bengali
 }
 1044000 = {
+
 	name="Bhauma Pala"
-	culture = bengali
+
+	culture = assamese
+
 }
 1044002 = {
 	name="Candravamsa"
@@ -27201,15 +27743,15 @@
 }
 1044003 = {
 	name="Varman"
-	culture = bengali
+	culture = assamese
 }
 1044004 = {
 	name="Timgyadeva"
-	culture = bengali
+	culture = assamese
 }
 1044005 = {
 	name="Vaidyadeva"
-	culture = bengali
+	culture = assamese
 }
 12336 = {
 	name= "Ratta"
@@ -27229,15 +27771,21 @@
 	name="Abhira"
 	culture = rajput
 }
-
 1042076 = {
-	name="Kachwaha"
+	name="Kacchapaghata"
 	culture = rajput
 }
-
 1042077 = {
 	name="Paramara"
 	culture = rajput
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 34 8 13 0
+		}
+		religion="hindu"
+	}
 }
 1042078 = {
 	name="of Malwa"
@@ -27376,10 +27924,39 @@
 1029195 = {
 	name = "Kalinga Ganga" #Eastern Ganga dynasty
 	culture = oriya
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 55
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 1029196 = {
-	name = "Somavasmi" 
+
+	name = "Somavamsi"
+ 
 	culture = oriya
+
+	coat_of_arms=
+
+	{
+
+		data=
+
+		{
+
+			0 1 0 5 1 8 8
+ 		}
+
+		religion="hindu"
+
+	}
+
 }
 1029197 = {
 	name = "Bhanja" 
@@ -27523,6 +28100,14 @@
 1044019 = {
 	name="Cedi" #northern kalachuri
 	culture = hindustani
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 15 0 6 0
+		}
+		religion=buddhist
+	}
 }
 1044020 = {
 	name="Ghosha" #fictional ruler of para luhitya
@@ -27670,3 +28255,3266 @@
 	name="Soomra"
 	culture = sindhi
 }
+1042091 = {
+	name="Bhatti"
+	culture = rajput
+}
+1042097 = {
+	name="Sanchore" # or Jalore
+	culture = rajput
+}
+1042098 = {
+	name="Sisodia"
+	culture = rajput
+}
+1042100 = {
+	name="Karkota"
+	culture = panjabi
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 54
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1042092 = {
+	name="Utpala"
+	culture = panjabi
+}
+1042093 = {
+	name="Lohara"
+	culture = panjabi
+}
+1042094 = {
+	name="Vopyadeva" # or Vuppadeva
+	culture = panjabi
+}
+1042095 = {
+	name="of Dakhinpara"
+	culture = panjabi
+}
+1042096 = {
+	name="Ladakhi"
+	culture = panjabi
+}
+1042099 = {
+	name="Banu Sama" # or Bana Munabbih
+	culture = panjabi
+}
+1042101 = {
+	name="Qarmatia" # or Karmatia
+	culture = panjabi
+}
+1042102 = {
+	name="Ma'danid" # or Banu Madan
+	culture = panjabi
+}
+1044033 = {
+	name="Agilolfing"
+	culture = german
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+}
+1044055 = {
+	name="Lantfriding"
+	culture = german
+}
+1044056 = {
+	name="Theotbalding"
+	culture = german
+}
+1044057 = {
+	name="Herberting"
+	culture = german
+}
+1044058 = {
+	name="Lotharing"
+	culture = german
+}
+1044031 = {
+	name="Gausian"
+	culture = lombard
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+}
+1044032 = {
+	name="Theoderingi"
+	culture = lombard
+}
+1044036 = {
+	name="Lampertingi"
+	culture = lombard
+}
+1044037 = {
+	name="Giselbertling"
+	culture = lombard
+}
+1044038 = {
+	name="Gaiduldling"
+	culture = lombard
+}
+1044039 = {
+	name="Waldulfingi"
+	culture = lombard
+}
+1044041 = {
+	name="Romoaldingi"
+	culture = lombard
+}
+1044042 = {
+	name="Falco"
+	culture = lombard
+}
+1044043 = {
+	name="Walbertingi"
+	culture = lombard
+}
+1044044 = {
+	name="Sicard"
+	culture = lombard
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1044045 = {
+	name="Beleoingi"
+	culture = lombard
+}
+1044046 = {
+	name="Bavarae"
+	culture = lombard
+}
+1044047 = {
+	name="Arioldling"
+	culture = lombard
+}
+1044048 = {
+	name="Harodingian"
+	culture = lombard
+}
+1044049 = {
+	name="Pandulfingi"
+	culture = lombard
+}
+1044050 = {
+	name="Billoingi"
+	culture = lombard
+}
+1044051 = {
+	name="Ansprandling"
+	culture = lombard
+}
+1044052 = {
+	name="Munichingi"
+	culture = lombard
+}
+1044053 = {
+	name="Alachisling"
+	culture = lombard
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+}
+1044054 = {
+	name="Sicardling"
+	culture = lombard
+}
+1044059 = {
+	name="Wechtaringi"
+	culture = lombard
+}
+1044060 = {
+	name="Ansfridingi"
+	culture = lombard
+}
+1044061 = {
+	name="Theodingi"
+	culture = lombard
+}
+1044062 = {
+	name="Giselbertingi"
+	culture = lombard
+}
+1044063 = {
+	name="Ursingi"
+	culture = lombard
+}
+1044064 = {
+	name="Ademingi"
+	culture = lombard
+}
+1044065 = {
+	name="Adalbertingi"
+	culture = lombard
+}
+1044066 = {
+	name="Walpertingi"
+	culture = lombard
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1044067 = {
+	name="Tachipertingi"
+	culture = lombard
+}
+1044068 = {
+	name="Teduericingi"
+	culture = lombard
+}
+1044069 = {
+	name="Daufingi"
+	culture = lombard
+}
+1044070 = {
+	name="Rodoaldingi"
+	culture = lombard
+}
+1044071 = {
+	name="Gandulfingi"
+	culture = lombard
+}
+1044072 = {
+	name="Maioingi"
+	culture = lombard
+}
+1044073 = {
+	name="Rodoaldingi"
+	culture = lombard
+}
+1044074 = {
+	name="Varbertingi"
+	culture = lombard
+}
+1044075 = {
+	name="Paldoling"
+	culture = lombard
+}
+1044076 = {
+	name="Tatingi"
+	culture = lombard
+}
+1044077 = {
+	name="Lambertingi"
+	culture = lombard
+}
+1044078 = {
+	name="Engelbertingi"
+	culture = lombard
+}
+1044079 = {
+	name="Liutfredingi"
+	culture = lombard
+}
+1044080 = {
+	name="Gaidoaldingi"
+	culture = lombard
+}
+1044081 = {
+	name="Tasoingi"
+	culture = lombard
+}
+1044082 = {
+	name="Petringi"
+	culture = lombard
+}
+1044083 = {
+	name="Faroaldingi"
+	culture = lombard
+}
+1044084 = {
+	name="Liutprandingi"
+	culture = lombard
+}
+1044085 = {
+	name="Liutprandling"
+	culture = lombard
+}
+1044086 = {
+	name="Roderissingi"
+	culture = lombard
+}
+1044087 = {
+	name="Lotharling"
+	culture = lombard
+}
+1044088 = {
+	name="Berthilding"
+	culture = german
+}
+1044089 = {
+	name="Lotharing"
+	culture = german
+}
+1044090 = {
+	name="Gosberting"
+	culture = german
+}
+1044091 = {
+	name="Amalricing"
+	culture = german
+}
+1022261 = {
+	name="Kameniatis"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 19 0 5 0
+		}
+		religion=orthodox
+	}
+}
+1022262 = {
+	name="Chameas"
+	culture = greek
+}
+1022263 = {
+	name="Demetrianos"
+	culture = greek
+}
+1022264 = {
+	name="Laloudios"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 30 0 5 0
+		}
+		religion=orthodox
+	}
+}
+1022265 = {
+	name="Stamopatas"
+	culture = greek
+}
+1022266 = {
+	name="Peloponnesites"
+	culture = greek
+}
+1022267 = {
+	name="Klados"
+	culture = greek
+}
+1022268 = {
+	name="Avastaktos"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 13 1 5 0
+		}
+		religion=orthodox
+	}
+}
+1022269 = {
+	name="Lardotyros"
+	culture = greek
+}
+1022270 = {
+	name="Kyritzios"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 12 0 7 0
+		}
+		religion=orthodox
+	}
+}
+1022271 = {
+	name="Kolovos"
+	culture = greek
+}
+1022272 = {
+	name="Podopagouros"
+	culture = greek
+}
+1022273 = {
+	name="Touvakes"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 15 3 1 0
+		}
+		religion=orthodox
+	}
+}
+1022274 = {
+	name="Peteinakes"
+	culture = greek
+}
+1022275 = {
+	name="Ooryphas"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 34 0 7 0
+		}
+		religion=orthodox
+	}
+}
+1022276 = {
+	name="Myxares"
+	culture = greek
+}
+1022277 = {
+	name="Toxias"
+	culture = greek
+}
+1022278 = {
+	name="Bardouchos"
+	culture = greek
+}
+1022279 = {
+	name="Boilas"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 14 1 6 0
+		}
+		religion=orthodox
+	}
+}
+1022280 = {
+	name="Skepides"
+	culture = greek
+}
+1022281 = {
+	name="Mamoulianos"
+	culture = greek
+}
+1022282 = {
+	name="Katakylas"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 42 1 5 0
+		}
+		religion=orthodox
+	}
+}
+1022283 = {
+	name="Drakokephalos"
+	culture = greek
+}
+1022284 = {
+	name="Rentakes"
+	culture = greek
+}
+1022285 = {
+	name="Exarchos"
+	culture = greek
+}
+1022286 = {
+	name="Skepastos"
+	culture = greek
+}
+1022287 = {
+	name="Kyminas"
+	culture = greek
+}
+1022288 = {
+	name="Krasas"
+	culture = greek
+}
+1022289 = {
+	name="Konstantinakes"
+	culture = greek
+}
+1022290 = {
+	name="Mouzelis"
+	culture = greek
+}
+1022291 = {
+	name="Souanites"
+	culture = greek
+}
+1022292 = {
+	name="Karteroukas"
+	culture = greek
+}
+1022293 = {
+	name="Machairas"
+	culture = greek
+}
+1022294 = {
+	name="Koutzodaktylos"
+	culture = greek
+}
+1022295 = {
+	name="Kanakaris"
+	culture = greek
+}
+1022296 = {
+	name="Vamvaloudes"
+	culture = greek
+}
+1022297 = {
+	name="Leontares"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 45 1 5 0
+		}
+		religion=orthodox
+	}
+}
+1022298 = {
+	name="Klokas"
+	culture = greek
+}
+1022299 = {
+	name="Axiotes"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 13 5 1 0
+		}
+		religion=orthodox
+	}
+}
+1022300 = {
+	name="Chrysouchos"
+	culture = greek
+}
+1022301 = {
+	name="Pyrrogenes"
+	culture = greek
+}
+1022302 = {
+	name="Kophinas"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 22 5 1 0
+		}
+		religion=orthodox
+	}
+}
+1022303 = {
+	name="Makroleon"
+	culture = greek
+}
+1022304 = {
+	name="Kalopragmon"
+	culture = greek
+}
+1022305 = {
+	name="Karphitzes"
+	culture = greek
+}
+1022306 = {
+	name="Trichares"
+	culture = greek
+}
+1022307 = {
+	name="Kokkalos"
+	culture = greek
+}
+1022308 = {
+	name="Kritharatos"
+	culture = greek
+}
+1022309 = {
+	name="Kretikos"
+	culture = greek
+}
+1022310 = {
+	name="Tourkos"
+	culture = greek
+}
+1022311 = {
+	name="Symvatikes"
+	culture = greek
+}
+1022312 = {
+	name="Glykomachaires"
+	culture = greek
+}
+1022313 = {
+	name="Chrysochoos"
+	culture = greek
+}
+1022314 = {
+	name="Neapolites"
+	culture = greek
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1022315 = {
+	name="Amalfinos"
+	culture = greek
+}
+1022316 = {
+	name="Vonos"
+	culture = greek
+}
+1022317 = {
+	name="Mystakon"
+	culture = greek
+}
+1022318 = {
+	name="Pterotos"
+	culture = greek
+}
+1022319 = {
+	name="Monotes"
+	culture = greek
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 44 1 6 0
+		}
+		religion=orthodox
+	}
+}
+1022320 = {
+	name="Zerkis"
+	culture = italian
+}
+1022321 = {
+	name="Oristani"
+	culture = italian
+}
+1022322 = {
+	name="Sorrenti"
+	culture = italian
+}
+1022323 = {
+	name="Ravelli"
+	culture = italian
+}
+1022324 = {
+	name="Manginos"
+	culture = greek
+}
+1022325 = {
+	name="Gaulo"
+	culture = italian
+}
+1022326 = {
+	name="Monegario"
+	culture = italian
+}
+1022327 = {
+	name="Galbaio"
+	culture = italian
+}
+1022328 = {
+	name="Antenoreo"
+	culture = italian
+}
+1022329 = {
+	name="Kalavros"
+	culture = greek
+}
+1022330 = {
+	name="Sikelos"
+	culture = greek
+}
+1022331 = {
+	name="Ukil"
+	culture = bolghar
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1022332 = {
+	name="Bilig"
+	culture = bolghar
+}
+1046000 = {
+	name="Nadirid"
+	culture=bedouin_arabic
+}
+1046001 = {
+	name="Nusayrid"
+	culture=bedouin_arabic
+}
+1046002 = {
+	name="Suleymanid"
+	culture=bedouin_arabic
+}
+1046003 = {
+	name="Hakamid"
+	culture=bedouin_arabic
+}
+1046004 = {
+	name="Saadid"
+	culture=bedouin_arabic
+}
+1046005 = {
+	name="Arabid"
+	culture=bedouin_arabic
+}
+1046006 = {
+	name="Ruaynid"
+	culture=bedouin_arabic
+}
+1046007 = {
+	name="Medinid"
+	culture=bedouin_arabic
+}
+1046008 = {
+	name="Ladrón de Guevara"
+	culture=basque
+}
+1046009 = {
+	name="de Pamplona"
+	culture=basque
+}
+1046010 = {
+	name="de Arrosta"
+	culture=basque
+}
+1044300 = {
+
+    name="Varman"	#Ie the dynasty of Yasovarman of Kannauj
+
+    culture = hindustani
+
+}
+
+
+1044301 = {
+
+    name="Ayudha"	#of Kannauj
+
+    culture = hindustani
+
+}
+
+
+1044302 = {
+
+    name="Yadava"	#One of many dynasties claiming to be related to the much earlier legendary rulers of the same area.
+
+    culture = hindustani
+
+}
+
+
+1044303 = {			#This is another such dynasty
+
+    name="Kuru"
+
+    culture = hindustani
+
+}
+
+
+1044304 = {			#Yet another dynasty claiming to be related to the Matsyas of the Puranas
+
+    name="Matsya"
+
+    culture = hindustani
+
+}
+
+
+1044305 = {
+
+    name="Madra"	#Last one with a puranic name
+
+    culture = panjabi
+
+}
+
+
+1044306 = {
+
+    name="Gujar"
+
+    culture = rajput
+
+}
+
+
+1044307 = {
+
+    name="Burdak"
+
+    culture = rajput
+
+}
+
+
+1044308 = {
+
+    name="Gahirawar"
+
+    culture = hindustani
+
+}
+
+
+1044309 = {
+
+    name="Kalachuri"	#Kalachuris of Saryupara
+
+    culture = hindustani
+
+}
+
+
+1044310 = {
+
+    name="Rashtrakuta"	#Rashtrakutas of Kannauj
+
+    culture = hindustani
+
+	coat_of_arms=
+
+	{
+
+		data=
+
+		{
+
+			0 0 0 34 0 10 10
+
+		}
+
+		religion=jain
+
+	}
+
+}
+
+
+1044311 = {
+
+    name="Karnata"	#Karnatas of Mithila
+
+    culture = bengali
+
+}
+
+
+1044312 = {
+
+    name="Chikore"	#Chikores of Pithi / Gaya
+
+    culture = bengali
+
+}
+
+
+1044313 = {
+
+    name="Pihiti"	#Dynasty of Bhimayasa of Pithi and Magadha
+
+    culture = bengali
+
+}
+
+
+1044314 = {
+
+	name="Sailodbhava"
+
+	culture = oriya
+
+	coat_of_arms=
+
+	{
+
+		data=
+
+		{
+
+			0 0 0 17 12 1 2
+
+		}
+
+	religion=jain
+
+	}
+
+}
+
+
+1044315 = {
+    name="Bala-Vallabhi"	#Dynasty of Vikramaraja of Bala-Vallabhi
+    culture = bengali
+}
+
+1044316 = {
+    name="Shura"	#Or Sara Dynasty of Daksina Radha, most characters very uncertain
+    culture = bengali
+}
+
+1044317 = {
+    name="Tailakampa"	#Dynasty of Rudrasikhara of Tailakampa
+    culture = bengali
+}
+
+1044318 = {
+    name="Kausambi"	#Dynasty of Govardhana, cheif supporting Ramapala in his civil war and later conquered by Jatavarman.
+    culture = bengali
+}
+
+1044319 = {
+    name="Kayarigal"	#Dynasty of Narasimharjjuna of Kayarigal
+    culture = bengali
+}
+
+1044320 = {
+    name="Munda"	#The Munda kings, most of them are fictional however
+    culture = bengali
+}
+
+1044321 = {
+    name="Gupta"	#Later Guptas
+    culture = bengali
+}
+
+1044322 = {
+    name="Khadga"
+    culture = bengali
+}
+
+1044323 = {
+    name="Visayapati"
+    culture = bengali
+}
+
+1044324 = {
+    name="Malla"	#Of Bishnupur
+    culture = bengali
+}
+
+1044325 = {
+    name="Mana"
+    culture = bengali
+}
+
+1044326 = {
+    name="Ranaka"	#Really a title but used as a dynasty named by this family
+    culture = bengali
+}
+
+1044327 = {
+    name="Gupta" #"Minor Guptas", vassals of the Karnatas in Mithila. No relation to imperial or even later Guptas
+    culture = bengali
+}
+
+1044328 = {
+    name="Khayarwala" #of Rohtas
+    culture = bengali
+}
+
+1044329 = {
+    name="Chero" #Tribal dynasty that seems to have arisen as Pala authority waned
+    culture = bengali
+}
+
+1044330 = {
+    name="Sena" #Senas of Pithi, probably no relation to the Nadia Senas
+    culture = bengali
+}
+
+1044331 = {
+    name="Gaya" #Pandits of Gaya, years are fictional
+    culture = bengali
+}
+
+1044332 = {
+    name="Nagavamsi"	#Nagas of Cakrakota-Barasuru
+    culture = oriya
+}
+
+1044333 = {
+    name="Nagavamsi" 	#Nagas of Khawarda
+    culture = oriya
+}
+
+1044334 = {
+    name="Bhanja" 	#of Bastar
+    culture = oriya
+}
+
+1044335 = {
+    name="Malayaketu" 	#of Vijayapura (Gorakhpur)
+    culture = hindustani
+}
+
+1044336 = {
+    name="Mana" 	#of Vajra
+    culture = hindustani
+}
+
+1044337 = {
+    name="Chanda" 	#Gond dynasty of Chandrapur
+    culture = hindustani
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 33 8 5 3
+		}
+		religion=hindu
+	}
+}
+
+1044338 = {
+    name="Haihaya" 	#Kalachuri sidebranch ruling from Tummana & Ratanpur
+    culture = hindustani
+}
+
+1044339 = {
+    name="Rashtrakuta"	#Rashtrakutas of Betul, subdued by main branch by end of 8th century
+    culture = marathi
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 34 0 10 10
+		}
+		religion=jain
+	}
+}
+
+1044340 = {
+    name="Malviya" 	#Fictional Brahmins of Ramagiri/Ramtek
+    culture = marathi
+}
+
+1044341 = {
+    name="Karhade"
+    culture = kannada
+}
+
+1044342 = {
+    name="Sailavamsa" 	#of Balaghat
+    culture = hindustani
+}
+
+1044343 = {
+    name="Khayarwala"
+    culture = bengali
+}
+
+1044344 = {
+    name="Singara"
+    culture = hindustani
+}
+
+1044345 = {
+    name="Gupta" 	#Minor Guptas, possibly related to later Guptas. No relation to Imperial Guptas
+    culture = bengali
+}
+
+1044346 = {
+    name="Mana" 	#largely fictional, names from the Hazirabag inscription
+    culture = bengali
+}
+
+1044347 = {
+    name="Gopala" 	#Fictional dynasty for Gopala, mysterious Brahman vassal chief of Kirtivarman of the Candelas, who saved the kingdom from it's enemies
+    culture = hindustani
+}
+
+1044348 = {
+    name="Matsya" 	#Matsyas of Oddadi
+    culture = oriya
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 26 5 8 0
+		}
+		religion=hindu
+	}
+}
+
+1044349 = {
+    name="Baghela" 	#Baghelas of Rewa/Bandogarh
+    culture = hindustani
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 33 5 0 0
+		}
+		religion=hindu
+	}
+}
+
+1044350 = {
+    name="Baland" 	#tribe in the area of Bandhogar at the time, this is a fictional dynasty however
+    culture = hindustani
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 33 4 5 0
+		}
+		religion=hindu
+	}
+}
+
+1044351 = {
+    name="Bundela" 	#Bundelas of Mahoba and later Orchha
+    culture = hindustani
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 2 0 5 0
+		}
+		religion=hindu
+	}
+}
+
+1044352 = {
+    name="Rajgond" 	#Dynasty of Garha-Mandla, genealogy exists in inscription in Ramnagar but haven't been able to get hold of it. Rulers are therefore semi-fictional.
+    culture = hindustani
+}
+
+1044353 = {
+    name="Bhar" 	#Fictional dynasty for the Bhar Rajas of the area around Kasi
+    culture = hindustani
+}
+
+1044354 = {
+    name="Sonhat" 	#Fictional dynasty for the tribal cheifs of Jharkand
+    culture = hindustani
+}
+
+1044355 = {
+    name="Rajrappa" 	#Fictional dynasty for Rajrappa rulers
+    culture = bengali
+}
+
+1044356 = {
+    name="Deva" 	#Devas of Sonargoan
+    culture = bengali
+}
+
+1044357 = {
+    name="Pattikara"	#Pattikara dynasty of Twipra
+    culture = bengali
+}
+
+1044358 = {
+    name="Deva" 	#Different Deva Branch in Eastern Bengal
+    culture = bengali
+}
+
+1044359 = {
+    name="Khadi" 	#Independent cheif in the Sunderbans
+    culture = bengali
+}
+
+1044360 = {
+    name="Chhinda" 	#Dynasty known to have been present in Katehar from 9th century, not much is known and all rulers are fictional.
+    culture = rajput
+}
+
+1044361 = {
+    name="Ahom" 	#Kings of Assam up to British times
+    culture = assamese
+}
+
+1044362 = {
+    name="Khen" 	#of Kamatapur
+    culture = assamese
+}
+
+1044363 = {
+    name="Sutiya" 	#of Sutiya
+    culture = assamese
+}
+
+1044364 = {
+    name="Kachari" 	#Tribal dynasty from 835-1830
+    culture = assamese
+}
+
+1044365 = {
+    name="Barobhyan" 	#More of a title than a family name
+    culture = assamese
+}
+1042122 = {
+	name="Banu Tamim"
+	culture = bedouin_arabic
+}
+
+1042125 = {
+	name="Barmakid"
+	culture = persian
+}
+
+1042127 = {
+	name="Banu Taghlib"
+	culture = levantine_arabic
+}
+
+1042128 = {
+	name="Kermanibid"
+	culture = kurdish
+}
+
+1042129 = {
+	name="of Kurdistan"
+	culture = kurdish
+}
+
+1042130 = {
+	name="Oromid"
+	culture = kurdish
+}
+
+1042131 = {
+	name="Kirkukbid"
+	culture = kurdish
+}
+1042113 = {
+	name="Kilabid"
+	culture = bedouin_arabic
+}
+
+1042114 = {
+	name="Kufahyid"
+	culture = bedouin_arabic
+}
+
+1042121 = {
+	name="Abd al-Qays"
+	culture = bedouin_arabic
+}
+1042112 = {
+	name="Afrighid"
+	culture = persian
+}
+1042103 = {
+	name="Kindah" # fictitious
+	culture = bedouin_arabic
+}
+1042104 = {
+	name="Nandin" # or Kabul Shahi/Sahi
+	culture = afghan
+}
+
+1042105 = {
+	name="Trailokyadevi" 
+	culture = afghan
+}
+
+1042106 = {
+	name="Nagar" 
+	culture = afghan
+}
+
+1042107 = {
+	name="Varna" 
+	culture = panjabi
+}
+
+1042108 = {
+	name="of Kunduz" 
+	culture = afghan
+}
+
+1042109 = {
+
+	name="Bamiyan"
+ 
+	culture = afghan
+
+}
+
+1046012 = {
+
+	name="Arias"
+
+	culture=portuguese
+
+}
+
+1046027 = {
+
+	name="Nefudid"
+
+	culture=bedouin_arabic
+
+}
+
+1046028 = {
+	name="Djazairid"
+
+	culture=maghreb_arabic
+
+}
+
+1046029 = {
+
+	name="Yahsubid"
+
+	culture=bedouin_arabic
+
+}
+
+1046020 = {
+
+	name="Karimid"
+
+	culture=maghreb_arabic
+
+}
+
+1046021 = {
+
+	name="Fezzid"
+
+	culture=maghreb_arabic
+
+}
+
+1046022 = {
+
+	name="Atlasid"
+
+	culture=maghreb_arabic
+
+}
+
+1046023 = {
+
+	name="Saqlabid"
+
+	culture=bedouin_arabic
+
+}
+
+1046024 = {
+
+	name="Qashid"
+
+	culture=bedouin_arabic
+
+}
+
+1046025 = {
+	name="Theodoricciana"
+	culture=visigothic
+}
+
+1046026 = {
+
+	name="Petrid"
+
+	culture=bedouin_arabic
+
+}
+
+1046030 = {
+
+	name="Erwigiana"
+
+	culture=visigothic
+
+}
+
+1046031 = {
+
+	name="Kindasuinthiana"
+
+	culture=visigothic
+
+}
+
+1046032 = {
+
+	name="Khintiliana"
+
+	culture=visigothic
+
+}
+
+1046033 = {
+
+	name="Lywigildiana"
+
+	culture=visigothic
+
+}
+
+1046034 = {
+
+	name="Sesebutiana"
+
+	culture=visigothic
+
+}
+
+1046035 = {
+
+	name="Balthes"
+
+	culture=visigothic
+
+}
+
+1042133 = {
+
+	name="Midhhalbid"
+
+	culture = bedouin_arabic
+
+}
+
+
+1042134 = {
+
+	name="Jiskani"
+
+	culture = baloch
+
+}
+
+
+1042135 = {
+
+	name="Kalmati"
+
+	culture = baloch
+
+}
+
+
+1042136 = {
+
+	name="Mugheri"
+
+	culture = baloch
+
+}
+
+
+1042137 = {
+
+	name="Amrubid"
+
+	culture = bedouin_arabic
+
+}
+
+
+1042138 = {
+
+	name="Neisany"
+
+	culture = persian
+
+}
+
+1044098 = {
+
+	name="Hardrading"
+
+	culture = german
+
+}
+
+1044099 = {
+
+	name="Hetanid"
+
+	culture = old_frankish
+
+}
+
+1044100 = {
+
+	name="Emichid"
+
+	culture = old_frankish
+
+}
+
+1046011 = {
+
+	name="von Argengau"
+
+	culture=old_frankish
+
+}
+
+1040010 = {
+
+	name="Mac Loairn"
+
+	culture = scottish
+
+}
+
+
+1040011 = {
+
+	name="Uib"
+
+	culture = pictish
+
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+}
+
+
+1040012 = {
+
+	name="Uerturio"
+
+	culture = pictish
+
+}
+
+
+1040013 = {
+
+	name="Mac Comgaill"
+
+	culture = scottish
+
+}
+
+
+1040014 = {
+
+	name="Cait"
+
+	culture = pictish
+
+}
+
+
+1040015 = {
+		name="Uedola"
+
+	culture = pictish
+
+}
+
+
+1040016 = {
+
+	name="Uuidoch"
+
+	culture = pictish
+
+}
+
+
+1040017 = {
+
+	name="Ce"
+
+	culture = pictish
+
+}
+
+
+1040018 = {
+
+	name="Circinn"
+
+	culture = pictish
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+}
+
+1040019 = {
+
+	name="Orc"
+
+	culture = pictish
+
+}
+
+
+1040020 = {
+
+	name="Caliu"
+
+	culture = pictish
+
+}
+
+1042111 = {
+
+	name="Kaikanite"
+ 
+	culture = afghan
+
+}
+
+
+1042132 = {
+	
+	name="of Uq"
+
+	culture = persian
+
+}
+
+
+1042146 = {
+
+	name="Nutkani"
+
+	culture = baloch
+
+}
+
+1022355 = {
+
+	name="Rshtuni"
+
+	culture = armenian
+
+}
+
+1022356 = {
+
+	name="Mislavic"
+
+	culture = serbian
+
+}
+
+1022357 = {
+
+	name = "Sulamid"
+
+	culture = bedouin_arabic
+
+}
+
+1022358 = {
+
+	name="Kindid"
+
+	culture = bedouin_arabic
+
+}
+
+1022359 = {
+
+	name="Hajurid"
+
+	culture = bedouin_arabic
+
+}
+
+1022360 = {
+
+	name="Subaid"
+
+	culture = levantine_arabic
+
+}
+1022361 = {
+
+	name="Marwazid"
+
+	culture = persian
+
+}
+
+1022362 = {
+
+	name="Armanid"
+
+	culture = levantine_arabic
+
+}
+
+1022363 = {
+
+	name="Murrid"
+
+	culture = kurdish
+
+}
+
+1022364 = {
+
+	name="Harashid"
+
+	culture = bedouin_arabic
+
+}
+
+1022365 = {
+
+	name="Addauid"
+
+	culture = levantine_arabic
+
+}
+
+1022366 = {
+
+	name="Taglibid"
+
+	culture = bedouin_arabic
+
+}
+
+1022367 = {
+
+	name="Hadarid"
+
+	culture = levantine_arabic
+
+}
+
+1042124 = {
+
+	name="of Farghana"
+
+	culture = karluk
+
+}
+
+
+1042147 = {
+
+	name="Bajanid"
+
+	culture = bedouin_arabic
+
+}
+
+
+1042148 = {
+
+	name="Muqannid"
+
+	culture = persian
+
+}
+
+
+1042149 = {
+
+	name="Harashid" # not the main al-Harashi family
+
+	culture = turkish
+
+}
+
+
+1042150 = {
+
+	name="Hunabid"
+
+	culture = bedouin_arabic
+
+}
+
+
+1042151 = {
+
+	name="Simsek"
+
+	culture = turkish
+
+}
+
+1022368 = {
+
+	name="Khazbek"
+
+	culture = avar
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1022369 = {
+
+	name="Yantsukh"
+
+	culture = avar
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1022370 = {
+
+	name="Ghidatli"
+
+	culture = avar
+
+}
+
+1022371 = {
+
+	name="Gumbekh"
+
+	culture = avar
+
+}
+
+1022372 = {
+
+	name="Kharoda"
+
+	culture = avar
+
+}
+
+1022373 = {
+		name="Ghunib"
+
+	culture = avar
+
+}
+
+1022374 = {
+
+	name="Yandalal"
+
+	culture = avar
+
+}
+
+1022375 = {
+
+	name="Tsumadal"
+
+	culture = avar
+
+}
+
+1022376 = {
+
+	name="Tsuntab"
+
+	culture = avar
+
+}
+
+1046017 = {
+
+	name="de Suebennia"
+
+	culture=visigothic
+
+}
+
+1046018 = {
+
+	name="de Pedernales"
+
+	culture=visigothic
+
+}
+
+1046019 = {
+
+	name="de Ruscino"
+
+	culture=visigothic
+
+}
+
+1046013 = {
+
+	name="Musavid"
+
+	culture=andalusian_arabic
+
+}
+
+1046014 = {
+
+	name="Yusufid"
+
+	culture=andalusian_arabic
+
+}
+
+1046015 = {
+
+	name="Abdelrahmanid"
+
+	culture=andalusian_arabic
+
+}
+
+1046016 = {
+
+	name="Qutalanid"
+
+	culture=andalusian_arabic
+
+}
+
+1044105 = {
+	name="Theodericing"
+	culture = old_saxon
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
+}
+1044106 = {
+	name="Richfriding"
+	culture = old_saxon
+}
+1044107 = {
+	name="Abonid"
+	culture = old_saxon
+}
+1044108 = {
+	name="Smeldiging"
+	culture = old_saxon
+}
+1044109 = {
+	name="Unwanid"
+	culture = old_saxon
+}
+1044110 = {
+	name="Hessing"
+	culture = old_saxon
+}
+1042142 = {
+	name="Tamimi"
+	culture = bedouin_arabic
+}
+
+1042143 = {
+	name="Surena"
+	culture = persian
+}
+
+1042144 = {
+	name="of Lad"
+	culture = persian
+}
+
+1042145 = {
+	name="of Persepolis"
+	culture = persian
+}
+1044366 = {
+    name="Ruddha" 	#Fictional dynasty of Aniruddha, Rashtrakuta governor of Thana
+    culture = marathi
+}
+
+1044367 = {
+    name="Chauhan" 	#Early Chahamanas of Lata
+    culture = rajput
+}
+
+1044368 = {
+    name="Maitraka"
+    culture = gujurati
+}
+
+1044369 = {
+    name="Varahas"	#of Saurya Mandala
+    culture = gujurati
+}
+
+1044370 = {
+    name="Chawda"	#Vardhamana Branch
+    culture = gujurati
+}
+
+1044371 = {
+    name="Calukya"	#of Saurashtra, probably related to the Caulukyas/Solankis but not confirmed to be so
+    culture = gujurati
+}
+
+1044372 = {
+    name="Solanki"	#Lata Branch
+    culture = gujurati
+}
+
+1044373 = {
+    name="Sankhyavat"	#Kathis of Kanthkot/Kanthakota
+    culture = gujurati
+}
+
+1044374 = {
+    name="Chaulukya"	#Mattamayura branch
+    culture = hindustani
+}
+
+1044375 = {
+    name="Jadon"		#of Karauli/Bayana
+    culture = hindustani
+}
+
+1044376 = {
+    name="Surasena"		#of Sripatha
+    culture = hindustani
+}
+
+1044377 = {
+    name="Dahiya"		#of Satyapura
+    culture = hindustani
+}
+
+1044378 = {
+    name="Mir"		#Dynasty of Malik, the killer of Vajranga Chauhan of Satyapura
+    culture = hindustani
+}
+
+1044379 = {
+    name="Rashtrakuta"	#Rashtrakutas of Hastikundi
+    culture = rajput
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 34 0 10 10
+		}
+		religion=jain
+	}
+}
+
+1044380 = {
+    name="Panwar" #Relation to other Paramara branches very unclear
+    culture = rajput
+}
+
+1044381 = {
+    name="Toghril"
+    culture = turkish
+}
+
+1044382 = {
+    name="Yayvapala"
+    culture = hindustani
+}
+
+1044383 = {
+    name="Kachwaha"
+    culture = rajput
+}
+
+1044384 = {
+    name="Bargujar"
+    culture = rajput
+}
+
+1044385 = {
+    name="Kacchapaghata"	#Dubkund branch
+    culture = rajput
+}
+
+1044386 = {
+    name="Guhilot"		#Chatsu branch, probably not really important enough to hold entire county
+    culture = rajput
+}
+
+1044387 = {
+    name="Rashtrakuta"		#of Pathari
+	culture = hindustani
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 34 0 10 10
+		}
+		religion=jain
+	}
+}
+
+1044388 = {
+    name="Rathore"
+    culture = rajput
+}
+
+1044389 = {
+    name="Multani"
+    culture = turkish
+}
+
+1044390 = {
+    name="Hada"
+    culture = rajput
+}
+
+1044391 = {
+    name="Dahiya"	#Of Nagaur/Nagauda
+    culture = rajput
+}
+
+1044392 = {
+    name="Khichar"
+    culture = hindustani
+}
+
+1044393 = {	
+    name="Saindhava"	#Of Simhapura, this is a fictional dynasty but a dynasty using this name did exist in this area around 1000 AD. Dynasty name refers to the area.
+    culture = panjabi
+}
+
+1044394 = {	
+    name="Takkavishaya"	#Of Takka, this is a fictional dynasty but a dynasty using this name did exist in this area around 1000 AD. Dynasty name refers to the area.
+    culture = panjabi
+}
+
+1044395 = {	
+    name="Naru"	#Fictional dynasty
+    culture = panjabi
+}
+
+1044396 = {	
+    name="Gakhkar"
+    culture = panjabi
+}
+
+1044397 = {	
+    name="Gautam"	#Fictional rulers, dynasty is said to have ruled land in the Doab area
+    culture = hindustani
+}
+1022377 = {
+	name="Bukhal"
+	culture = khazar
+}
+1022378 = {
+	name="Tzul"
+	culture = khazar
+}
+1022379 = {
+	name="Vakrimal"
+	culture = khazar
+}
+1022380 = {
+	name="Samsamakh"
+	culture = khazar
+}
+1022381 = {
+	name="Karadakhu"
+	culture = khazar
+}
+1022382 = {
+	name="Yabghumakh"
+	culture = khazar
+}
+1022383 = {
+	name="Zmbalani"
+	culture = alan
+}
+1022384 = {
+	name="Sathisi"
+	culture = alan
+}
+1022385 = {
+	name="Totrazi"
+	culture = alan
+}
+1022386 = {
+	name="Jenö"
+	culture = hungarian
+}
+1022387 = {
+	name="Kér"
+	culture = hungarian
+}
+1022388 = {
+	name="Keszi"
+	culture = hungarian
+}
+1022389 = {
+	name="Kürt"
+	culture = hungarian
+}
+1022390 = {
+	name="Gyarmat"
+	culture = hungarian
+}
+1022391 = {
+	name="Megyer"
+	culture = hungarian
+}
+1022392 = {
+	name="Nyék"
+	culture = hungarian
+}
+1022393 = {
+	name="Tarján"
+	culture = hungarian
+}
+1042110 = {
+	name="Zunbil" 
+	culture = afghan
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 53
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1042156 = {
+	name="Jindin" # fictitious
+	culture = afghan
+}
+
+1042157 = {
+	name="Zarbil" # fictitious
+	culture = afghan
+}
+1044111 = {
+	name="Louping"
+	culture = occitan
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
+}
+1044112 = {
+	name="Bertranding"
+	culture = occitan
+}
+1044113 = {
+	name="Burgunding"
+	culture = occitan
+}
+1044114 = {
+	name="Stephanid"
+	culture = occitan
+}
+1044115 = {
+	name="Abbonid"
+	culture = occitan
+}
+1044116 = {
+	name="Nibelunging"
+	culture = old_frankish
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1044117 = {
+	name="Erenolding"
+	culture = old_frankish
+}
+1044118 = {
+	name="Begonid"
+	culture = visigothic
+}
+1044119 = {
+	name="Hugonid"
+	culture = old_frankish
+}
+1042158 = {
+	name="Makkid"
+	culture = bedouin_arabic
+}
+
+1042159 = {
+	name="of Paveh"
+	culture = kurdish
+}
+
+1042160 = {
+	name="of Aligoodarz"
+	culture = persian
+}
+
+1042161 = {
+	name="Khurramid"
+	culture = persian
+}
+
+1042162 = {
+	name="Rawandi"
+	culture = persian
+}
+
+1042163 = {
+	name="Ishaqid"
+	culture = persian
+}
+1042164 = {
+	name="Yufirid"
+	culture = bedouin_arabic
+}
+
+1042165 = {
+	name="Ziyadid"
+	culture = bedouin_arabic
+}
+
+1042166 = {
+	name="Hashid"
+	culture = bedouin_arabic
+}
+
+1042167 = {
+	name="Bakil"
+	culture = bedouin_arabic
+}
+
+1042168 = {
+	name="Modharite"
+	culture = bedouin_arabic
+}
+
+1042169 = {
+	name="Kathirid"
+	culture = bedouin_arabic
+}
+
+1042170 = {
+	name="Arwadid"
+	culture = bedouin_arabic
+}
+1048001 = {
+	name="Muhallabid" # 
+	culture = bedouin_arabic
+}
+
+1048002 = {
+	name="Tujibid" # Egyptian Tujibids
+	culture = egyptian_arabic
+}
+1048003 = {
+	name="Malzuzi" # Ibadi rebel
+	culture = maghreb_arabic
+}
+1048004 = {
+	name="Ifrinid" #rulers of Tlemcen
+	culture = maghreb_arabic
+}
+1048005 = {
+	name="Midrarid"
+	culture = maghreb_arabic
+}
+1048006 = {
+	name="Azimid"
+	culture = maghreb_arabic
+}
+1048007 = {
+	name="Awzalid"
+	culture = maghreb_arabic
+}
+1048008 = {
+	name="Kamalid"
+	culture = maghreb_arabic
+}
+1048009 = {
+	name="Rahmanid"
+	culture = maghreb_arabic
+}
+1048010 = {
+	name="Hamadid"
+	culture = maghreb_arabic
+}
+1048011 = {
+	name="Masmudid"
+	culture = maghreb_arabic
+}
+1048012 = {
+	name="Mahtarid"
+	culture = maghreb_arabic
+}
+1042171 = {
+	name="of Zarma"
+	culture = manden
+}
+
+1042172 = {
+	name="of Gurma"
+	culture = manden
+}
+
+1042173 = {
+	name="of Djenne"
+	culture = manden
+}
+
+1042174 = {
+	name="of Bambuk"
+	culture = manden
+}
+
+1042175 = {
+	name="Ezekoye"
+	culture = manden
+}
+
+1042176 = {
+	name="Sahara"
+	culture = manden
+}
+
+1042177 = {
+	name="Ofodike"
+	culture = maghreb_arabic
+}
+
+1042178 = {
+	name="Idjili"
+	culture = maghreb_arabic
+}
+
+1042179 = {
+	name="Cabaonid"
+	culture = maghreb_arabic
+}
+
+1042180 = {
+	name="Masuna"
+	culture = maghreb_arabic
+}
+1042123 = {
+	name="Marwarrudhid"
+	culture = persian
+}
+
+1042126 = {
+	name="Azdid"
+	culture = persian
+}
+
+1042152 = {
+	name="Dabbid"
+	culture = bedouin_arabic
+}
+
+1042153 = {
+	name="Kirazid"
+	culture = turkish
+}
+
+1042154 = {
+	name="Sijistani"
+	culture = persian
+}
+
+1042155 = {
+	name="Amrid"
+	culture = bedouin_arabic
+}
+
+1047001 = {
+	name="Wihtgilsing" # 
+	culture = saxon
+}
+1042181 = {
+	name="Azd Umanid" # Azd branch
+	culture = bedouin_arabic
+}
+
+1042182 = {
+	name="Yahmad" # Azd branch
+	culture = bedouin_arabic
+}
+
+1042183 = {
+	name="Banu Nabhan" 
+	culture = bedouin_arabic
+}
+
+1042184 = {
+	name="Azd Dabid" # Azd branch
+	culture = bedouin_arabic
+}
+1046036 = {
+	name="de Theville"
+	culture=norman
+}
+1047000 = {
+	name="Wuffing" # 
+	culture = saxon
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1047002 = {
+	name="Iceling" # Iclingas of Mercia
+	culture = saxon
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
+}
+1047003 = {
+	name="Coenwalhing" # of Mercia
+	culture = saxon
+}
+1047004 = {
+	name="Wiglafing" # of Mercia
+	culture = saxon
+}
+1047005 = {
+	name="Beorning" # of Mercia
+	culture = saxon
+}
+1044101 = {
+	name="Hugonid"
+	culture = old_frankish
+}
+1044102 = {
+	name="Dodonid"
+	culture = old_frankish
+}
+1044103 = {
+	name="Theodnid"
+	culture = old_frankish
+}
+1044104 = {
+	name="Charibertid"
+	culture = old_frankish
+}
+9300 = {
+	name="Riculfling"
+	culture = old_frankish
+}
+9615 = {
+	name="de Toledo"
+	culture = castillan
+}
+9616 = {
+	name="of Burgundy"
+	culture = frankish
+}
+9617 = {
+	name="Amaling"
+	culture = german
+}
+9618 = {
+	name="Hasding"
+	culture = german
+}
+9306 = {
+	name="Bouvinid" #Nithard-Richard from Middle Rhine
+	culture = old_frankish
+}
+9307 = {
+	name="de Landen"
+	culture = old_frankish
+}
+9308 = {
+	name="Adalberts"
+	culture = old_frankish
+}
+9309 = {
+	name="Laidrati"
+	culture=old_frankish
+}
+9310 = {
+	name="Chiemgaudson"
+	culture=old_frankish
+}
+9311 = {
+	name="Hildegars"
+	culture=old_frankish
+}
+9312 = {
+	name="Leudoni"
+	culture=old_frankish
+}
+9313 = {
+	name="Adelards"
+	culture=old_frankish
+}
+9314 = {
+	name="Australdling"
+	culture=old_frankish
+}
+9315 = {
+	name="Baugulfson"
+	culture=old_frankish
+}
+9316 = {
+	name="Berengling"
+	culture=old_frankish
+}
+9317 = {
+	name="Hildradson"
+	culture=old_frankish
+}
+9318 = {
+	name="Drogling"
+	culture=old_frankish
+}
+9319 = {
+	name="Engelgerson"
+	culture=old_frankish
+}
+9320 = {
+	name="de Transjuranie"
+	culture=old_frankish
+}
+9321 = {
+	name="Galimani"
+	culture=old_frankish
+}
+9322 = {
+	name="de Betoricas"
+	culture=old_frankish
+}
+9323 = {
+	name="Herluins"
+	culture=old_frankish
+}
+9324 = {
+	name="Hermenelds"
+	culture=old_frankish
+}
+9325 = {
+	name="Roding"
+	culture=old_frankish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 4 0 35 0 5 0
+		}
+		religion=orthodox
+	}
+}
+9326 = {
+	name="Ringling"
+	culture=old_frankish
+}
+9327 = {
+	name="Gunberts"
+	culture=old_frankish
+}
+9328 = {
+	name="Wulfardson"
+	culture=old_frankish
+}
+9329 = {
+	name="Vuodi"
+	culture=old_frankish
+}
+9330 = {
+	name="Walthars"
+	culture=old_frankish
+}
+9331 = {
+	name="Warins"
+	culture=old_frankish
+}
+9332 = {
+	name="Wegelenzi"
+	culture=old_frankish
+}
+9333 = {
+	name="Welenti"
+	culture=old_frankish
+}
+9334 = {
+	name="Widling"
+	culture=old_frankish
+}
+1044120 = {
+	name="Morgannid"
+	culture = old_frankish
+}
+1044121 = {
+	name="Hucberting"
+	culture = old_frankish
+}
+1044122 = {
+	name="Vit"
+	culture = croatian
+}
+1044123 = {
+	name="Lanik"
+	culture = croatian
+}
+10290901 = {
+	name="Thanjavur Mutharaiyar"
+	culture = tamil
+}
+10290902 = {
+	name="Udayagiri Mutharaiyar"
+	culture = tamil
+}
+10290903 = {
+	name="Simhapuri Mutharaiyar"
+	culture = tamil
+}
+10290900 = {
+	name="Ay"
+	culture = tamil
+}
+1040223 = {
+	name="Ingeri"
+	culture = ugricbaltic
+}
+1040224 = {
+	name="Livo"
+	culture = ugricbaltic
+}
+1040225 = {
+	name="Harjumaa"
+	culture = ugricbaltic
+}
+1040226 = {
+	name="Virumaa"
+	culture = ugricbaltic
+}
+1040227 = {
+	name="Ridala"
+	culture = ugricbaltic
+}
+1040228 = {
+	name="Saaremaa"
+	culture = ugricbaltic
+}
+1040229 = {
+	name="Ugandi"
+	culture = lettigallish
+}
+1040230 = {
+	name="Vaiga"
+	culture = ugricbaltic
+}
+1040231 = {
+	name="Turaida"
+	culture = ugricbaltic
+}
+10290904 = {
+	name="Leon"
+	culture = breton
+}
+1047018 = {
+	name="Ternyllwg" # Mathrafal
+	culture = welsh
+}
+1047019 = {
+	name="Arllechwydd" # Seisyll
+	culture = welsh
+}
+1047020 = {
+	name="Manceinion" #
+	culture = welsh
+}
+1044398 = {
+	name= "Sinda" #Sindas of Karhad, dates before 965 unkown.
+	culture = marathi
+}
+1044399 = {
+	name= "Bana" #Banas of Perumbanappadi
+	culture = kannada
+}
+1044400 = {
+	name= "Vaidumba" 
+	culture = kannada
+}
+1044401 = {
+	name= "Vemulavada Chalukya" 
+	culture = kannada
+}
+1044402 = {
+	name= "Sendraka" 
+	culture = kannada
+}
+1042185 = {
+	name="Karlukid"
+	culture = karluk
+}
+
+1042186 = {
+	name="Chigil"
+	culture = karluk
+}
+
+1042187 = {
+	name="Yagma"
+	culture = karluk
+}
+
+1042188 = {
+	name="Sogdian"
+	culture = persian
+}
+
+1042189 = {
+	name="Karakhanid"
+	culture = karluk
+}
+
+1042190 = {
+	name="Uyghurid"
+	culture = kirghiz # uyghur
+}
+
+1042191 = {
+	name="Sibiri"
+	culture = khanty
+}
+
+1042192 = {
+	name="Narima"
+	culture = khanty
+}
+
+1042193 = {
+	name="Mansi"
+	culture = khanty
+}
+
+1042194 = {
+	name="Khantys"
+	culture = khanty
+}
+
+1042195 = {
+	name="Kipchaki"
+	culture = cuman
+}
+
+1042196 = {
+	name="Zyri"
+	culture = mordvin
+}
+
+1042197 = {
+	name="Turai"
+	culture = cuman
+}
+
+1042198 = {
+	name="Kayi"
+	culture = turkish
+}
+
+1042199 = {
+	name="Bozok"
+	culture = turkish
+}
+
+214000 = {
+	name="Ucok"
+	culture = turkish
+}
+
+214001 = {
+	name="Tartan"
+	culture = turkish
+}
+
+214002 = {
+	name="Kyzilid"
+	culture = turkish
+}
+
+214003 = {
+	name="Hasanid"
+	culture = karluk
+}
+
+1045002 = {
+	name="Vidfamne"
+	culture = norse
+	used_for_random = no
+}
+1045003 = {
+	name = "Nuoráne"
+	culture = lappish
+}
+1045004 = {
+	name = "Gájka"
+	culture = lappish
+}
+1045005 = {
+	name = "Kaise"
+	culture = lappish
+}
+1045006 = {
+	name = "Saiva"
+	culture = lappish
+}
+1045007 = {
+	name = "Keite"
+	culture = lappish
+}
+1045008 = {
+	name = "av Island"
+	culture = norse
+}
+1045009 = {
+	name = "Drake"
+	culture = norse
+}
+1045010 = {
+	name = "av Hafrsfjord"
+	culture = norse
+}
+1045011 = {
+	name = "Ytra"
+	culture = norse
+}
+1045012 = {
+	name = "av Askø"
+	culture = norse
+}
+1045013 = {
+	name = "Koss"
+	culture = norse
+}
+1045014 = {
+	name = "av Røra"
+	culture = norse
+}
+1045015 = {
+	name = "av Nordland"
+	culture = norse
+}
+1045016 = {
+	name = "Hylling"
+	culture = norse
+}
+1045017 = {
+	name = "Alfr"
+	culture = norse
+}
+1045018 = {
+	name = "Herja"
+	culture = norse
+}
+1045019 = {
+	name = "Vansö"
+	culture = norse
+}
+1045020 = {
+	name = "Flod"
+	culture = norse
+}
+1045021 = {
+	name = "af Vendel"
+	culture = norse
+}
+1045022 = {
+	name = "av Alfheim"
+	culture = norse
+}
+1045023 = {
+	name = "af Åland"
+	culture = norse
+}
+1047006 = {
+	name="Cerdicing" # of Wessex
+	culture = saxon
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
+}
+1047011 = {
+	name="Oswalding" # of Hwicce
+	culture = saxon
+}
+1047012 = {
+	name="Offing" # of Essex
+	culture = saxon
+	coat_of_arms=
+	{
+		data=
+		{
+			0 2 0 43 3 1 5
+		}
+		religion=orthodox
+	}
+}
+1047008 = {
+	name="Ingving" # of Bernicia
+	culture = saxon
+}
+1047009 = {
+	name="Yffing" # of Deira
+	culture = saxon
+}
+1047010 = {
+	name="Æthelfrithing" # of Northumbria
+	culture = saxon
+}
+
+1047021 = {
+	name="Leodwalding" #
+	culture = saxon
+}
+1047022 = {
+	name="Eadwulfing" #
+	culture = saxon
+}
+1047023 = {
+	name="Eadricing" #
+	culture = saxon
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+
+
+}
+1047013 = {
+	name="Godhelming" # of Surrey
+	culture = saxon
+}
+1047014 = {
+	name="Beorming" # of Birmingham
+	culture = saxon
+}
+1047015 = {
+	name="Eorling" # of Gloucester
+	culture = saxon
+}
+1047016 = {
+	name="Æbbing" # of Oxfordshire
+	culture = saxon
+}
+1047017 = {
+	name="Hæsting" # of Hastings
+	culture = saxon
+}
+1047007 = {
+	name="Ælling" # of Sussex
+	culture = saxon
+}
+1040223 = {
+	name="Ingeri"
+	culture = ugricbaltic
+}
+1044092 = {
+	name="Anniona"
+	culture = german
+}
+1044093 = {
+	name="Fagana"
+	culture = german
+}
+1044094 = {
+	name="Hahilinga"
+	culture = german
+}
+1044095 = {
+	name="Huosi"
+	culture = german
+}
+1044096 = {
+	name="Trozza"
+	culture = german
+}
+1045024 = {
+	name = "Turov"
+	culture = russian
+}
+1045025 = {
+	name = "Kardazid"
+	culture = mordvin
+}
+1045026 = {
+	name = "Varakid"
+	culture = mordvin
+}
+1045027 = {
+	name = "Inzhayid"
+	culture = mordvin
+}
+1045028 = {
+	name = "de Friesland"
+	culture = dutch
+}
+1045029 = {
+	name = "Letourneau"
+	culture = norman
+}
+
