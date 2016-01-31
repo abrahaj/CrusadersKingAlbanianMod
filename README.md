@@ -37,12 +37,12 @@ Under the section Latin I added the following:
   			Amantin Amat Aranit Arben Arbenor Arber Arberesh Arberor Arbi Arbian Arbor Ardit Ardian Argjel Argjend Argjendor Arianit Aril Arion Arlind Armir Artar Artas Artian Asdrea 
   			Astrit Adrian Arber Armant Bardh Bardyl Bato Bekim Bindi Bud Bushat Komin Dardan Dede Dimiter Doda Dukagjin Engjell Faton Gent Gjergj Gjin Gjon Gjon-Leke Gjonja Grgur Gulam 
   			Guxim Hekuran Ilija Karl Koll Marin Nikoll Kosta Konstandin Kristofor Kujtim Lale Leke Llesh Lul Lulezim Lum Marin Marka Martin Mehill Mentuli Mik Miri Moisi Muriq Muzak
-  			Naum Nderim Ndue Ndre Pal Paulin Pavle Pirro Pjet Prenk Progon Reposh Shqiptar Shtjefen Simon Strazimir Tanush Teodor Timomir Uke Uran Vango Viktor Vlash Xhan Zeshkan
+  			Naum Nderim Ndue Ndre Pal Paulin Pavle Pirro Pjet Prenk Progon Reposh Shqiptar Shtjefen Simon Strazimir Tanush Teodor Timomir Uke Uran Vango Viktor Vlash Xhan Zeshkan  Lind Glauk Blend Diell Agon Mal Shkamb Detjon Det Ador Noar Dren Gentrit Liam Dion Lis Lorik Herolind Art Driton Valmir Valdrin Blin Glend Priam Glor Edon Drinor Rubin Amos Dionis Parid Kurt
   		}
   		female_names = {
   			Aferdita Angjelina Derra Diana Donika Drita Fane Fanushe Fluter Hana Komita Lule Majmire Mamice Mara Marena Maria Meri Mrika Pranvera Prenne Rugina Shqipe Teodora Teuta 
   			Vlajka Vojsava Yela Zana Zoje Bajame Bajuke Ballargjenda Baluke Bardha Bardhyle Baresha Bata Batona Begatia Begatime Begatore Belina Besa Besara Besarta Besforta Besiana 
-  			Besime Besmira Besnike Betare Betime Bjeshka Bjeshkana Bleroshe Blerta Bora Borake Bujare Bujaresha
+  			Besime Besmira Besnike Betare Betime Bjeshka Bjeshkana Bleroshe Blerta Bora Borake Bujare Bujaresha Dea Linda Blenda Diella
   		}
   		
   		from_dynasty_prefix = "prej "
