@@ -271,7 +271,50 @@ Open the file _/common/dynasties/00\_dynasties.txt_ and change the following dyn
     	name="Kastriotis"
     	culture = albanian
     }
-    
+    18004=
+    {
+	    name="Balsic"
+	    culture="albanian"
+	    religion="orthodox"
+    }
+    102029=
+    {
+	    name="Vrana"
+	    culture="albanian"
+	    religion="orthodox"
+    }
+    171=
+    {
+	    name="Komnenos"
+	    culture="albanian"
+    }
+    634=
+    {
+	    name="Komnenos"
+	    culture="albanian"
+		   religion="orthodox"
+		   coat_of_arms=
+		   {
+			   data=
+			   {
+	    0 3 0 26 0 0 0 			}
+			   religion="catholic"
+		   }
+		   used_for_random=no
+	    }
+    8641=
+    {
+	    name="Ouranos"
+	    culture="albanian"
+	    religion="orthodox"
+	    coat_of_arms=
+	    {
+		    data=
+		    {
+    0 2 0 1 0 3 1 			}
+		    religion="orthodox"
+	    }
+    }
 I am sure there are other Albanian dynasties "mistaken" by Paradox to be other nationalities, please feel free to check the page and let me know, or do a pull request.
 
 ## TODOs
