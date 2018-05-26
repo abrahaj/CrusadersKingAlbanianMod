@@ -1,10 +1,11 @@
 1=
 {
-	name="G√•rdske"
+	name="GÂrdske"
 	culture="swedish"
 }
 2=
 {
+	used_for_random=no
 	name="Orsini"
 	culture="italian"
 	religion="catholic"
@@ -34,7 +35,7 @@
 }
 5=
 {
-	name="K√¢raw√¢n"
+	name="K‚raw‚n"
 	culture="persian"
 }
 6=
@@ -139,7 +140,7 @@
 }
 20=
 {
-	name="von R√ºgen"
+	name="von R¸gen"
 	culture="german"
 }
 21=
@@ -195,7 +196,7 @@
 }
 31=
 {
-	name="Al≈°eni≈°kis"
+	name="Alöeniökis"
 	culture="lithuanian"
 }
 32=
@@ -423,7 +424,7 @@
 }
 56=
 {
-	name="von K√§rnten"
+	name="von K‰rnten"
 	culture="german"
 }
 57=
@@ -536,7 +537,7 @@
 }
 74=
 {
-	name="d'Enten√ßa"
+	name="d'EntenÁa"
 	culture="catalan"
 	religion="catholic"
 	coat_of_arms=
@@ -562,7 +563,7 @@
 }
 76=
 {
-	name="N√∫√±ez"
+	name="N˙Òez"
 	culture="castillan"
 }
 77=
@@ -623,7 +624,7 @@
 }
 83=
 {
-	name="de Ch√¢tillion"
+	name="de Ch‚tillion"
 	culture="frankish"
 }
 84=
@@ -732,7 +733,7 @@
 }
 98=
 {
-	name="de P√©rigord"
+	name="de PÈrigord"
 	culture="occitan"
 	religion="catholic"
 	coat_of_arms=
@@ -847,7 +848,7 @@
 }
 110=
 {
-	name="von R√ºgen"
+	name="von R¸gen"
 	culture="german"
 }
 111=
@@ -981,7 +982,7 @@
 }
 131=
 {
-	name="B√•√•t"
+	name="BÂÂt"
 	culture="swedish"
 	religion="catholic"
 }
@@ -1023,7 +1024,7 @@
 }
 138=
 {
-	name="F√§rla"
+	name="F‰rla"
 	culture="swedish"
 	religion="catholic"
 }
@@ -1059,13 +1060,13 @@
 }
 143=
 {
-	name="af Ulv√•sa"
+	name="af UlvÂsa"
 	culture="swedish"
 	religion="catholic"
 }
 144=
 {
-	name="Sj√∂blad"
+	name="Sjˆblad"
 	culture="swedish"
 	religion="catholic"
 }
@@ -1082,7 +1083,7 @@
 }
 147=
 {
-	name="Bl√•"
+	name="BlÂ"
 	culture="swedish"
 	religion="catholic"
 }
@@ -1129,7 +1130,7 @@
 }
 155=
 {
-	name="af Bj√§lbo"
+	name="af Bj‰lbo"
 	culture="swedish"
 	religion="catholic"
 	coat_of_arms=
@@ -1176,7 +1177,7 @@
 }
 162=
 {
-	name="d'√âolienne"
+	name="d'…olienne"
 	culture="frankish"
 }
 163=
@@ -1226,7 +1227,7 @@
 171=
 {
 	name="Komnenos"
-	culture="greek"
+	culture="albanian"
 }
 172=
 {
@@ -1286,7 +1287,7 @@
 }
 182=
 {
-	name="√Årp√°dy"
+	name="¡rp·dy"
 	culture="hungarian"
 }
 183=
@@ -1401,7 +1402,7 @@
 }
 199=
 {
-	name="Ua N√©ill No√≠giallaich"
+	name="Ua NÈill NoÌgiallaich"
 	culture="irish"
 	religion="pagan"
 	coat_of_arms=
@@ -1611,7 +1612,7 @@
 }
 227=
 {
-	name="von Th√ºringen"
+	name="von Th¸ringen"
 	culture="german"
 	religion="catholic"
 	coat_of_arms=
@@ -1636,7 +1637,7 @@
 }
 230=
 {
-	name="von √ñsterreich"
+	name="von ÷sterreich"
 	culture="german"
 }
 231=
@@ -1773,7 +1774,7 @@
 }
 249=
 {
-	name="Jankovsk√Ω z Vla≈°imi"
+	name="Jankovsk˝ z Vlaöimi"
 	culture="bohemian"
 }
 250=
@@ -1835,18 +1836,18 @@
 }
 259=
 {
-	name="von W√ºrttemberg"
+	name="von W¸rttemberg"
 	culture="german"
 }
 260=
 {
-	name="von T√ºbingen"
+	name="von T¸bingen"
 	culture="german"
 	religion="catholic"
 }
 261=
 {
-	name="von Z√§hringen"
+	name="von Z‰hringen"
 	culture="german"
 	religion="catholic"
 	coat_of_arms=
@@ -1897,12 +1898,12 @@
 }
 269=
 {
-	name="d'Arag√≥"
+	name="d'AragÛ"
 	culture="catalan"
 }
 270=
 {
-	name="Foga√ßa"
+	name="FogaÁa"
 	culture="portuguese"
 }
 271=
@@ -1912,7 +1913,7 @@
 }
 272=
 {
-	name="de Bragan√ßa"
+	name="de BraganÁa"
 	culture="portuguese"
 	religion="catholic"
 	coat_of_arms=
@@ -1984,7 +1985,7 @@
 }
 281=
 {
-	name="de Bourgogne-Comt√©"
+	name="de Bourgogne-ComtÈ"
 	culture="frankish"
 }
 282=
@@ -2001,13 +2002,13 @@
 }
 284=
 {
-	name="von N√∂rvenich"
+	name="von Nˆrvenich"
 	culture="german"
 	religion="catholic"
 }
 285=
 {
-	name="von J√ºlich"
+	name="von J¸lich"
 	culture="german"
 	religion="catholic"
 	coat_of_arms=
@@ -2166,7 +2167,7 @@
 }
 310=
 {
-	name="de Vitr√©"
+	name="de VitrÈ"
 	culture="breton"
 	religion="catholic"
 }
@@ -2198,7 +2199,7 @@
 }
 313=
 {
-	name="de Porho√´t"
+	name="de PorhoÎt"
 	culture="breton"
 	religion="catholic"
 }
@@ -2222,7 +2223,7 @@
 }
 317=
 {
-	name="de Penthi√®vre"
+	name="de PenthiËvre"
 	culture="frankish"
 	religion="catholic"
 	coat_of_arms=
@@ -2235,7 +2236,7 @@
 }
 318=
 {
-	name="de Ch√¢tellerault"
+	name="de Ch‚tellerault"
 	culture="occitan"
 	religion="catholic"
 }
@@ -2266,7 +2267,7 @@
 }
 322=
 {
-	name="de M√©ziriac"
+	name="de MÈziriac"
 	culture="frankish"
 	religion="catholic"
 }
@@ -2290,7 +2291,7 @@
 }
 326=
 {
-	name="de Br√©z√©"
+	name="de BrÈzÈ"
 	culture="norman"
 }
 328=
@@ -2319,7 +2320,7 @@
 }
 330=
 {
-	name="d'Angoul√™me"
+	name="d'AngoulÍme"
 	culture="frankish"
 }
 331=
@@ -2358,7 +2359,7 @@
 }
 337=
 {
-	name="de B√©arn"
+	name="de BÈarn"
 	culture="occitan"
 	religion="catholic"
 }
@@ -2689,7 +2690,7 @@
 }
 387=
 {
-	name="de Llu√ß√†"
+	name="de LluÁ‡"
 	culture="catalan"
 }
 388=
@@ -2712,7 +2713,7 @@
 }
 390=
 {
-	name="de Acu√±a"
+	name="de AcuÒa"
 	culture="castillan"
 }
 391=
@@ -2722,13 +2723,13 @@
 }
 392=
 {
-	name="de Rocabert√≠"
+	name="de RocabertÌ"
 	culture="catalan"
 	religion="catholic"
 }
 393=
 {
-	name="d'Emp√∫ries"
+	name="d'Emp˙ries"
 	culture="catalan"
 	religion="catholic"
 	coat_of_arms=
@@ -2764,7 +2765,7 @@
 }
 397=
 {
-	name="Ram√≠rez"
+	name="RamÌrez"
 	culture="castillan"
 }
 398=
@@ -2814,7 +2815,7 @@
 }
 405=
 {
-	name="Ans√∫rez"
+	name="Ans˙rez"
 	culture="visigothic"
 	religion="catholic"
 	coat_of_arms=
@@ -2858,7 +2859,7 @@
 }
 412=
 {
-	name="d'√Åvalos"
+	name="d'¡valos"
 	culture="basque"
 }
 413=
@@ -3020,7 +3021,7 @@
 }
 436=
 {
-	name="de Le√≥n"
+	name="de LeÛn"
 	culture="castillan"
 	religion="catholic"
 	coat_of_arms=
@@ -3039,7 +3040,7 @@
 }
 438=
 {
-	name="de Baz√°n"
+	name="de Baz·n"
 	culture="basque"
 }
 439=
@@ -3050,7 +3051,7 @@
 }
 440=
 {
-	name="de N√°jera"
+	name="de N·jera"
 	culture="basque"
 }
 441=
@@ -3130,7 +3131,7 @@
 }
 449=
 {
-	name="Korm√°kur"
+	name="Korm·kur"
 	culture="norwegian"
 }
 450=
@@ -3170,7 +3171,7 @@
 }
 455=
 {
-	name="Hagal√≠n"
+	name="HagalÌn"
 	culture="norwegian"
 	religion="catholic"
 	coat_of_arms=
@@ -3183,17 +3184,17 @@
 }
 456=
 {
-	name="Eldj√°rn"
+	name="Eldj·rn"
 	culture="norwegian"
 }
 457=
 {
-	name="Mj√∏ll"
+	name="Mj¯ll"
 	culture="norwegian"
 }
 458=
 {
-	name="N√≥tt"
+	name="NÛtt"
 	culture="norwegian"
 }
 459=
@@ -3223,7 +3224,7 @@
 }
 462=
 {
-	name="Bl√∏ndal"
+	name="Bl¯ndal"
 	culture="norwegian"
 }
 463=
@@ -3238,12 +3239,12 @@
 }
 465=
 {
-	name="Gr√∏nske"
+	name="Gr¯nske"
 	culture="norwegian"
 }
 466=
 {
-	name="√ìmar"
+	name="”mar"
 	culture="norwegian"
 	religion="catholic"
 }
@@ -3254,13 +3255,13 @@
 }
 468=
 {
-	name="Tr√¶tte"
+	name="TrÊtte"
 	culture="norwegian"
 	religion="catholic"
 }
 469=
 {
-	name="Kj√¶rnested"
+	name="KjÊrnested"
 	culture="norwegian"
 }
 470=
@@ -3277,7 +3278,7 @@
 }
 472=
 {
-	name="Bj√∏rk"
+	name="Bj¯rk"
 	culture="norwegian"
 }
 473=
@@ -3298,7 +3299,7 @@
 }
 476=
 {
-	name="√ìsk"
+	name="”sk"
 	culture="norwegian"
 	religion="catholic"
 }
@@ -3310,7 +3311,7 @@
 }
 478=
 {
-	name="√Åsbrning"
+	name="¡sbrning"
 	culture="norwegian"
 }
 479=
@@ -3354,12 +3355,12 @@
 }
 485=
 {
-	name="Sv√≠nfelling"
+	name="SvÌnfelling"
 	culture="danish"
 }
 486=
 {
-	name="Vatnsfir√∞ing"
+	name="Vatnsfiring"
 	culture="danish"
 }
 487=
@@ -3426,7 +3427,7 @@
 }
 494=
 {
-	name="af Akeb√§ck"
+	name="af Akeb‰ck"
 	culture="swedish"
 	religion="catholic"
 }
@@ -3513,7 +3514,7 @@
 }
 502=
 {
-	name="af Muns√∂"
+	name="af Munsˆ"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -3537,7 +3538,7 @@
 }
 505=
 {
-	name="Cs√°sz√°r"
+	name="Cs·sz·r"
 	culture="hungarian"
 }
 506=
@@ -3572,7 +3573,6 @@
 {
 	name="Kastriotis"
 	culture="albanian"
-	religion="catholic"
 }
 509=
 {
@@ -3757,7 +3757,7 @@
 }
 535=
 {
-	name="de Ch√¢tillon"
+	name="de Ch‚tillon"
 	culture="norman"
 }
 536=
@@ -3800,11 +3800,11 @@
 		religion="catholic"
 	}
 }
-542=
-{
+542={
 	name="de Merohingi"
 	culture="frankish"
-	religion="norse_pagan"
+	coat_of_arms={ data={ 0 2 0 41 0 3 3 } 
+	religion="catholic" }
 }
 543=
 {
@@ -3963,7 +3963,7 @@
 }
 564=
 {
-	name="de Jumi√®ges"
+	name="de JumiËges"
 	culture="norman"
 }
 565=
@@ -4158,12 +4158,6 @@
 		religion="shiite"
 	}
 }
-590=
-{
-	name="Sulaihid"
-	culture="levantine_arabic"
-	religion="shiite"
-}
 591=
 {
 	name="Dulo"
@@ -4230,7 +4224,7 @@
 {
 	name="Umayyad"
 	culture="egyptian_arabic"
-	religion="pagan"
+	religion="sunni"
 	coat_of_arms=
 	{
 		data=
@@ -4526,7 +4520,7 @@
 634=
 {
 	name="Komnenos"
-	culture="greek"
+	culture="albanian"
 	religion="orthodox"
 	coat_of_arms=
 	{
@@ -4656,7 +4650,7 @@
 }
 648=
 {
-	name="von Z√§hringen"
+	name="von Z‰hringen"
 	culture="german"
 }
 649=
@@ -4954,7 +4948,7 @@
 }
 683=
 {
-	name="Men√©ndez"
+	name="MenÈndez"
 	culture="castillan"
 }
 684=
@@ -4977,7 +4971,7 @@
 }
 687=
 {
-	name="a D√∫in Chaillden"
+	name="a D˙in Chaillden"
 	culture="scottish"
 }
 686=
@@ -5001,19 +4995,19 @@
 }
 689=
 {
-	name="Mac E√≥in Duib"
+	name="Mac EÛin Duib"
 	culture="scottish"
 	religion="catholic"
 }
 690=
 {
-	name="Ua F√°el√°in"
+	name="Ua F·el·in"
 	culture="irish"
 	religion="catholic"
 }
 691=
 {
-	name="Ua N√©ill M√≥ir"
+	name="Ua NÈill MÛir"
 	culture="irish"
 }
 692=
@@ -5024,7 +5018,7 @@
 }
 693=
 {
-	name="Mac M√°il na mB√≥"
+	name="Mac M·il na mBÛ"
 	culture="irish"
 	religion="catholic"
 }
@@ -5049,7 +5043,7 @@
 }
 696=
 {
-	name="Mac Cenn√©tig"
+	name="Mac CennÈtig"
 	culture="scottish"
 }
 697=
@@ -5141,7 +5135,7 @@
 }
 708=
 {
-	name="√Årp√°d"
+	name="¡rp·d"
 	culture="hungarian"
 	religion="tengri_pagan"
 	coat_of_arms=
@@ -5384,7 +5378,7 @@
 }
 742=
 {
-	name="de S√©mur-en-Brionnais"
+	name="de SÈmur-en-Brionnais"
 	culture="frankish"
 	religion="catholic"
 }
@@ -5498,7 +5492,7 @@
 }
 757=
 {
-	name="√Ütheling"
+	name="∆theling"
 	culture="saxon"
 }
 758=
@@ -5508,7 +5502,7 @@
 }
 759=
 {
-	name="Roth√©n"
+	name="RothÈn"
 	culture="swedish"
 }
 760=
@@ -5526,7 +5520,7 @@
 }
 761=
 {
-	name="L√§ma"
+	name="L‰ma"
 	culture="swedish"
 	religion="catholic"
 }
@@ -5629,7 +5623,7 @@
 }
 774=
 {
-	name="de Trast√°mara"
+	name="de Trast·mara"
 	culture="castillan"
 	religion="catholic"
 	coat_of_arms=
@@ -5673,7 +5667,7 @@
 }
 779=
 {
-	name="de Val√®ncia"
+	name="de ValËncia"
 	culture="catalan"
 	religion="catholic"
 }
@@ -5684,7 +5678,7 @@
 }
 781=
 {
-	name="de Casta√±eda"
+	name="de CastaÒeda"
 	culture="castillan"
 	religion="catholic"
 }
@@ -5712,17 +5706,17 @@
 }
 786=
 {
-	name="√Ålvarez de Azagra"
+	name="¡lvarez de Azagra"
 	culture="castillan"
 }
 787=
 {
-	name="d'Arag√≥"
+	name="d'AragÛ"
 	culture="catalan"
 }
 788=
 {
-	name="de Arag√≥n"
+	name="de AragÛn"
 	culture="basque"
 	religion="catholic"
 	coat_of_arms=
@@ -5818,12 +5812,12 @@
 }
 801=
 {
-	name="Dj√§kn"
+	name="Dj‰kn"
 	culture="swedish"
 }
 802=
 {
-	name="Sv√§rd"
+	name="Sv‰rd"
 	culture="swedish"
 }
 803=
@@ -6006,7 +6000,7 @@
 }
 819=
 {
-	name="D√°l Fiatach"
+	name="D·l Fiatach"
 	culture="irish"
 	religion="pagan"
 	coat_of_arms=
@@ -6058,7 +6052,7 @@
 }
 823=
 {
-	name="V√§se"
+	name="V‰se"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -6097,12 +6091,12 @@
 }
 826=
 {
-	name="St√≥rr"
+	name="StÛrr"
 	culture="norse"
 }
 827=
 {
-	name="V√§rending"
+	name="V‰rending"
 	culture="swedish"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -6464,7 +6458,7 @@
 }
 866=
 {
-	name="Lugma√Ør"
+	name="LugmaÔr"
 	culture="swedish"
 	religion="finnish_pagan"
 	used_for_random=no
@@ -6493,6 +6487,14 @@
 	name="Tisander"
 	culture="german"
 	religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 1 26 9 1 11 7 4 0 7 1 7 7
+		}
+		religion="catholic"
+	}
 	used_for_random=no
 }
 871=
@@ -6504,9 +6506,16 @@
 }
 872=
 {
-	name="S√•lder"
+	name="SÂlder"
 	culture="norse"
 	religion="norse_pagan"
+	coat_of_arms=
+	{
+		data=
+		{
+0 0 0 16 5 13 9 				}
+		religion="norse_pagan"
+	}
 	used_for_random=no
 }
 873=
@@ -6536,10 +6545,17 @@
 	culture="swedish"
 	religion="buddhist"
 	used_for_random=no
+	coat_of_arms=
+	{
+		data={
+			0 0 0 7 0 7 1     
+		}
+		religion = buddhist
+	}
 }
 876=
 {
-	name="Sj√∂berg"
+	name="Sjˆberg"
 	culture="swedish"
 	religion="catholic"
 	used_for_random=no
@@ -6593,6 +6609,202 @@
 	}
 	used_for_random=no
 }
+883={
+	name="Nieminen"
+	culture=finnish
+	religion=finnish_pagan
+	coat_of_arms =
+	{
+		data =
+		{
+			0 2 0 3 14 11 5 
+		}
+		religion = finnish_pagan
+	}
+	used_for_random = no
+}
+884={
+	name="Tranvouez"
+	culture=breton
+	religion=catholic
+	coat_of_arms=
+	{
+		data={0 1 17 15 7 1 2 1 14 15 3 4 6 7 0 19 0 0 0 7 0 19 0 0 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+885={
+	name="Frary"
+	culture=saxon
+	religion=catholic
+	coat_of_arms=
+	{
+		data={0 0 10 39 5 5 3 0 0 22 0 3 3 0 0 23 2 3 3 0 0 22 2 3 3}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+886={
+	name="Norberg"
+	culture=swedish
+	religion=catholic
+	coat_of_arms=
+	{
+		data={0 4 0 35 14 1 9 1 0 12 6 1 9}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+887={
+	name="Clohessy"
+	culture=saxon
+	religion=catholic
+	coat_of_arms=
+	{
+		data={2 2 0 13 0 3 3 2 0 13 1 3 3 2 0 13 1 3 3 2 0 13 1 3 3}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+888={
+	name="Maciejewski"
+	culture="polish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={0 0 1 47 0 3 2 7 3 49 0 0 0 7 0 49 0 0 0 7 0 49 0 0 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+889={
+	name="Urban"
+	culture="polish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={1 0 9 2 5 5 0 1 6 10 3 1 14 0 24 2 3 2 3 7 0 49 0 0 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+890={
+	name="Starosz"
+	culture="polish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={3 0 4 10 5 7 5 0 21 28 7 5 5 0 21 10 5 7 5 0 4 28 7 5 5}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+891={
+	name="Szczepanczyk"
+	culture="polish"
+	religion="slavic_pagan"
+	coat_of_arms=
+	{
+		data={0 0 0 15 7 5 5}
+		religion="slavic_pagan"
+	}
+	used_for_random = no
+}
+892={
+	name="Jankowski"
+	culture="polish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={0 0 4 9 5 1 5}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+893={
+	name="Nowak"
+	culture="polish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={1 4 0 20 9 1 2 0 2 1 0 7 0 0 0 4 0 0 0 0 0 4 0 0 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+894={
+	name="Rudolf"
+	culture="polish"
+	religion="slavic_pagan"
+	coat_of_arms=
+	{
+		data={0 1 0 2 3 5 5}
+		religion="slavic_pagan"
+	}
+	used_for_random = no
+}
+895={
+	name="NÌ Rhodan"
+	culture="irish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={4 0 7 21 1 2 1 0 7 21 1 2 1 0 19 21 1 2 1 0 0 6 3 1 1}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+896={
+	name="Hallberg"
+	culture="swedish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={0 4 0 43 1 2 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+897={
+	name="Moore"
+	culture="saxon"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={0 0 1 1 2 2 0 3 0 45 0 0 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+898={
+	name="Mac Ilwham"
+	culture="scottish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={1 4 0 10 1 5 0 4 0 10 3 5 0 4 0 0 1 5 0 4 0 0 1 5 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+899={
+	name="Borg"
+	culture="swedish"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data={0 0 5 27 0 5 5 0 0 2 0 0 0}
+		religion="catholic"
+	}
+	used_for_random = no
+}
+901={
+	name="Majek"
+	culture="polish"
+	religion="slavic_pagan"
+	used_for_random = no
+}
 1002=
 {
 	name="Banner"
@@ -6630,7 +6842,7 @@
 }
 1010=
 {
-	name="af F√•n√∂"
+	name="af FÂnˆ"
 	culture="swedish"
 }
 1011=
@@ -6660,12 +6872,12 @@
 }
 1016=
 {
-	name="af H√•lbon√§s"
+	name="af HÂlbon‰s"
 	culture="swedish"
 }
 1017=
 {
-	name="H√§sthuvud"
+	name="H‰sthuvud"
 	culture="swedish"
 }
 1018=
@@ -6822,12 +7034,12 @@
 }
 1047=
 {
-	name="H√§stesko"
+	name="H‰stesko"
 	culture="swedish"
 }
 1048=
 {
-	name="√ñrnsparre"
+	name="÷rnsparre"
 	culture="swedish"
 }
 1049=
@@ -6837,7 +7049,7 @@
 }
 1050=
 {
-	name="L√§ma"
+	name="L‰ma"
 	culture="swedish"
 }
 1052=
@@ -6896,7 +7108,7 @@
 }
 1059=
 {
-	name="H√¶steining"
+	name="HÊsteining"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -6916,7 +7128,7 @@
 }
 1144=
 {
-	name="Tre Sj√∂blad"
+	name="Tre Sjˆblad"
 	culture="swedish"
 }
 1150=
@@ -6963,7 +7175,7 @@
 }
 1159=
 {
-	name="Kr√°ka"
+	name="Kr·ka"
 	culture="norse"
 }
 1160=
@@ -6984,7 +7196,7 @@
 }
 1163=
 {
-	name="von M√∂lln"
+	name="von Mˆlln"
 	culture="german"
 }
 1164=
@@ -6994,7 +7206,7 @@
 }
 1165=
 {
-	name="Smi√∞r"
+	name="Smir"
 	culture="norse"
 }
 1166=
@@ -7005,12 +7217,12 @@
 }
 1167=
 {
-	name="M√∂ring"
+	name="Mˆring"
 	culture="norse"
 }
 1168=
 {
-	name="G√°rdske"
+	name="G·rdske"
 	culture="norse"
 }
 1169=
@@ -7030,7 +7242,7 @@
 }
 1172=
 {
-	name="H√°rde"
+	name="H·rde"
 	culture="norse"
 }
 1173=
@@ -7065,17 +7277,17 @@
 }
 1176=
 {
-	name="Go√∞i"
+	name="Goi"
 	culture="norse"
 }
 1177=
 {
-	name="Austma√∞r"
+	name="Austmar"
 	culture="norse"
 }
 1178=
 {
-	name="H√°vi"
+	name="H·vi"
 	culture="norse"
 }
 1179=
@@ -7117,12 +7329,12 @@
 }
 1186=
 {
-	name="S√∫rr"
+	name="S˙rr"
 	culture="norse"
 }
 1187=
 {
-	name="Sk√°ld"
+	name="Sk·ld"
 	culture="norse"
 }
 1188=
@@ -7132,27 +7344,27 @@
 }
 1189=
 {
-	name="√ûrymr"
+	name="ﬁrymr"
 	culture="norse"
 }
 1190=
 {
-	name="√ûvari"
+	name="ﬁvari"
 	culture="norse"
 }
 1191=
 {
-	name="√ñlf√∫ss"
+	name="÷lf˙ss"
 	culture="norse"
 }
 1192=
 {
-	name="√ñrn"
+	name="÷rn"
 	culture="norse"
 }
 1193=
 {
-	name="Hv√≠ti"
+	name="HvÌti"
 	culture="norse"
 	coat_of_arms=
 	{
@@ -7169,12 +7381,12 @@
 }
 1195=
 {
-	name="Au√∞gi"
+	name="Augi"
 	culture="norse"
 }
 1196=
 {
-	name="Rau√∞i"
+	name="Raui"
 	culture="norse"
 	coat_of_arms=
 	{
@@ -7253,12 +7465,12 @@
 }
 1209=
 {
-	name="Mj√≥vi"
+	name="MjÛvi"
 	culture="norse"
 }
 1210=
 {
-	name="R√≠ki"
+	name="RÌki"
 	culture="norse"
 }
 1211=
@@ -7273,7 +7485,7 @@
 }
 1213=
 {
-	name="Sk√°l"
+	name="Sk·l"
 	culture="norse"
 }
 1214=
@@ -7283,7 +7495,7 @@
 }
 1215=
 {
-	name="Smj√∂r"
+	name="Smjˆr"
 	culture="norse"
 }
 1216=
@@ -7293,22 +7505,22 @@
 }
 1217=
 {
-	name="Str√∫gr"
+	name="Str˙gr"
 	culture="norse"
 }
 1218=
 {
-	name="S√¶lendingr"
+	name="SÊlendingr"
 	culture="norse"
 }
 1219=
 {
-	name="S√∫rr"
+	name="S˙rr"
 	culture="norse"
 }
 1220=
 {
-	name="S√¶lingr"
+	name="SÊlingr"
 	culture="norse"
 }
 1221=
@@ -7318,32 +7530,32 @@
 }
 1222=
 {
-	name="Ve√∞r"
+	name="Ver"
 	culture="norse"
 }
 1223=
 {
-	name="V√°m√∫li"
+	name="V·m˙li"
 	culture="norse"
 }
 1224=
 {
-	name="V√¶ni"
+	name="VÊni"
 	culture="norse"
 }
 1225=
 {
-	name="√ûistill"
+	name="ﬁistill"
 	culture="norse"
 }
 1226=
 {
-	name="√ûj√≥fi"
+	name="ﬁjÛfi"
 	culture="norse"
 }
 1227=
 {
-	name="√ûynning"
+	name="ﬁynning"
 	culture="norse"
 }
 1687=
@@ -7387,7 +7599,7 @@
 }
 2005=
 {
-	name="Bjark√∏y"
+	name="Bjark¯y"
 	culture="norwegian"
 }
 2006=
@@ -7447,7 +7659,7 @@
 }
 2017=
 {
-	name="H√•rd"
+	name="HÂrd"
 	culture="norwegian"
 }
 2018=
@@ -7492,7 +7704,7 @@
 }
 2026=
 {
-	name="Sp√•nheim"
+	name="SpÂnheim"
 	culture="norwegian"
 }
 2027=
@@ -7517,12 +7729,12 @@
 }
 2031=
 {
-	name="√òstby"
+	name="ÿstby"
 	culture="norwegian"
 }
 2032=
 {
-	name="√òstr√•t"
+	name="ÿstrÂt"
 	culture="norwegian"
 }
 2033=
@@ -7583,7 +7795,7 @@
 }
 2044=
 {
-	name="R√∏mer"
+	name="R¯mer"
 	culture="norwegian"
 }
 2045=
@@ -7593,7 +7805,7 @@
 }
 2046=
 {
-	name="Sm√∏r"
+	name="Sm¯r"
 	culture="norwegian"
 }
 2047=
@@ -7623,7 +7835,7 @@
 }
 3100=
 {
-	name="Mac L√©oit"
+	name="Mac LÈoit"
 	culture="scottish"
 }
 3101=
@@ -7638,12 +7850,12 @@
 }
 3103=
 {
-	name="Mac N√©ill"
+	name="Mac NÈill"
 	culture="scottish"
 }
 3104=
 {
-	name="Mac √Åeda"
+	name="Mac ¡eda"
 	culture="scottish"
 	religion="catholic"
 }
@@ -7659,7 +7871,7 @@
 }
 3107=
 {
-	name="Mac Finnag√°in"
+	name="Mac Finnag·in"
 	culture="scottish"
 }
 3108=
@@ -7710,7 +7922,7 @@
 }
 3098=
 {
-	name="Sd√≠bard"
+	name="SdÌbard"
 	culture="scottish"
 }
 3097=
@@ -7816,7 +8028,8 @@
 {
 	name="Caimbeul"
 	culture="scottish"
-	religion="catholic"
+	coat_of_arms={ 	data={0 4 0 31 0 5 2 }
+					religion="catholic"	}
 }
 3129=
 {
@@ -7888,7 +8101,7 @@
 }
 3143=
 {
-	name="Mac √Åegusa"
+	name="Mac ¡egusa"
 	culture="scottish"
 }
 3145=
@@ -8181,7 +8394,7 @@
 }
 4045=
 {
-	name="Ua M√°il E√≥in"
+	name="Ua M·il EÛin"
 	culture="irish"
 	religion="catholic"
 }
@@ -8243,7 +8456,7 @@
 }
 5008=
 {
-	name="de L√©vis"
+	name="de LÈvis"
 	culture="frankish"
 	religion="catholic"
 }
@@ -8254,7 +8467,7 @@
 }
 5010=
 {
-	name="de Prunel√©"
+	name="de PrunelÈ"
 	culture="norman"
 }
 5011=
@@ -8295,7 +8508,7 @@
 }
 5018=
 {
-	name="de Pontev√®s"
+	name="de PontevËs"
 	culture="occitan"
 }
 5019=
@@ -8341,7 +8554,7 @@
 }
 5027=
 {
-	name="de Vogu√©"
+	name="de VoguÈ"
 	culture="frankish"
 	religion="catholic"
 }
@@ -8357,12 +8570,12 @@
 }
 5030=
 {
-	name="de Curi√®res"
+	name="de CuriËres"
 	culture="frankish"
 }
 5031=
 {
-	name="de L√©vezou"
+	name="de LÈvezou"
 	culture="occitan"
 }
 5032=
@@ -8428,12 +8641,12 @@
 }
 5045=
 {
-	name="de Pontch√¢teau"
+	name="de Pontch‚teau"
 	culture="frankish"
 }
 5046=
 {
-	name="de Vitr√©"
+	name="de VitrÈ"
 	culture="frankish"
 }
 5047=
@@ -8502,7 +8715,7 @@
 }
 5059=
 {
-	name="de Sabl√©"
+	name="de SablÈ"
 	culture="frankish"
 }
 5060=
@@ -8526,7 +8739,7 @@
 }
 5062=
 {
-	name="Cl√©ment"
+	name="ClÈment"
 	culture="frankish"
 }
 5063=
@@ -8656,7 +8869,7 @@
 }
 5086=
 {
-	name="de Saint-Val√©ry"
+	name="de Saint-ValÈry"
 	culture="frankish"
 }
 5087=
@@ -8671,7 +8884,7 @@
 }
 5089=
 {
-	name="de Grandpr√©"
+	name="de GrandprÈ"
 	culture="frankish"
 	religion="catholic"
 }
@@ -8731,7 +8944,7 @@
 }
 5097=
 {
-	name="de Maul√©on"
+	name="de MaulÈon"
 	culture="frankish"
 	religion="catholic"
 }
@@ -8978,7 +9191,7 @@
 }
 7003=
 {
-	name="Ponce de Le√≥n"
+	name="Ponce de LeÛn"
 	culture="castillan"
 	religion="catholic"
 }
@@ -8999,7 +9212,7 @@
 }
 7007=
 {
-	name="de C√≥rdoba"
+	name="de CÛrdoba"
 	culture="castillan"
 }
 7008=
@@ -9014,7 +9227,7 @@
 }
 7010=
 {
-	name="de Guzm√°n"
+	name="de Guzm·n"
 	culture="castillan"
 	religion="catholic"
 }
@@ -9039,12 +9252,12 @@
 }
 7013=
 {
-	name="de Nore√±a"
+	name="de NoreÒa"
 	culture="castillan"
 }
 7014=
 {
-	name="de Gij√≥n"
+	name="de GijÛn"
 	culture="castillan"
 }
 7015=
@@ -9054,17 +9267,17 @@
 }
 7016=
 {
-	name="de Z√∫√±iga"
+	name="de Z˙Òiga"
 	culture="basque"
 }
 7017=
 {
-	name="de C√°ceres"
+	name="de C·ceres"
 	culture="castillan"
 }
 7018=
 {
-	name="de Sol√≠s"
+	name="de SolÌs"
 	culture="castillan"
 }
 7019=
@@ -9075,7 +9288,7 @@
 }
 7020=
 {
-	name="de Qui√±ones"
+	name="de QuiÒones"
 	culture="castillan"
 	religion="catholic"
 }
@@ -9105,13 +9318,13 @@
 }
 7025=
 {
-	name="de Gir√≥n"
+	name="de GirÛn"
 	culture="castillan"
 	religion="catholic"
 }
 7026=
 {
-	name="de Mara√±√≥n"
+	name="de MaraÒÛn"
 	culture="castillan"
 	religion="catholic"
 }
@@ -9122,12 +9335,12 @@
 }
 7028=
 {
-	name="Barrag√°n"
+	name="Barrag·n"
 	culture="castillan"
 }
 7029=
 {
-	name="Mej√≠a"
+	name="MejÌa"
 	culture="castillan"
 }
 7030=
@@ -9137,7 +9350,7 @@
 }
 7031=
 {
-	name="de Villagarc√≠a"
+	name="de VillagarcÌa"
 	culture="castillan"
 }
 7032=
@@ -9164,33 +9377,33 @@
 }
 7036=
 {
-	name="de C√°rdenas"
+	name="de C·rdenas"
 	culture="castillan"
 	religion="catholic"
 }
 7037=
 {
-	name="Fern√°ndez"
+	name="Fern·ndez"
 	culture="castillan"
 }
 7038=
 {
-	name="P√©rez"
+	name="PÈrez"
 	culture="castillan"
 }
 7039=
 {
-	name="Ru√≠z"
+	name="RuÌz"
 	culture="castillan"
 }
 7040=
 {
-	name="L√≥pez"
+	name="LÛpez"
 	culture="castillan"
 }
 7041=
 {
-	name="D√≠az"
+	name="DÌaz"
 	culture="castillan"
 }
 7042=
@@ -9200,13 +9413,13 @@
 }
 7043=
 {
-	name="S√°nchez"
+	name="S·nchez"
 	culture="castillan"
 	religion="catholic"
 }
 7044=
 {
-	name="L√°inez"
+	name="L·inez"
 	culture="castillan"
 }
 7045=
@@ -9319,7 +9532,7 @@
 }
 7108=
 {
-	name="von K√∂ln"
+	name="von Kˆln"
 	culture="german"
 	religion="catholic"
 }
@@ -9337,7 +9550,7 @@
 }
 7111=
 {
-	name="von W√∂lpe"
+	name="von Wˆlpe"
 	culture="german"
 	religion="catholic"
 }
@@ -9391,7 +9604,7 @@
 }
 7120=
 {
-	name="von L√∂ningen"
+	name="von Lˆningen"
 	culture="german"
 	religion="catholic"
 }
@@ -9415,7 +9628,7 @@
 }
 7124=
 {
-	name="von R√ºssel"
+	name="von R¸ssel"
 	culture="german"
 	religion="catholic"
 }
@@ -9504,7 +9717,7 @@
 }
 7139=
 {
-	name="von W√ºllersleben"
+	name="von W¸llersleben"
 	culture="german"
 	religion="catholic"
 }
@@ -9582,7 +9795,7 @@
 }
 7152=
 {
-	name="de Fonti√®s"
+	name="de FontiËs"
 	culture="occitan"
 	religion="catholic"
 }
@@ -9624,7 +9837,7 @@
 }
 7159=
 {
-	name="von √ñsel"
+	name="von ÷sel"
 	culture="german"
 	religion="catholic"
 }
@@ -9671,7 +9884,7 @@
 }
 7167=
 {
-	name="von Lechsgm√ºnd"
+	name="von Lechsgm¸nd"
 	culture="german"
 }
 7168=
@@ -9986,6 +10199,7 @@
 }
 7215=
 {
+	used_for_random=no
 	name="Orsini"
 	culture="italian"
 	religion="catholic"
@@ -10058,7 +10272,7 @@
 }
 7227=
 {
-	name="de Rh√©ninghe"
+	name="de RhÈninghe"
 	culture="frankish"
 	religion="catholic"
 }
@@ -10186,7 +10400,7 @@
 }
 7249=
 {
-	name="d'Om√©las"
+	name="d'OmÈlas"
 	culture="occitan"
 	religion="catholic"
 }
@@ -10268,7 +10482,7 @@
 }
 7264=
 {
-	name="La Fert√©"
+	name="La FertÈ"
 	culture="frankish"
 }
 7265=
@@ -10471,7 +10685,7 @@
 }
 7284=
 {
-	name="von Gr√ºnberg"
+	name="von Gr¸nberg"
 	culture="german"
 	religion="catholic"
 }
@@ -10814,13 +11028,11 @@
 	name="Baduspanid"
 	culture="persian"
 	religion="shiite"
-	coat_of_arms=
-	{
-		data=
-		{
-0 0 0 33 2 0 12 			}
-		religion="shiite"
+	coat_of_arms={
+		data={0 0 0 2 8 11 1 }
+		religion="zoroastrian"
 	}
+	forced_coa_religiongroup="zoroastrian_group"
 }
 7333=
 {
@@ -11022,7 +11234,7 @@
 }
 7359=
 {
-	name="S√∂kmenid"
+	name="Sˆkmenid"
 	culture="turkish"
 	religion="sunni"
 }
@@ -11164,7 +11376,7 @@
 }
 7378=
 {
-	name="K√°n"
+	name="K·n"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -11222,7 +11434,7 @@
 }
 7505=
 {
-	name="Hatimid"
+	name="Banu Hatim"
 	culture="bedouin_arabic"
 	religion="shiite"
 }
@@ -11247,7 +11459,7 @@
 }
 7508=
 {
-	name="Mojm√≠rid"
+	name="MojmÌrid"
 	culture="bohemian"
 	religion="slavic_pagan"
 	coat_of_arms=
@@ -11404,7 +11616,7 @@
 }
 7700=
 {
-	name="de Ch√¢teaubriant"
+	name="de Ch‚teaubriant"
 	culture="breton"
 }
 8600=
@@ -11435,18 +11647,18 @@
 }
 8602=
 {
-	name="Guti√©rrez"
+	name="GutiÈrrez"
 	culture="castillan"
 }
 8603=
 {
-	name="Venig√≥mez"
+	name="VenigÛmez"
 	culture="castillan"
 	religion="catholic"
 }
 8604=
 {
-	name="de Li√©bana"
+	name="de LiÈbana"
 	culture="castillan"
 }
 8605=
@@ -11466,12 +11678,12 @@
 }
 8608=
 {
-	name="de Pe√±alba"
+	name="de PeÒalba"
 	culture="castillan"
 }
 8609=
 {
-	name="Mu√±oz"
+	name="MuÒoz"
 	culture="castillan"
 }
 8610=
@@ -11516,7 +11728,7 @@
 }
 8617=
 {
-	name="√ç√±iga"
+	name="ÕÒiga"
 	culture="basque"
 	religion="catholic"
 	coat_of_arms=
@@ -11529,13 +11741,13 @@
 }
 8618=
 {
-	name="Gundem√°riz"
+	name="Gundem·riz"
 	culture="visigothic"
 	religion="catholic"
 }
 8619=
 {
-	name="Pel√°ez"
+	name="Pel·ez"
 	culture="castillan"
 }
 8620=
@@ -11546,7 +11758,7 @@
 }
 8621=
 {
-	name="de Sahag√∫n"
+	name="de Sahag˙n"
 	culture="castillan"
 }
 8622=
@@ -11556,12 +11768,12 @@
 }
 8623=
 {
-	name="Rodr√≠guez"
+	name="RodrÌguez"
 	culture="castillan"
 }
 8624=
 {
-	name="Berm√∫dez"
+	name="Berm˙dez"
 	culture="castillan"
 }
 8625=
@@ -11679,7 +11891,7 @@
 8641=
 {
 	name="Ouranos"
-	culture="greek"
+	culture="albanian"
 	religion="orthodox"
 	coat_of_arms=
 	{
@@ -11968,7 +12180,7 @@
 }
 8685=
 {
-	name="de Alag√≥n"
+	name="de AlagÛn"
 	culture="castillan"
 	religion="catholic"
 }
@@ -12302,13 +12514,13 @@
 }
 8740=
 {
-	name="de Santib√°√±ez"
+	name="de Santib·Òez"
 	culture="castillan"
 	religion="catholic"
 }
 8741=
 {
-	name="Herr√°meliz"
+	name="Herr·meliz"
 	culture="castillan"
 	religion="catholic"
 }
@@ -12360,7 +12572,7 @@
 }
 8750=
 {
-	name="de √Ålava"
+	name="de ¡lava"
 	culture="basque"
 	religion="catholic"
 }
@@ -12394,7 +12606,7 @@
 }
 8756=
 {
-	name="de Castellb√≤"
+	name="de CastellbÚ"
 	culture="catalan"
 	religion="catholic"
 }
@@ -12437,7 +12649,7 @@
 }
 8762=
 {
-	name="de X√®rica"
+	name="de XËrica"
 	culture="catalan"
 	religion="catholic"
 }
@@ -12454,7 +12666,7 @@
 }
 8765=
 {
-	name="de Pin√≥s"
+	name="de PinÛs"
 	culture="catalan"
 	religion="catholic"
 }
@@ -12500,7 +12712,7 @@
 }
 8773=
 {
-	name="de H√≠jar"
+	name="de HÌjar"
 	culture="castillan"
 	religion="catholic"
 }
@@ -12521,11 +12733,11 @@
 }
 8777=
 {
-	name="de Castilla y Le√≥n"
+	name="de Castilla y LeÛn"
 }
 8778=
 {
-	name="de Arag√≥n"
+	name="de AragÛn"
 	culture="castillan"
 }
 8779=
@@ -12607,7 +12819,7 @@
 }
 8792=
 {
-	name="Pantal√©on"
+	name="PantalÈon"
 	culture="frankish"
 	religion="catholic"
 }
@@ -12649,7 +12861,7 @@
 }
 9006=
 {
-	name="de T√°vora"
+	name="de T·vora"
 	culture="portuguese"
 }
 9007=
@@ -12664,7 +12876,7 @@
 }
 9009=
 {
-	name="de S√°"
+	name="de S·"
 	culture="portuguese"
 }
 9010=
@@ -12780,7 +12992,7 @@
 }
 9117=
 {
-	name="of ≈Ωemaiteje"
+	name="of éemaiteje"
 	culture="lithuanian"
 	religion="baltic_pagan"
 	coat_of_arms=
@@ -12918,7 +13130,7 @@
 }
 9202=
 {
-	name="Ua N√©ill"
+	name="Ua NÈill"
 	culture="irish"
 	religion="catholic"
 }
@@ -12936,7 +13148,7 @@
 }
 9205=
 {
-	name="Ua Ma√≠l Sechlainn"
+	name="Ua MaÌl Sechlainn"
 	culture="irish"
 	religion="catholic"
 }
@@ -12948,7 +13160,7 @@
 }
 9207=
 {
-	name="Ua Ma√≠l Ruanaid"
+	name="Ua MaÌl Ruanaid"
 	culture="irish"
 	religion="catholic"
 }
@@ -12967,7 +13179,7 @@
 }
 9209=
 {
-	name="Mac Murchada C√°em√°nach"
+	name="Mac Murchada C·em·nach"
 	culture="irish"
 	religion="catholic"
 }
@@ -12979,13 +13191,13 @@
 }
 9211=
 {
-	name="Ua F√°el√°in"
+	name="Ua F·el·in"
 	culture="irish"
 	religion="catholic"
 }
 9212=
 {
-	name="Ua C√°ella√≠de"
+	name="Ua C·ellaÌde"
 	culture="irish"
 	religion="catholic"
 }
@@ -13016,7 +13228,7 @@
 }
 9216=
 {
-	name="Ua Bri√∫in A√≠"
+	name="Ua Bri˙in AÌ"
 	culture="irish"
 	religion="catholic"
 	coat_of_arms=
@@ -13031,13 +13243,13 @@
 }
 9217=
 {
-	name="C√©tchathach"
+	name="CÈtchathach"
 	culture="irish"
 	religion="pagan"
 }
 9218=
 {
-	name="Ua Bri√∫in Br√©ifne"
+	name="Ua Bri˙in BrÈifne"
 	culture="irish"
 	religion="catholic"
 	coat_of_arms=
@@ -13052,7 +13264,7 @@
 }
 9219=
 {
-	name="Ua Bri√∫in Se√≥la"
+	name="Ua Bri˙in SeÛla"
 	culture="irish"
 	religion="catholic"
 }
@@ -13074,7 +13286,7 @@
 }
 9223=
 {
-	name="Mac Gabr√°in"
+	name="Mac Gabr·in"
 	culture="scottish"
 	religion="catholic"
 }
@@ -13086,7 +13298,7 @@
 }
 9225=
 {
-	name="E√≥ganacht-Chaisil"
+	name="EÛganacht-Chaisil"
 	culture="irish"
 	religion="catholic"
 	coat_of_arms=
@@ -13099,7 +13311,7 @@
 }
 9226=
 {
-	name="E√≥ganacht-Airthir Chliach"
+	name="EÛganacht-Airthir Chliach"
 	culture="irish"
 	religion="pagan"
 	coat_of_arms=
@@ -13113,13 +13325,13 @@
 }
 9227=
 {
-	name="E√≥ganacht-Glendamnach"
+	name="EÛganacht-Glendamnach"
 	culture="irish"
 	religion="pagan"
 }
 9228=
 {
-	name="E√≥ganacht-Raithlind"
+	name="EÛganacht-Raithlind"
 	culture="irish"
 	religion="pagan"
 	coat_of_arms=
@@ -13132,13 +13344,13 @@
 }
 9229=
 {
-	name="E√≥ganacht-√Åine"
+	name="EÛganacht-¡ine"
 	culture="irish"
 	religion="catholic"
 }
 9230=
 {
-	name="E√≥ganacht-Locha L√©in"
+	name="EÛganacht-Locha LÈin"
 	culture="irish"
 	religion="pagan"
 }
@@ -13277,7 +13489,7 @@
 }
 9538=
 {
-	name="L√§√§nemaa"
+	name="L‰‰nemaa"
 	culture="ugricbaltic"
 	religion="finnish_pagan"
 	coat_of_arms=
@@ -13366,7 +13578,7 @@
 }
 10007=
 {
-	name="de Ca√±amas"
+	name="de CaÒamas"
 	culture="castillan"
 }
 10008=
@@ -13392,7 +13604,7 @@
 }
 10013=
 {
-	name="de T√†rrega"
+	name="de T‡rrega"
 	culture="catalan"
 }
 10014=
@@ -13407,7 +13619,7 @@
 }
 10016=
 {
-	name="de Castell√≥"
+	name="de CastellÛ"
 	culture="catalan"
 }
 10017=
@@ -13417,7 +13629,7 @@
 }
 10018=
 {
-	name="d'Emp√∫ries"
+	name="d'Emp˙ries"
 	culture="catalan"
 }
 10019=
@@ -13428,7 +13640,7 @@
 }
 10020=
 {
-	name="de Besal√∫"
+	name="de Besal˙"
 	culture="catalan"
 	religion="catholic"
 }
@@ -13439,7 +13651,7 @@
 }
 10022=
 {
-	name="del Ripoll√®s"
+	name="del RipollËs"
 	culture="catalan"
 }
 10023=
@@ -13449,7 +13661,7 @@
 }
 10024=
 {
-	name="de Ribagor√ßa"
+	name="de RibagorÁa"
 	culture="visigothic"
 	religion="catholic"
 }
@@ -13515,7 +13727,7 @@
 }
 10106=
 {
-	name="V√≠tkovec"
+	name="VÌtkovec"
 	culture="bohemian"
 	religion="catholic"
 }
@@ -13526,7 +13738,7 @@
 }
 10108=
 {
-	name="Zerot√≠n"
+	name="ZerotÌn"
 	culture="bohemian"
 }
 10109=
@@ -13590,6 +13802,7 @@
 0 8 0 44 0 0 0 			}
 		religion="catholic"
 	}
+	used_for_random=no
 }
 11101=
 {
@@ -13944,19 +14157,19 @@
 }
 12113=
 {
-	name="de Est√≠baliz"
+	name="de EstÌbaliz"
 	culture="basque"
 	religion="catholic"
 }
 12114=
 {
-	name="de Ria√±o"
+	name="de RiaÒo"
 	culture="castillan"
 	religion="catholic"
 }
 12115=
 {
-	name="de Besal√∫"
+	name="de Besal˙"
 	culture="catalan"
 	religion="catholic"
 }
@@ -13998,19 +14211,19 @@
 }
 12122=
 {
-	name="Roc√≥"
+	name="RocÛ"
 	culture="catalan"
 	religion="catholic"
 }
 12123=
 {
-	name="de Sant Mart√≠"
+	name="de Sant MartÌ"
 	culture="catalan"
 	religion="catholic"
 }
 12124=
 {
-	name="Gar√ßad√≥"
+	name="GarÁadÛ"
 	culture="catalan"
 }
 12125=
@@ -14020,13 +14233,13 @@
 }
 12126=
 {
-	name="de Ribell√©s"
+	name="de RibellÈs"
 	culture="catalan"
 	religion="catholic"
 }
 12127=
 {
-	name="de Montcl√∫s"
+	name="de Montcl˙s"
 	culture="catalan"
 	religion="catholic"
 }
@@ -14038,13 +14251,13 @@
 }
 12129=
 {
-	name="de Cervell√≥"
+	name="de CervellÛ"
 	culture="catalan"
 	religion="catholic"
 }
 12130=
 {
-	name="d'Antill√≥"
+	name="d'AntillÛ"
 	culture="catalan"
 	religion="catholic"
 }
@@ -14092,7 +14305,7 @@
 }
 12138=
 {
-	name="de Cru√Ølles"
+	name="de CruÔlles"
 	culture="catalan"
 	religion="catholic"
 }
@@ -14186,7 +14399,7 @@
 }
 12154=
 {
-	name="d'√Äger"
+	name="d'¿ger"
 	culture="catalan"
 	religion="catholic"
 }
@@ -14245,7 +14458,7 @@
 }
 12164=
 {
-	name="de Toro√±o"
+	name="de ToroÒo"
 	culture="castillan"
 	religion="catholic"
 }
@@ -14257,7 +14470,7 @@
 }
 12166=
 {
-	name="Pon√ß de Minerva"
+	name="PonÁ de Minerva"
 	culture="catalan"
 	religion="catholic"
 }
@@ -14281,13 +14494,13 @@
 }
 12170=
 {
-	name="Hel√≠as"
+	name="HelÌas"
 	culture="castillan"
 	religion="catholic"
 }
 12171=
 {
-	name="Gelm√≠rez"
+	name="GelmÌrez"
 	culture="castillan"
 }
 12172=
@@ -14302,17 +14515,17 @@
 }
 12174=
 {
-	name="Gundest√©iz"
+	name="GundestÈiz"
 	culture="castillan"
 }
 12175=
 {
-	name="Mu√±√≠z"
+	name="MuÒÌz"
 	culture="castillan"
 }
 12176=
 {
-	name="de Padr√≥n"
+	name="de PadrÛn"
 	culture="castillan"
 	religion="catholic"
 }
@@ -14330,7 +14543,7 @@
 }
 12179=
 {
-	name="de Carri√≥n"
+	name="de CarriÛn"
 	culture="castillan"
 	religion="catholic"
 }
@@ -14342,7 +14555,7 @@
 }
 12181=
 {
-	name="de San Mill√°n"
+	name="de San Mill·n"
 	culture="castillan"
 }
 12182=
@@ -14545,7 +14758,7 @@
 }
 12215=
 {
-	name="banu F√§tima"
+	name="banu F‰tima"
 	culture="andalusian_arabic"
 	religion="sunni"
 }
@@ -14767,7 +14980,7 @@
 }
 12251=
 {
-	name="von Schweip√ºnt"
+	name="von Schweip¸nt"
 	culture="german"
 	religion="catholic"
 }
@@ -14920,7 +15133,7 @@
 }
 12401=
 {
-	name="von N√∂rvenich"
+	name="von Nˆrvenich"
 	culture="german"
 }
 12402=
@@ -14943,7 +15156,7 @@
 }
 12405=
 {
-	name="von K√§rnten"
+	name="von K‰rnten"
 	culture="german"
 }
 12406=
@@ -15153,7 +15366,7 @@
 }
 12446=
 {
-	name="von W√ºrttemberg"
+	name="von W¸rttemberg"
 	culture="german"
 	religion="catholic"
 }
@@ -15186,7 +15399,7 @@
 }
 12452=
 {
-	name="von L√∂venstein"
+	name="von Lˆvenstein"
 	culture="german"
 }
 12453=
@@ -15207,7 +15420,7 @@
 }
 12456=
 {
-	name="von Chal√¥ns"
+	name="von ChalÙns"
 	culture="german"
 	religion="catholic"
 }
@@ -16048,7 +16261,7 @@
 }
 13107=
 {
-	name="d'Uz√®s"
+	name="d'UzËs"
 	culture="occitan"
 	religion="catholic"
 }
@@ -16066,7 +16279,7 @@
 }
 13110=
 {
-	name="de Baug√©"
+	name="de BaugÈ"
 	culture="frankish"
 	religion="catholic"
 }
@@ -16108,12 +16321,12 @@
 }
 14100=
 {
-	name="Ua B√°egill"
+	name="Ua B·egill"
 	culture="irish"
 }
 14101=
 {
-	name="Ua D√∫ngaile"
+	name="Ua D˙ngaile"
 	culture="irish"
 }
 14102=
@@ -16129,7 +16342,7 @@
 }
 14104=
 {
-	name="Bair√©ad"
+	name="BairÈad"
 	culture="scottish"
 }
 14105=
@@ -16144,7 +16357,7 @@
 }
 14107=
 {
-	name="√ì Braonain"
+	name="” Braonain"
 	culture="irish"
 }
 14108=
@@ -16159,7 +16372,7 @@
 }
 14110=
 {
-	name="Ua Br√°√©in"
+	name="Ua Br·Èin"
 	culture="irish"
 }
 14111=
@@ -16169,7 +16382,7 @@
 }
 14112=
 {
-	name="Ua Canann√°in"
+	name="Ua Canann·in"
 	culture="irish"
 	religion="catholic"
 }
@@ -16206,7 +16419,7 @@
 }
 14119=
 {
-	name="Ua Cruadl√°ich"
+	name="Ua Cruadl·ich"
 	culture="irish"
 }
 14120=
@@ -16221,7 +16434,7 @@
 }
 14122=
 {
-	name="Ua √Åedac√°in"
+	name="Ua ¡edac·in"
 	culture="irish"
 }
 14123=
@@ -16342,7 +16555,7 @@
 }
 14267=
 {
-	name="I√¢l"
+	name="I‚l"
 	culture="welsh"
 }
 14268=
@@ -16563,7 +16776,7 @@
 18004=
 {
 	name="Balsic"
-	culture="serbian"
+	culture="albanian"
 	religion="orthodox"
 }
 18005=
@@ -16646,7 +16859,7 @@
 }
 19003=
 {
-	name="Bercs√©nyi"
+	name="BercsÈnyi"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -16657,12 +16870,12 @@
 }
 19005=
 {
-	name="B√°nffy"
+	name="B·nffy"
 	culture="hungarian"
 }
 19006=
 {
-	name="Berz√©nyi"
+	name="BerzÈnyi"
 	culture="hungarian"
 }
 19007=
@@ -16684,7 +16897,7 @@
 }
 19010=
 {
-	name="Cs√°k"
+	name="Cs·k"
 	culture="hungarian"
 	religion="catholic"
 	coat_of_arms=
@@ -16697,12 +16910,12 @@
 }
 19011=
 {
-	name="Cs√°ky"
+	name="Cs·ky"
 	culture="romanian"
 }
 19012=
 {
-	name="Czir√°ky"
+	name="Czir·ky"
 	culture="hungarian"
 }
 19013=
@@ -16718,43 +16931,43 @@
 }
 19015=
 {
-	name="Derencs√©nyi"
+	name="DerencsÈnyi"
 	culture="hungarian"
 }
 19016=
 {
-	name="Dezs√µfi"
+	name="Dezsıfi"
 	culture="romanian"
 }
 19017=
 {
-	name="Di√≥szegi"
+	name="DiÛszegi"
 	culture="hungarian"
 }
 19018=
 {
-	name="D√µry"
+	name="Dıry"
 	culture="hungarian"
 }
 19019=
 {
-	name="Dr√°gfi"
+	name="Dr·gfi"
 	culture="hungarian"
 	religion="catholic"
 }
 19020=
 {
-	name="Guthi-Orsz√°gh"
+	name="Guthi-Orsz·gh"
 	culture="romanian"
 }
 19021=
 {
-	name="Egerv√°ri"
+	name="Egerv·ri"
 	culture="hungarian"
 }
 19023=
 {
-	name="Forg√°ch"
+	name="Forg·ch"
 	culture="hungarian"
 }
 19024=
@@ -16770,12 +16983,12 @@
 }
 19026=
 {
-	name="P√°l√≥czi"
+	name="P·lÛczi"
 	culture="hungarian"
 }
 19027=
 {
-	name="H√©derv√°ri"
+	name="HÈderv·ri"
 	culture="hungarian"
 }
 19028=
@@ -16790,18 +17003,18 @@
 }
 19030=
 {
-	name="K√°n"
+	name="K·n"
 	culture="hungarian"
 	religion="catholic"
 }
 19031=
 {
-	name="K√°rolyi"
+	name="K·rolyi"
 	culture="hungarian"
 }
 19032=
 {
-	name="K√µszegi"
+	name="Kıszegi"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -16817,17 +17030,17 @@
 }
 19035=
 {
-	name="Marczalt√∂vi"
+	name="Marczaltˆvi"
 	culture="romanian"
 }
 19036=
 {
-	name="Mar√≥ti"
+	name="MarÛti"
 	culture="hungarian"
 }
 19037=
 {
-	name="Per√©nyi"
+	name="PerÈnyi"
 	culture="hungarian"
 }
 19038=
@@ -16837,7 +17050,7 @@
 }
 19039=
 {
-	name="R√°t√≥t"
+	name="R·tÛt"
 	culture="hungarian"
 }
 19040=
@@ -16857,13 +17070,13 @@
 }
 19043=
 {
-	name="Sz√©cs√©nyi"
+	name="SzÈcsÈnyi"
 	culture="hungarian"
 	religion="catholic"
 }
 19044=
 {
-	name="Sz√©chy"
+	name="SzÈchy"
 	culture="hungarian"
 }
 19045=
@@ -16874,7 +17087,7 @@
 }
 19046=
 {
-	name="Thurz√≥"
+	name="ThurzÛ"
 	culture="hungarian"
 }
 19047=
@@ -16884,12 +17097,12 @@
 }
 19048=
 {
-	name="√öjlaki"
+	name="⁄jlaki"
 	culture="hungarian"
 }
 19049=
 {
-	name="Z√°ch"
+	name="Z·ch"
 	culture="romanian"
 }
 19050=
@@ -16899,7 +17112,7 @@
 }
 19051=
 {
-	name="Zelem√©ri"
+	name="ZelemÈri"
 	culture="croatian"
 	religion="catholic"
 }
@@ -16918,7 +17131,7 @@
 }
 19053=
 {
-	name="Hontp√°zm√°ny"
+	name="Hontp·zm·ny"
 	culture="hungarian"
 	religion="catholic"
 	coat_of_arms=
@@ -16942,7 +17155,7 @@
 }
 19056=
 {
-	name="V√°rdai"
+	name="V·rdai"
 	culture="romanian"
 	religion="catholic"
 }
@@ -16972,13 +17185,13 @@
 }
 19061=
 {
-	name="Szentgy√∂rgyi"
+	name="Szentgyˆrgyi"
 	culture="hungarian"
 	religion="catholic"
 }
 19062=
 {
-	name="B√°thory"
+	name="B·thory"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -16988,6 +17201,300 @@
 	culture="romanian"
 	religion="catholic"
 }
+
+#####################################
+# Jade Dragon
+#####################################
+
+19100=
+{
+	name="Poyul"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19101=
+{
+	name="Sakya"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19102=
+{
+	name="Khˆn"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19103=
+{
+	name="Pakmodru"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19104=
+{
+	name="Yarlung"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19105=
+{
+	name="Taktse"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19106=
+{
+	name="Dege"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19107=
+{
+	name="Fuqi"
+	culture="tangut"
+	religion="buddhist"
+}
+
+19108=
+{
+	name="GÍ'gyai"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19109=
+{
+	name="Amdo"
+	culture="tangut"
+	religion="buddhist"
+}
+
+19110=
+{
+	name="Pangong"
+	culture="tangut"
+	religion="buddhist"
+}
+
+19111=
+{
+	name="Palola" # aka Patola
+	culture="sogdian"
+	religion="buddhist"
+}
+
+19112=
+{
+	name="Katyuri"
+	culture="hindustani"
+	religion="hindu"
+}
+
+19113=
+{
+	name="Bumthang"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19114=
+{
+	name="Paro"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19115=
+{
+	name="Monyul"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19116=
+{
+	name="Licchavi"
+	culture="nepali"
+	religion="hindu"
+}
+
+19117=
+{
+	name="Thakuri"
+	culture="nepali"
+	religion="hindu"
+}
+
+19118=
+{
+	name="Nuwakot Thakuri"
+	culture="nepali"
+	religion="hindu"
+}
+
+19119=
+{
+	name="Suryavamsa"
+	culture="nepali"
+	religion="hindu"
+}
+
+19120=
+{
+	name="Malla"
+	culture="nepali"
+	religion="hindu"
+}
+
+19121=
+{
+	name="Kangra"
+	culture="hindustani"
+	religion="hindu"
+}
+
+19122=
+{
+	name="Kumanchal"
+	culture="hindustani"
+	religion="hindu"
+}
+
+19123=
+{
+	name="Chand"
+	culture="rajput"
+	religion="hindu"
+}
+
+19124=
+{
+	name="Tsongkha" # Rulers of Amdo/Samtho
+	culture="tangut"
+	religion="buddhist"
+}
+
+19125=
+{
+	name="Jyekundo"
+	culture="tangut"
+	religion="buddhist"
+}
+
+19126=
+{
+	name="Sepla"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19127=
+{
+	name="Itanager"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19128=
+{
+	name="Nyima"
+	culture="sumpa"
+	religion="bon"
+}
+
+19129=
+{
+	name="Doendrub"
+	culture="tangut"
+	religion="buddhist"
+}
+
+19130=
+{
+	name="Hungrel"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19131=
+{
+	name="Kyichu"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19132=
+{
+	name="Jambay"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19133=
+{
+	name="Trongsa"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19134=
+{
+	name="Skardu"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19135=
+{
+	name="Huldi"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19136=
+{
+	name="Gangdoz"
+	culture="nepali"
+	religion="buddhist"
+}
+
+19137=
+{
+	name="Mangan"
+	culture="nepali"
+	religion="buddhist"
+}
+
+19138=
+{
+	name="Lhoyu"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19139=
+{
+	name="Anini"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+19140=
+{
+	name="Khon"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+#####################################
+
 20013=
 {
 	name="Gwynn"
@@ -17073,7 +17580,7 @@
 }
 20027=
 {
-	name="Mac E√≥gain"
+	name="Mac EÛgain"
 	culture="scottish"
 }
 20028=
@@ -17192,7 +17699,7 @@
 }
 20050=
 {
-	name="Longesp√©e"
+	name="LongespÈe"
 	culture="norman"
 	religion="catholic"
 }
@@ -17221,7 +17728,7 @@
 }
 20054=
 {
-	name="von K√∂nigsberg"
+	name="von Kˆnigsberg"
 	culture="prussian"
 }
 20055=
@@ -17242,13 +17749,13 @@
 }
 20058=
 {
-	name="Ov√©quiz"
+	name="OvÈquiz"
 	culture="castillan"
 	religion="catholic"
 }
 20059=
 {
-	name="de Trast√°mara"
+	name="de Trast·mara"
 	culture="castillan"
 	religion="catholic"
 }
@@ -17265,7 +17772,7 @@
 }
 20062=
 {
-	name="de Montlh√©ry"
+	name="de MontlhÈry"
 	culture="frankish"
 	religion="catholic"
 }
@@ -17330,9 +17837,9 @@
 }
 20071=
 {
-	name="Progoni"
+	name="Progonovic"
 	culture="albanian"
-	religion="catholic"
+	religion="orthodox"
 }
 20072=
 {
@@ -17408,7 +17915,7 @@
 }
 20083=
 {
-	name="a √Åengusa"
+	name="a ¡engusa"
 	culture="scottish"
 	religion="catholic"
 }
@@ -17499,7 +18006,7 @@
 }
 20154=
 {
-	name="Ynys M√¥n"
+	name="Ynys MÙn"
 	culture="welsh"
 	religion="catholic"
 }
@@ -18141,7 +18648,7 @@
 }
 23113=
 {
-	name="de Ch√¢tillon"
+	name="de Ch‚tillon"
 	culture="frankish"
 	religion="catholic"
 }
@@ -18187,7 +18694,7 @@
 }
 25003=
 {
-	name="Ua Dubag√°in"
+	name="Ua Dubag·in"
 	culture="irish"
 }
 25004=
@@ -18197,7 +18704,7 @@
 }
 25005=
 {
-	name="Mac Gille-F√°elain"
+	name="Mac Gille-F·elain"
 	culture="scottish"
 }
 25006=
@@ -18207,7 +18714,7 @@
 }
 25007=
 {
-	name="Mac Findl√°ich"
+	name="Mac Findl·ich"
 	culture="scottish"
 }
 25008=
@@ -18301,17 +18808,17 @@
 }
 25025=
 {
-	name="a h√ârinn"
+	name="a h…rinn"
 	culture="scottish"
 }
 25026=
 {
-	name="a Monid-T√©daich"
+	name="a Monid-TÈdaich"
 	culture="scottish"
 }
 25027=
 {
-	name="a Gabr√°in"
+	name="a Gabr·in"
 	culture="scottish"
 }
 25028=
@@ -18326,7 +18833,7 @@
 }
 25030=
 {
-	name="a Sc√≥ine"
+	name="a ScÛine"
 	culture="scottish"
 }
 25031=
@@ -18529,7 +19036,7 @@
 }
 25064=
 {
-	name="K√°lnoky"
+	name="K·lnoky"
 	culture="hungarian"
 }
 25065=
@@ -18628,7 +19135,7 @@
 }
 40011=
 {
-	name="de Lu√ßon"
+	name="de LuÁon"
 	culture="frankish"
 }
 40012=
@@ -18644,7 +19151,7 @@
 }
 40014=
 {
-	name="de Gu√©ret"
+	name="de GuÈret"
 	culture="frankish"
 }
 40015=
@@ -18686,7 +19193,7 @@
 }
 40022=
 {
-	name="de S√©mur"
+	name="de SÈmur"
 	culture="frankish"
 	religion="catholic"
 	coat_of_arms=
@@ -18715,7 +19222,7 @@
 }
 100003=
 {
-	name="E√≥ganachta"
+	name="EÛganachta"
 	culture="irish"
 	religion="pagan"
 }
@@ -18726,7 +19233,7 @@
 }
 100005=
 {
-	name="U√≠ N√©ill"
+	name="UÌ NÈill"
 	culture="irish"
 }
 100006=
@@ -18737,7 +19244,7 @@
 }
 100007=
 {
-	name="U√≠ Maine"
+	name="UÌ Maine"
 	culture="irish"
 }
 100008=
@@ -18747,7 +19254,7 @@
 }
 100009=
 {
-	name="D√°l gCais"
+	name="D·l gCais"
 	culture="irish"
 	religion="pagan"
 }
@@ -18764,12 +19271,12 @@
 }
 100012=
 {
-	name="U√≠ Briain"
+	name="UÌ Briain"
 	culture="irish"
 }
 100013=
 {
-	name="Cholm√°in"
+	name="Cholm·in"
 	culture="irish"
 }
 100014=
@@ -18779,7 +19286,7 @@
 }
 100015=
 {
-	name="U√≠ Garrchon"
+	name="UÌ Garrchon"
 	culture="irish"
 }
 100016=
@@ -18889,7 +19396,7 @@
 }
 100036=
 {
-	name="M√∏re"
+	name="M¯re"
 	culture="norwegian"
 }
 100037=
@@ -19168,13 +19675,13 @@
 }
 100087=
 {
-	name="von Osnabr√ºck"
+	name="von Osnabr¸ck"
 	culture="german"
 	religion="catholic"
 }
 100088=
 {
-	name="von M√ºnster"
+	name="von M¸nster"
 	culture="german"
 	religion="catholic"
 }
@@ -19185,7 +19692,7 @@
 }
 100090=
 {
-	name="von J√ºlich"
+	name="von J¸lich"
 	culture="german"
 }
 100095=
@@ -19232,7 +19739,7 @@
 }
 100103=
 {
-	name="de L√©on"
+	name="de LÈon"
 	culture="norman"
 }
 100104=
@@ -19278,7 +19785,7 @@
 }
 100112=
 {
-	name="d'√éle"
+	name="d'Œle"
 	culture="frankish"
 }
 100113=
@@ -19316,12 +19823,12 @@
 }
 100119=
 {
-	name="von K√∂ln"
+	name="von Kˆln"
 	culture="german"
 }
 100120=
 {
-	name="von G√∂ttingen"
+	name="von Gˆttingen"
 	culture="german"
 	religion="catholic"
 }
@@ -19447,7 +19954,7 @@
 }
 100142=
 {
-	name="de la Tr√©moille"
+	name="de la TrÈmoille"
 	culture="frankish"
 }
 100143=
@@ -19548,7 +20055,7 @@
 }
 100161=
 {
-	name="de Alc√°cer do Sal"
+	name="de Alc·cer do Sal"
 	culture="portuguese"
 }
 100162=
@@ -19568,7 +20075,7 @@
 }
 100165=
 {
-	name="de C√°diz"
+	name="de C·diz"
 	culture="castillan"
 }
 100166=
@@ -19578,12 +20085,12 @@
 }
 100167=
 {
-	name="de M√°laga"
+	name="de M·laga"
 	culture="castillan"
 }
 100168=
 {
-	name="de Almer√≠a"
+	name="de AlmerÌa"
 	culture="castillan"
 }
 100169=
@@ -19613,7 +20120,7 @@
 }
 100174=
 {
-	name="de Albarrac√≠n"
+	name="de AlbarracÌn"
 	culture="castillan"
 }
 100175=
@@ -19668,12 +20175,12 @@
 }
 100185=
 {
-	name="de M√©rtola"
+	name="de MÈrtola"
 	culture="portuguese"
 }
 100186=
 {
-	name="de √âvora"
+	name="de …vora"
 	culture="portuguese"
 }
 100187=
@@ -19694,7 +20201,7 @@
 }
 100190=
 {
-	name="de Le√≥n"
+	name="de LeÛn"
 	culture="castillan"
 }
 100191=
@@ -19709,7 +20216,7 @@
 }
 100193=
 {
-	name="de Alc√°ntara"
+	name="de Alc·ntara"
 	culture="castillan"
 }
 100194=
@@ -19778,7 +20285,7 @@
 }
 100205=
 {
-	name="d'Empord√†"
+	name="d'Empord‡"
 	culture="catalan"
 }
 100206=
@@ -19811,7 +20318,7 @@
 }
 100211=
 {
-	name="de Rosell√≥"
+	name="de RosellÛ"
 }
 100212=
 {
@@ -19967,7 +20474,7 @@
 }
 100239=
 {
-	name="de Gen√®ve"
+	name="de GenËve"
 	culture="frankish"
 	religion="catholic"
 	coat_of_arms=
@@ -20039,7 +20546,7 @@
 }
 100251=
 {
-	name="von F√ºrstenberg"
+	name="von F¸rstenberg"
 	culture="german"
 }
 100252=
@@ -20050,7 +20557,7 @@
 }
 100253=
 {
-	name="von W√ºrttemberg"
+	name="von W¸rttemberg"
 	culture="german"
 }
 100254=
@@ -20061,7 +20568,7 @@
 }
 100255=
 {
-	name="von Th√ºringen"
+	name="von Th¸ringen"
 	culture="german"
 }
 100256=
@@ -20092,17 +20599,17 @@
 }
 100262=
 {
-	name="von L√ºbeck"
+	name="von L¸beck"
 	culture="german"
 }
 100263=
 {
-	name="G√∏ye"
+	name="G¯ye"
 	culture="danish"
 }
 100264=
 {
-	name="Gr√∏n"
+	name="Gr¯n"
 	culture="danish"
 }
 100265=
@@ -20234,7 +20741,7 @@
 }
 100281=
 {
-	name="Eketr√§"
+	name="Eketr‰"
 	culture="swedish"
 	religion="catholic"
 	coat_of_arms=
@@ -20310,7 +20817,7 @@
 }
 100289=
 {
-	name="K√§rling"
+	name="K‰rling"
 	culture="swedish"
 	religion="catholic"
 }
@@ -20333,19 +20840,19 @@
 }
 100293=
 {
-	name="af Aspen√§s"
+	name="af Aspen‰s"
 	culture="swedish"
 	religion="catholic"
 }
 100294=
 {
-	name="Rosenstr√•le"
+	name="RosenstrÂle"
 	culture="swedish"
 	religion="catholic"
 }
 100295=
 {
-	name="G√§lta"
+	name="G‰lta"
 	culture="swedish"
 	religion="catholic"
 	coat_of_arms=
@@ -20363,7 +20870,7 @@
 }
 100297=
 {
-	name="Lillieh√∂√∂k"
+	name="Lilliehˆˆk"
 	culture="swedish"
 	religion="catholic"
 }
@@ -20394,7 +20901,7 @@
 }
 100301=
 {
-	name="√Ñngel"
+	name="ƒngel"
 	culture="swedish"
 	religion="catholic"
 }
@@ -20462,7 +20969,7 @@
 }
 100314=
 {
-	name="von N√ºrnberg"
+	name="von N¸rnberg"
 	culture="german"
 }
 100315=
@@ -20814,7 +21321,7 @@
 }
 100374=
 {
-	name="Go≈°tautas"
+	name="Goötautas"
 	culture="lithuanian"
 	religion="baltic_pagan"
 }
@@ -20850,7 +21357,7 @@
 }
 100380=
 {
-	name="P√§rn"
+	name="P‰rn"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -20868,7 +21375,7 @@
 }
 100383=
 {
-	name="H√§m√§l√§inen"
+	name="H‰m‰l‰inen"
 	culture="finnish"
 	religion="finnish_pagan"
 	coat_of_arms=
@@ -20894,13 +21401,13 @@
 }
 100385=
 {
-	name="J√§rvinen"
+	name="J‰rvinen"
 	culture="finnish"
 	religion="finnish_pagan"
 }
 100386=
 {
-	name="Kemil√§inen"
+	name="Kemil‰inen"
 	culture="finnish"
 	religion="finnish_pagan"
 	coat_of_arms=
@@ -20913,7 +21420,7 @@
 }
 100387=
 {
-	name="Guol√°dat"
+	name="Guol·dat"
 	culture="lappish"
 	religion="finnish_pagan"
 	coat_of_arms=
@@ -21371,7 +21878,7 @@
 }
 100436=
 {
-	name="Czern√≠n"
+	name="CzernÌn"
 	culture="bohemian"
 }
 100438=
@@ -21387,18 +21894,18 @@
 }
 100443=
 {
-	name="Z√°polya"
+	name="Z·polya"
 	culture="hungarian"
 }
 100444=
 {
-	name="Sz√©kely"
+	name="SzÈkely"
 	culture="hungarian"
 	religion="catholic"
 }
 100445=
 {
-	name="D√≥zsa"
+	name="DÛzsa"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -21436,7 +21943,7 @@
 }
 100452=
 {
-	name="Bethlen von Ikt√°r"
+	name="Bethlen von Ikt·r"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -21464,7 +21971,7 @@
 }
 100457=
 {
-	name="von B√ºlow"
+	name="von B¸low"
 	culture="german"
 }
 100458=
@@ -21485,7 +21992,7 @@
 }
 100461=
 {
-	name="Kre≈°imirovic"
+	name="Kreöimirovic"
 	culture="croatian"
 	religion="catholic"
 }
@@ -21504,7 +22011,7 @@
 }
 100463=
 {
-	name="Fe≈°tetic"
+	name="Feötetic"
 	culture="croatian"
 	religion="catholic"
 }
@@ -21528,7 +22035,7 @@
 }
 100467=
 {
-	name="≈†ubic"
+	name="äubic"
 	culture="croatian"
 	religion="catholic"
 }
@@ -21657,7 +22164,7 @@
 }
 100491=
 {
-	name="Fok√°s"
+	name="Fok·s"
 	culture="greek"
 	religion="orthodox"
 }
@@ -21800,7 +22307,7 @@
 }
 100515=
 {
-	name="Szil√°gyi "
+	name="Szil·gyi "
 	culture="romanian"
 	religion="orthodox"
 	coat_of_arms=
@@ -21826,7 +22333,7 @@
 }
 100517=
 {
-	name="de Kincstart√≥"
+	name="de KincstartÛ"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -21850,30 +22357,30 @@
 }
 100521=
 {
-	name="de Milv√°ny"
+	name="de Milv·ny"
 	culture="hungarian"
 	religion="catholic"
 }
 100522=
 {
-	name="von Morav√°n"
+	name="von Morav·n"
 	culture="hungarian"
 }
 100523=
 {
-	name="D√°vid "
+	name="D·vid "
 	culture="hungarian"
 	religion="catholic"
 }
 100524=
 {
-	name="D√©csey"
+	name="DÈcsey"
 	culture="hungarian"
 	religion="catholic"
 }
 100525=
 {
-	name="M√©zesi"
+	name="MÈzesi"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -21942,19 +22449,19 @@
 }
 100538=
 {
-	name="Erd√∂dy"
+	name="Erdˆdy"
 	culture="hungarian"
 	religion="catholic"
 }
 100539=
 {
-	name="R√©vay"
+	name="RÈvay"
 	culture="hungarian"
 	religion="catholic"
 }
 100540=
 {
-	name="Duru≈æmic"
+	name="Duruûmic"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -22103,19 +22610,6 @@
 	name="Folban"
 	culture="cuman"
 	religion="tengri_pagan"
-}
-100559=
-{
-	name="Vallani"
-	culture="cuman"
-	religion="tengri_pagan"
-	coat_of_arms=
-	{
-		data=
-		{
-0 0 0 8 8 13 0 			}
-		religion="tengri_pagan"
-	}
 }
 100560=
 {
@@ -22290,85 +22784,43 @@
 {
 	name="Shuvalov"
 	culture="russian"
-	religion="sunni"
+	religion="orthodox"
 }
 100587=
 {
 	name="Danske"
 	culture="swedish"
-	religion="sunni"
-	coat_of_arms=
-	{
-		data=
-		{
-0 1 0 45 2 1 12 			}
-		religion="sunni"
-	}
+	religion="catholic"
 }
 100588=
 {
 	name="Fleming"
 	culture="swedish"
-	religion="sunni"
-	coat_of_arms=
-	{
-		data=
-		{
-0 0 0 31 3 9 1 			}
-		religion="sunni"
-	}
+	religion="catholic"
 }
 100589=
 {
 	name="Bidz"
 	culture="swedish"
-	religion="sunni"
-	coat_of_arms=
-	{
-		data=
-		{
-0 1 0 49 9 3 2 			}
-		religion="sunni"
-	}
+	religion="catholic"
 }
 100590=
 {
 	name="Diekn"
 	culture="swedish"
-	religion="sunni"
-	coat_of_arms=
-	{
-		data=
-		{
-0 1 0 47 9 7 10 			}
-		religion="sunni"
-	}
+	religion="catholic"
 }
 100591=
 {
 	name="Karpela"
 	culture="finnish"
-	religion="sunni"
-	coat_of_arms=
-	{
-		data=
-		{
-0 1 0 32 2 0 1 			}
-		religion="sunni"
-	}
+	religion="catholic"
 }
 100592=
 {
 	name="Stiernkors"
 	culture="swedish"
-	religion="sunni"
-	coat_of_arms=
-	{
-		data=
-		{
-0 1 0 18 8 12 0 			}
-		religion="sunni"
-	}
+	religion="catholic"
 }
 100593=
 {
@@ -22429,7 +22881,7 @@
 }
 100599=
 {
-	name="Kuns√°g"
+	name="Kuns·g"
 	culture="cuman"
 	religion="tengri_pagan"
 }
@@ -22496,7 +22948,7 @@
 }
 100607=
 {
-	name="Nagykuns√°g"
+	name="Nagykuns·g"
 	culture="cuman"
 	religion="tengri_pagan"
 	coat_of_arms=
@@ -22509,7 +22961,7 @@
 }
 100608=
 {
-	name="Kiskuns√°g"
+	name="Kiskuns·g"
 	culture="cuman"
 	religion="tengri_pagan"
 }
@@ -22684,7 +23136,7 @@
 }
 100622=
 {
-	name="G√∂khan"
+	name="Gˆkhan"
 	culture="turkish"
 	religion="tengri_pagan"
 	coat_of_arms=
@@ -23123,7 +23575,7 @@
 }
 100674=
 {
-	name="√ñzkan"
+	name="÷zkan"
 	culture="turkish"
 	religion="sunni"
 	coat_of_arms=
@@ -23369,7 +23821,7 @@
 }
 100705=
 {
-	name="Hatzid√°kis"
+	name="Hatzid·kis"
 	culture="greek"
 	religion="sunni"
 	coat_of_arms=
@@ -24766,59 +25218,59 @@
 }
 220061=
 {
-	name="de F√©zensaguet"
+	name="de FÈzensaguet"
 	culture="frankish"
 }
 101004=
 {
-	name="Abes√°n√≠"
+	name="Abes·nÌ"
 	culture="persian"
 	religion="sunni"
 }
 101005=
 {
-	name="Khur√°s√°n√≠"
+	name="Khur·s·nÌ"
 	culture="persian"
 }
 101006=
 {
-	name="M√°zindar√°n√≠"
+	name="M·zindar·nÌ"
 	culture="persian"
 }
 101007=
 {
-	name="Tihr√°n√≠"
+	name="Tihr·nÌ"
 	culture="persian"
 }
 101008=
 {
-	name="Isfah√°n√≠"
+	name="Isfah·nÌ"
 	culture="persian"
 	religion="sunni"
 }
 101009=
 {
-	name="Sh√≠r√°z√≠"
+	name="ShÌr·zÌ"
 	culture="persian"
 }
 101010=
 {
-	name="Ahvaz√≠"
+	name="AhvazÌ"
 	culture="persian"
 }
 101011=
 {
-	name="Razav√≠"
+	name="RazavÌ"
 	culture="persian"
 }
 101012=
 {
-	name="M√°shad√≠"
+	name="M·shadÌ"
 	culture="persian"
 }
 101013=
 {
-	name="Kermahad√≠"
+	name="KermahadÌ"
 	culture="persian"
 }
 101014=
@@ -25339,7 +25791,7 @@
 }
 101086=
 {
-	name="Dermoka√Øtes"
+	name="DermokaÔtes"
 	culture="greek"
 	religion="orthodox"
 }
@@ -26129,7 +26581,7 @@
 }
 101220=
 {
-	name="Bo√Ølas"
+	name="BoÔlas"
 	culture="greek"
 }
 101221=
@@ -26594,7 +27046,7 @@
 }
 101310=
 {
-	name="Kara√Øonatan"
+	name="KaraÔonatan"
 	culture="greek"
 }
 101311=
@@ -26961,7 +27413,7 @@
 }
 101378=
 {
-	name="Male√Ønos"
+	name="MaleÔnos"
 	culture="greek"
 }
 101379=
@@ -27182,7 +27634,7 @@
 }
 101421=
 {
-	name="Myrede√Øtes"
+	name="MyredeÔtes"
 	culture="greek"
 }
 101422=
@@ -27977,7 +28429,7 @@
 }
 101563=
 {
-	name="√ñr√∂sur"
+	name="÷rˆsur"
 	culture="hungarian"
 	religion="catholic"
 	coat_of_arms=
@@ -27996,13 +28448,13 @@
 }
 101565=
 {
-	name="√Åkos"
+	name="¡kos"
 	culture="hungarian"
 	religion="catholic"
 }
 101566=
 {
-	name="Csan√°d"
+	name="Csan·d"
 	culture="hungarian"
 	religion="catholic"
 	coat_of_arms=
@@ -28046,7 +28498,7 @@
 }
 101570=
 {
-	name="J√°k"
+	name="J·k"
 	culture="hungarian"
 	religion="catholic"
 	coat_of_arms=
@@ -28059,7 +28511,7 @@
 }
 101571=
 {
-	name="Borkal√°n"
+	name="Borkal·n"
 	culture="hungarian"
 	religion="catholic"
 	coat_of_arms=
@@ -28072,13 +28524,13 @@
 }
 101572=
 {
-	name="Szal√≥k"
+	name="SzalÛk"
 	culture="hungarian"
 	religion="catholic"
 }
 101573=
 {
-	name="Bik√°cs"
+	name="Bik·cs"
 	culture="hungarian"
 	religion="catholic"
 }
@@ -28166,7 +28618,7 @@
 }
 101674=
 {
-	name="Ua M√≥rdha"
+	name="Ua MÛrdha"
 	culture="irish"
 }
 101675=
@@ -28177,13 +28629,13 @@
 }
 101676=
 {
-	name="Ua Fael√°in"
+	name="Ua Fael·in"
 	culture="irish"
 	religion="catholic"
 }
 101677=
 {
-	name="Mac Gilla-P√°traic"
+	name="Mac Gilla-P·traic"
 	culture="irish"
 	religion="catholic"
 }
@@ -28268,7 +28720,11 @@
 {
 	name="Ziyarid"
 	culture="persian"
-	religion="shiite"
+	coat_of_arms={
+		data={0 0 0 3 1 12 4 }
+		religion="zoroastrian"
+	}
+	forced_coa_religiongroup="zoroastrian_group"
 }
 101690=
 {
@@ -28355,7 +28811,7 @@
 }
 101703=
 {
-	name="Mac √Å√©da"
+	name="Mac ¡Èda"
 	culture="irish"
 }
 101704=
@@ -28414,7 +28870,7 @@
 }
 101713=
 {
-	name="Ua Ma√≠l Doraid"
+	name="Ua MaÌl Doraid"
 	culture="irish"
 	religion="catholic"
 }
@@ -28715,7 +29171,7 @@
 }
 101759=
 {
-	name="L√∂ve"
+	name="Lˆve"
 	culture="norwegian"
 }
 101760=
@@ -28725,7 +29181,7 @@
 }
 101761=
 {
-	name="Go√∞i"
+	name="Goi"
 	culture="norwegian"
 }
 101762=
@@ -28740,7 +29196,7 @@
 }
 101764=
 {
-	name="√Åsgeir"
+	name="¡sgeir"
 	culture="norwegian"
 }
 101765=
@@ -28755,7 +29211,7 @@
 }
 101767=
 {
-	name="Ban√©r"
+	name="BanÈr"
 	culture="norwegian"
 }
 101768=
@@ -28790,7 +29246,7 @@
 }
 101774=
 {
-	name="Ehrensv√§rd"
+	name="Ehrensv‰rd"
 	culture="norwegian"
 }
 101775=
@@ -28800,7 +29256,7 @@
 }
 101776=
 {
-	name="Adelsw√§rd"
+	name="Adelsw‰rd"
 	culture="norwegian"
 }
 101777=
@@ -28888,7 +29344,7 @@
 }
 101790=
 {
-	name="Dub√©"
+	name="DubÈ"
 	culture="ethiopian"
 }
 101791=
@@ -29074,7 +29530,7 @@
 }
 101825=
 {
-	name="Cavalcab√≤"
+	name="CavalcabÚ"
 	culture="italian"
 }
 101826=
@@ -29377,7 +29833,7 @@
 }
 101878=
 {
-	name="Fern√°ndez de Lima"
+	name="Fern·ndez de Lima"
 	culture="portuguese"
 }
 101879=
@@ -29589,7 +30045,7 @@
 }
 101910=
 {
-	name="Mart√≠nez de Oviedo"
+	name="MartÌnez de Oviedo"
 	culture="castillan"
 	religion="catholic"
 }
@@ -29659,7 +30115,7 @@
 }
 101917=
 {
-	name="P√©rez de Zamora"
+	name="PÈrez de Zamora"
 	culture="castillan"
 }
 101918=
@@ -29755,12 +30211,12 @@
 }
 101934=
 {
-	name="Nerg√ºi"
+	name="Nerg¸i"
 	culture="mongol"
 }
 101935=
 {
-	name="Lkhagvas√ºren"
+	name="Lkhagvas¸ren"
 	culture="mongol"
 }
 101936=
@@ -29781,7 +30237,7 @@
 }
 101939=
 {
-	name="P√ºrevs√ºren"
+	name="P¸revs¸ren"
 	culture="mongol"
 }
 101940=
@@ -29791,17 +30247,17 @@
 }
 101941=
 {
-	name="M√∂nkhtsetseg"
+	name="Mˆnkhtsetseg"
 	culture="mongol"
 }
 101942=
 {
-	name="M√∂nkhbat"
+	name="Mˆnkhbat"
 	culture="mongol"
 }
 101943=
 {
-	name="M√∂nkh-Erdene"
+	name="Mˆnkh-Erdene"
 	culture="mongol"
 }
 101944=
@@ -29947,7 +30403,7 @@
 }
 200001=
 {
-	name="S√§rkilahti"
+	name="S‰rkilahti"
 	culture="finnish"
 }
 200002=
@@ -29967,7 +30423,7 @@
 }
 200005=
 {
-	name="Villn√§s"
+	name="Villn‰s"
 	culture="swedish"
 }
 200006=
@@ -29997,17 +30453,17 @@
 }
 200011=
 {
-	name="Syd√§nmaa"
+	name="Syd‰nmaa"
 	culture="finnish"
 }
 200012=
 {
-	name="M√§kel√§"
+	name="M‰kel‰"
 	culture="finnish"
 }
 200014=
 {
-	name="J√§gerhorn af Spurila"
+	name="J‰gerhorn af Spurila"
 	culture="swedish"
 }
 200015=
@@ -30027,7 +30483,7 @@
 }
 200031=
 {
-	name="Batthy√°ny"
+	name="Batthy·ny"
 	culture="hungarian"
 }
 200032=
@@ -30037,17 +30493,17 @@
 }
 200033=
 {
-	name="Esterh√°zy"
+	name="Esterh·zy"
 	culture="hungarian"
 }
 200036=
 {
-	name="Hajd√∫"
+	name="Hajd˙"
 	culture="hungarian"
 }
 200037=
 {
-	name="Jesensk√Ω"
+	name="Jesensk˝"
 	culture="hungarian"
 }
 200039=
@@ -30062,7 +30518,7 @@
 }
 200041=
 {
-	name="R√°k√≥czi"
+	name="R·kÛczi"
 	culture="hungarian"
 }
 200042=
@@ -30334,7 +30790,7 @@
 }
 200076=
 {
-	name="Penm√¥n"
+	name="PenmÙn"
 	culture="welsh"
 }
 200077=
@@ -30396,7 +30852,7 @@
 }
 102013=
 {
-	name="Skj√∂ldung"
+	name="Skjˆldung"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -30410,7 +30866,7 @@
 }
 102014=
 {
-	name="B√•√•t"
+	name="BÂÂt"
 	culture="swedish"
 }
 102015=
@@ -30493,7 +30949,7 @@
 102029=
 {
 	name="Vrana"
-	culture="serbian"
+	culture="albanian"
 	religion="orthodox"
 }
 102030=
@@ -30536,7 +30992,7 @@
 }
 1020101=
 {
-	name="de Bell√™me"
+	name="de BellÍme"
 	culture="norman"
 }
 1020102=
@@ -30619,7 +31075,7 @@
 }
 1020119=
 {
-	name="Bet√≥tez"
+	name="BetÛtez"
 	culture="castillan"
 	religion="catholic"
 	coat_of_arms=
@@ -30644,7 +31100,7 @@
 }
 1020122=
 {
-	name="de Bai√£o"
+	name="de Bai„o"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -30686,7 +31142,7 @@
 }
 1020129=
 {
-	name="da N√≥brega"
+	name="da NÛbrega"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -31288,7 +31744,7 @@
 }
 1027032=
 {
-	name="U√≠ √çmair"
+	name="UÌ Õmair"
 	culture="norwegian"
 }
 1029000=
@@ -31335,7 +31791,7 @@
 }
 1029993=
 {
-	name="de M√©didan"
+	name="de MÈdidan"
 	culture="frankish"
 	religion="catholic"
 }
@@ -31359,7 +31815,7 @@
 }
 1029997=
 {
-	name="de Bl√¢mont"
+	name="de Bl‚mont"
 	culture="frankish"
 	religion="catholic"
 }
@@ -31371,7 +31827,7 @@
 }
 1029999=
 {
-	name="de Tra√Ænel"
+	name="de TraÓnel"
 	culture="frankish"
 	religion="catholic"
 }
@@ -31517,13 +31973,13 @@
 }
 1030003=
 {
-	name="Beret√©"
+	name="BeretÈ"
 	culture="manden"
 	religion="sunni"
 }
 1030004=
 {
-	name="K√©djou"
+	name="KÈdjou"
 	culture="manden"
 	religion="sunni"
 }
@@ -31572,7 +32028,7 @@
 }
 1030010=
 {
-	name="Traor√©"
+	name="TraorÈ"
 	culture="manden"
 	religion="sunni"
 	coat_of_arms=
@@ -31659,7 +32115,7 @@
 }
 1030030=
 {
-	name="√òstman"
+	name="ÿstman"
 	culture="norwegian"
 	religion="catholic"
 }
@@ -31684,7 +32140,7 @@
 }
 1029005=
 {
-	name="Dent√ºmoger"
+	name="Dent¸moger"
 	culture="cuman"
 	religion="tengri_pagan"
 }
@@ -31709,7 +32165,7 @@
 }
 1031002=
 {
-	name="R√ºbsamen"
+	name="R¸bsamen"
 	culture="german"
 	religion="catholic"
 }
@@ -31734,7 +32190,7 @@
 }
 1031005=
 {
-	name="Mart√≠n"
+	name="MartÌn"
 	culture="castillan"
 	religion="catholic"
 }
@@ -31808,7 +32264,7 @@
 }
 1031017=
 {
-	name="F√•hraeus"
+	name="FÂhraeus"
 	culture="swedish"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -31822,7 +32278,7 @@
 }
 1031018=
 {
-	name="Lerstr√∂m"
+	name="Lerstrˆm"
 	culture="swedish"
 	religion="catholic"
 	used_for_random=no
@@ -31841,7 +32297,7 @@
 }
 1031021=
 {
-	name="Bj√∂rk"
+	name="Bjˆrk"
 	culture="swedish"
 	religion="norse_pagan"
 }
@@ -31904,7 +32360,7 @@
 }
 1031029=
 {
-	name="af F√§rings√∂"
+	name="Blomberg"
 	culture="swedish"
 	religion="catholic"
 	coat_of_arms=
@@ -31916,6 +32372,14 @@
 	}
 	used_for_random=no
 }
+1031030=
+{
+	name="RudÈn"
+	culture="swedish"
+	religion="norse_pagan"
+	used_for_random=no
+}
+
 1051126=
 {
 	name="of Bebbanburg"
@@ -32366,7 +32830,7 @@
 }
 1031128=
 {
-	name="Khayy√°m"
+	name="Khayy·m"
 	culture="persian"
 	coat_of_arms=
 	{
@@ -32823,7 +33287,7 @@
 }
 9513=
 {
-	name="L√ºneburg"
+	name="L¸neburg"
 	culture="german"
 	religion="catholic"
 	coat_of_arms=
@@ -32900,7 +33364,7 @@
 }
 9520=
 {
-	name="Str√•ben"
+	name="StrÂben"
 	culture="swedish"
 	religion="catholic"
 	coat_of_arms=
@@ -33258,101 +33722,101 @@
 }
 1029057=
 {
-	name="Ts√¶rasant√¶"
+	name="TsÊrasantÊ"
 	culture="alan"
 	religion="tengri_pagan"
 }
 1029058=
 {
-	name="√Ülbegat√¶"
+	name="∆lbegatÊ"
 	culture="alan"
 	religion="orthodox"
 }
 1029059=
 {
-	name="Ardasent√¶"
+	name="ArdasentÊ"
 	culture="alan"
 }
 1029060=
 {
-	name="Bekkuyzart√¶"
+	name="BekkuyzartÊ"
 	culture="alan"
 	religion="tengri_pagan"
 }
 1029061=
 {
-	name="G√¶b√¶rat√¶"
+	name="GÊbÊratÊ"
 	culture="alan"
 }
 1029062=
 {
-	name="Dz√¶r√¶hoht√¶"
+	name="DzÊrÊhohtÊ"
 	culture="alan"
 }
 1029063=
 {
-	name="Dzebysat√¶"
+	name="DzebysatÊ"
 	culture="alan"
 }
 1029064=
 {
-	name="Djerdjit√¶"
+	name="DjerdjitÊ"
 	culture="alan"
 }
 1029065=
 {
-	name="Guyrdzybet√¶"
+	name="GuyrdzybetÊ"
 	culture="alan"
 }
 1029066=
 {
-	name="Z√¶ndjiat√¶"
+	name="ZÊndjiatÊ"
 	culture="alan"
 }
 1029067=
 {
-	name="K√¶rkuyst√¶"
+	name="KÊrkuystÊ"
 	culture="alan"
 }
 1029068=
 {
-	name="Djykkajt√¶"
+	name="DjykkajtÊ"
 	culture="alan"
 }
 1029069=
 {
-	name="Godjysat√¶"
+	name="GodjysatÊ"
 	culture="alan"
 }
 1029070=
 {
-	name="Magk√¶t√¶"
+	name="MagkÊtÊ"
 	culture="alan"
 	religion="orthodox"
 }
 1029071=
 {
-	name="P√¶rr√¶stat√¶"
+	name="PÊrrÊstatÊ"
 	culture="alan"
 }
 1029072=
 {
-	name="Het√¶gkat√¶"
+	name="HetÊgkatÊ"
 	culture="alan"
 }
 1029073=
 {
-	name="H√¶darcat√¶"
+	name="HÊdarcatÊ"
 	culture="alan"
 }
 1029074=
 {
-	name="Tuall√¶gt√¶"
+	name="TuallÊgtÊ"
 	culture="alan"
 }
 1029075=
 {
-	name="F√¶rniat√¶"
+	name="FÊrniatÊ"
 	culture="alan"
 }
 1029076=
@@ -33362,33 +33826,33 @@
 }
 1029077=
 {
-	name="Tandelat√¶"
+	name="TandelatÊ"
 	culture="alan"
 }
 1029078=
 {
-	name="Ts√¶ykost√¶"
+	name="TsÊykostÊ"
 	culture="alan"
 }
 1029079=
 {
-	name="Sozanat√¶"
+	name="SozanatÊ"
 	culture="alan"
 }
 1029080=
 {
-	name="M√¶rzojt√¶"
+	name="MÊrzojtÊ"
 	culture="alan"
 }
 1040000=
 {
-	name="Corcu Lo√≠gde"
+	name="Corcu LoÌgde"
 	culture="irish"
 	religion="catholic"
 }
 1040001=
 {
-	name="D√°l Birn"
+	name="D·l Birn"
 	culture="irish"
 	religion="catholic"
 	coat_of_arms=
@@ -33401,7 +33865,7 @@
 }
 1040002=
 {
-	name="Ua M√°ele √ìdrain"
+	name="Ua M·ele ”drain"
 	culture="irish"
 	religion="catholic"
 }
@@ -33413,25 +33877,25 @@
 }
 1040004=
 {
-	name="Hor√∞alandi"
+	name="Horalandi"
 	culture="norwegian"
 	religion="norse_pagan"
 }
 1040005=
 {
-	name="√çrakonungr"
+	name="Õrakonungr"
 	culture="norwegian"
 	religion="catholic"
 }
 1040006=
 {
-	name="S√≠ol Muireadaigh"
+	name="SÌol Muireadaigh"
 	culture="irish"
 	religion="catholic"
 }
 1040007=
 {
-	name="U√≠ √Åeda Odba"
+	name="UÌ ¡eda Odba"
 	culture="irish"
 	religion="catholic"
 }
@@ -33589,7 +34053,7 @@
 }
 1043300=
 {
-	name="av H√•logaland"
+	name="av HÂlogaland"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -33621,7 +34085,7 @@
 }
 1043303=
 {
-	name="Tr√∂nde"
+	name="Trˆnde"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -33699,7 +34163,7 @@
 }
 1043309=
 {
-	name="av J√§mtland"
+	name="av J‰mtland"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -33739,7 +34203,7 @@
 }
 1043502=
 {
-	name="Fr√≥ni"
+	name="FrÛni"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -33752,13 +34216,13 @@
 }
 1043503=
 {
-	name="√ûyli"
+	name="ﬁyli"
 	culture="norse"
 	religion="norse_pagan"
 }
 1043504=
 {
-	name="Naddo√∞r"
+	name="Naddor"
 	culture="norse"
 	religion="norse_pagan"
 	coat_of_arms=
@@ -34355,7 +34819,7 @@
 }
 12288=
 {
-	name="de Guimar√£es"
+	name="de Guimar„es"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -34585,13 +35049,9 @@
 	name="Sassanid"
 	culture="persian"
 	religion="zoroastrian"
-	coat_of_arms=
-	{
-		data=
-		{
-0 0 0 4 1 12 6 			}
-		religion="zoroastrian"
-	}
+	coat_of_arms={
+		data={0 0 0 8 5 1 2 0 0 0 0 1 2}
+		religion="zoroastrian" }
 	forced_coa_religiongroup="zoroastrian_group"
 }
 1029127=
@@ -35260,13 +35720,13 @@
 }
 1029143=
 {
-	name="T≈°uudit"
+	name="Töuudit"
 	culture="finnish"
 	religion="finnish_pagan"
 }
 1029144=
 {
-	name="Veps√§"
+	name="Veps‰"
 	culture="finnish"
 	religion="finnish_pagan"
 	coat_of_arms=
@@ -35629,9 +36089,15 @@
 }
 9611=
 {
-	name="z Kasz√´bow"
+	name="z KaszÎbow"
 	culture="pommeranian"
 	religion="slavic_pagan"
+}
+9583=
+{
+	name="Mostichid"
+	culture="bulgarian"
+	religion="orthodox"
 }
 9584=
 {
@@ -35641,27 +36107,27 @@
 }
 1029043=
 {
-	name="Y√ºregir"
+	name="Y¸regir"
 	culture="pecheneg"
 }
 1029044=
 {
-	name="Be√ßenek"
+	name="BeÁenek"
 	culture="pecheneg"
 }
 1029045=
 {
-	name="B√ºgd√ºz"
+	name="B¸gd¸z"
 	culture="pecheneg"
 }
 1029046=
 {
-	name="√ú√ßok"
+	name="‹Áok"
 	culture="pecheneg"
 }
 1029047=
 {
-	name="√áavuldur"
+	name="«avuldur"
 	culture="pecheneg"
 }
 1029048=
@@ -35691,12 +36157,12 @@
 }
 1029053=
 {
-	name="√áepni"
+	name="«epni"
 	culture="pecheneg"
 }
 1029054=
 {
-	name="Eym√ºr"
+	name="Eym¸r"
 	culture="pecheneg"
 }
 1029145=
@@ -35844,7 +36310,7 @@
 }
 1042816=
 {
-	name="Mac Ruaidr√≠"
+	name="Mac RuaidrÌ"
 	culture="irish"
 	religion="catholic"
 }
@@ -35874,7 +36340,7 @@
 }
 1042634=
 {
-	name="Djenn√©"
+	name="DjennÈ"
 	culture="manden"
 	religion="west_african_pagan"
 }
@@ -36101,7 +36567,7 @@
 }
 1041064=
 {
-	name="Ya‚Äôakov"
+	name="Yaíakov"
 	culture="sephardi"
 }
 1041065=
@@ -37189,7 +37655,7 @@
 	{
 		data=
 		{
-0 1 0 14 13 3 4 			}
+0 0 0 2 0 2 4 			}
 		religion="hindu"
 	}
 }
@@ -37220,7 +37686,7 @@
 1042083=
 {
 	name="Hunas"
-	culture="persian"
+	culture="saka"
 	religion="hindu"
 }
 1040201=
@@ -37932,7 +38398,7 @@
 }
 1042095=
 {
-	name="of Dakhinpara"
+	name="Dakhinpara"
 	culture="panjabi"
 	religion="hindu"
 	coat_of_arms=
@@ -38929,7 +39395,7 @@
 }
 1046008=
 {
-	name="Ladr√≥n de Guevara"
+	name="LadrÛn de Guevara"
 	culture="basque"
 	religion="catholic"
 }
@@ -39119,7 +39585,7 @@
 }
 1044324=
 {
-	name="Malla"
+	name="Mallabhum"
 	culture="bengali"
 	religion="hindu"
 	coat_of_arms=
@@ -39982,11 +40448,10 @@
 	culture="bedouin_arabic"
 	religion="sunni"
 }
-1042148=
-{
-	name="Muqannid"
-	culture="persian"
-	religion="mazdaki"
+1042148={
+	name="Chaghan"
+	culture="sogdian"
+	religion="khurmazta"
 }
 1042149=
 {
@@ -40437,6 +40902,7 @@
 	culture="hindustani"
 	religion="hindu"
 }
+
 1022377=
 {
 	name="Bukhal"
@@ -40493,13 +40959,13 @@
 }
 1022386=
 {
-	name="Jen√∂"
+	name="Jenˆ"
 	culture="hungarian"
 	religion="tengri_pagan"
 }
 1022387=
 {
-	name="K√©r"
+	name="KÈr"
 	culture="hungarian"
 	religion="tengri_pagan"
 }
@@ -40511,7 +40977,7 @@
 }
 1022389=
 {
-	name="K√ºrt"
+	name="K¸rt"
 	culture="hungarian"
 	religion="tengri_pagan"
 }
@@ -40529,13 +40995,13 @@
 }
 1022392=
 {
-	name="Ny√©k"
+	name="NyÈk"
 	culture="hungarian"
 	religion="tengri_pagan"
 }
 1022393=
 {
-	name="Tarj√°n"
+	name="Tarj·n"
 	culture="hungarian"
 	religion="tengri_pagan"
 }
@@ -40919,13 +41385,9 @@
 	name="Wuffing"
 	culture="saxon"
 	religion="norse_pagan"
-	coat_of_arms=
-	{
-		data=
-		{
-0 8 0 27 0 0 0 			}
-		religion="catholic"
-	}
+	coat_of_arms={
+				data={0 2 0 35 3 1 1 }
+				religion="catholic" }
 }
 1047002=
 {
@@ -41348,6 +41810,54 @@
 	culture="kannada"
 	religion="hindu"
 }
+1044403=
+{
+	name="Lohmander"
+	culture="rajput"
+	religion="hindu"
+	used_for_random=no
+}
+1044404=
+{
+	name="Khanzada"
+	culture="rajput"
+	religion="sunni"
+}
+1044405=
+{
+	name="Boccaccio"
+	culture="italian"
+	religion="catholic"
+}
+1044406=
+{
+	name="Petrarca"
+	culture="italian"
+	religion="catholic"
+}
+1044407=
+{
+	name="Fibonacci"
+	culture="italian"
+	religion="catholic"
+}
+1044410=
+{
+	name="degli Alighieri"
+	culture="italian"
+	religion="catholic"
+}
+1044408=
+{
+	name="Khorasani" #Fictitious
+	culture="levantine_arabic"
+	religion="sunni"
+}
+1044409={
+	name="Athanagildid"
+	culture="visigothic"
+	religion="catholic"
+}
 1042185=
 {
 	name="Karlukid"
@@ -41464,13 +41974,13 @@
 }
 1045003=
 {
-	name="Nuor√°ne"
+	name="Nuor·ne"
 	culture="lappish"
 	religion="finnish_pagan"
 }
 1045004=
 {
-	name="G√°jka"
+	name="G·jka"
 	culture="lappish"
 	religion="finnish_pagan"
 }
@@ -41518,7 +42028,7 @@
 }
 1045012=
 {
-	name="av Ask√∏"
+	name="av Ask¯"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -41530,7 +42040,7 @@
 }
 1045014=
 {
-	name="av R√∏ra"
+	name="av R¯ra"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -41560,7 +42070,7 @@
 }
 1045019=
 {
-	name="Vans√∂"
+	name="Vansˆ"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -41584,7 +42094,7 @@
 }
 1045023=
 {
-	name="af √Öland"
+	name="af ≈land"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -41634,7 +42144,7 @@
 }
 1047010=
 {
-	name="√Üthelfrithing"
+	name="∆thelfrithing"
 	culture="saxon"
 	religion="norse_pagan"
 }
@@ -41681,18 +42191,18 @@
 }
 1047016=
 {
-	name="√Übbing"
+	name="∆bbing"
 	culture="saxon"
 }
 1047017=
 {
-	name="H√¶sting"
+	name="HÊsting"
 	culture="saxon"
 	religion="catholic"
 }
 1047007=
 {
-	name="√Ülling"
+	name="∆lling"
 	culture="saxon"
 }
 1044092=
@@ -41945,7 +42455,7 @@
 }
 1045058=
 {
-	name="af H√§lsingland"
+	name="af H‰lsingland"
 	culture="swedish"
 	religion="norse_pagan"
 }
@@ -42029,7 +42539,7 @@
 }
 1045072=
 {
-	name="av R√∏st"
+	name="av R¯st"
 	culture="norwegian"
 	religion="catholic"
 }
@@ -42123,13 +42633,13 @@
 }
 1051104=
 {
-	name="√úz√ºmc√º"
+	name="‹z¸mc¸"
 	culture="uyghur"
 	religion="manichean"
 }
 1051105=
 {
-	name="Sarig√ºl"
+	name="Sarig¸l"
 	culture="turkish"
 	religion="tengri_pagan"
 }
@@ -42147,19 +42657,19 @@
 }
 1051108=
 {
-	name="G√ºnaydin"
+	name="G¸naydin"
 	culture="kirghiz"
 	religion="manichean"
 }
 1051109=
 {
-	name="Kili√ßli"
+	name="KiliÁli"
 	culture="kirghiz"
 	religion="manichean"
 }
 1051110=
 {
-	name="S√∂nmez"
+	name="Sˆnmez"
 	culture="kirghiz"
 }
 1051111=
@@ -42289,7 +42799,7 @@
 }
 1051121=
 {
-	name="M√ºjde"
+	name="M¸jde"
 	culture="uyghur"
 	religion="buddhist"
 }
@@ -42337,7 +42847,7 @@
 }
 1051135=
 {
-	name="K√∂pek"
+	name="Kˆpek"
 	culture="cuman"
 	religion="tengri_pagan"
 }
@@ -42405,7 +42915,7 @@
 {
 	name="Afshin"
 	culture="sogdian"
-	religion="manichean"
+	religion="khurmazta"
 }
 1051146=
 {
@@ -42441,6 +42951,1173 @@
 	culture = sinhala
 	religion = buddhist
 }
+################################# 
+### Chinese dynasties
+#################################
+1051150=
+{
+	name = "Li"
+	culture = han
+	religion = taoist
+	used_for_random = no
+}
+1051151=
+{
+	name = "Zhao"
+	culture = han
+	religion = taoist
+	coat_of_arms=
+	{
+		data={0 0 0 16 5 1 2}
+		religion="taoist"
+	}
+	used_for_random = no
+}
+1051152=
+{
+	name = "Wu"
+	culture = han
+	religion = taoist
+	used_for_random = no
+}
+1055000=
+{
+	name = "Feng"
+	culture = han
+	religion = taoist
+}
+1055001=
+{
+	name = "Guo"
+	culture = han
+	religion = taoist
+}
+1055002=
+{
+	name = "Gao"
+	culture = han
+	religion = taoist
+}
+1055003=
+{
+	name = "Ye"
+	culture = han
+	religion = taoist
+}
+1055004=
+{
+	name = "Ren"
+	culture = han
+	religion = taoist
+}
+1055005=
+{
+	name = "Wang"
+	culture = han
+	religion = taoist
+}
+1055006=
+{
+	name = "Zhang"
+	culture = han
+	religion = taoist
+}
+1055007=
+{
+	name = "Zhao"
+	culture = han
+	religion = taoist
+}
+1055008=
+{
+	name = "Miao"
+	culture = han
+	religion = taoist
+}
+1055009=
+{
+	name = "Liu"
+	culture = han
+	religion = taoist
+}
+1055010=
+{
+	name = "Fan"
+	culture = han
+	religion = taoist
+}
+1055011=
+{
+	name = "Jiang"
+	culture = han
+	religion = taoist
+}
+1055012=
+{
+	name = "Wang"
+	culture = han
+	religion = taoist
+}
+1055013=
+{
+	name = "Zhong"
+	culture = han
+	religion = taoist
+}
+1055014=
+{
+	name = "Zhang"
+	culture = han
+	religion = taoist
+}
+1055015=
+{
+	name = "Sun"
+	culture = han
+	religion = taoist
+}
+1055016=
+{
+	name = "Li"
+	culture = han
+	religion = taoist
+	coat_of_arms={
+		data={0 0 0 5 2 1 14}
+		religion="taoist"
+	}
+}
+1055017=
+{
+	name = "Yao"
+	culture = han
+	religion = taoist
+}
+1055018=
+{
+	name = "Wu"
+	culture = han
+	religion = taoist
+}
+1055019=
+{
+	name = "Qian"
+	culture = han
+	religion = taoist
+}
+1055020=
+{
+	name = "Liu"
+	culture = han
+	religion = taoist
+}
+1055021=
+{
+	name="Zhou"
+	culture = han
+	religion = taoist
+	coat_of_arms={
+		data={0 1 0 9 1 2 5}
+		religion="taoist"
+	}
+}
+1055022=
+{
+	name = "Zheng"
+	culture = han
+	religion = taoist
+	coat_of_arms={
+		data={0 0 0 8 1 3 5}
+		religion="taoist"
+	}
+}
+1055023=
+{
+	name = "Chen"
+	culture = han
+	religion = taoist
+}
+1055024=
+{
+	name = "Chu"
+	culture = han
+	religion = taoist
+}
+1055025=
+{
+	name = "Wei"
+	culture = han
+	religion = taoist
+}
+1055026=
+{
+	name = "Shen"
+	culture = han
+	religion = taoist
+}
+1055027=
+{
+	name = "Han"
+	culture = han
+	religion = taoist
+}
+1055028=
+{
+	name = "Zhu"
+	culture = han
+	religion = taoist
+}
+1055029=
+{
+	name = "Qin"
+	culture = han
+	religion = taoist
+}
+1055030=
+{
+	name = "You"
+	culture = han
+	religion = taoist
+}
+1055031=
+{
+	name="Xu"
+	culture = han
+	religion = taoist
+}
+1055032=
+{
+	name = "He"
+	culture = han
+	religion = taoist
+}
+1055033=
+{
+	name = "L¸"
+	culture = han
+	religion = taoist
+}
+1055034=
+{
+	name = "Shi"
+	culture = han
+	religion = taoist
+}
+1055035=
+{
+	name = "Kong"
+	culture = han
+	religion = taoist
+}
+1055036=
+{
+	name = "Cao"
+	culture = han
+	religion = taoist
+}
+1055037=
+{
+	name = "Yan"
+	culture = han
+	religion = taoist
+}
+1055038=
+{
+	name = "Hua"
+	culture = han
+	religion = taoist
+}
+1055039=
+{
+	name = "Jin"
+	culture = han
+	religion = taoist
+}
+1055040=
+{
+	name = "Tao"
+	culture = han
+	religion = taoist
+}
+1055041=
+{
+	name = "Jiaang"
+	culture = han
+	religion = taoist
+}
+1055042=
+{
+	name = "Qi"
+	culture = han
+	religion = taoist
+}
+1055043=
+{
+	name = "Xie"
+	culture = han
+	religion = taoist
+}
+1055044=
+{
+	name = "Zou"
+	culture = han
+	religion = taoist
+}
+1055045=
+{
+	name = "Yu"
+	culture = han
+	religion = taoist
+}
+1055046=
+{
+	name = "Bai"
+	culture = han
+	religion = taoist
+}
+1055047=
+{
+	name = "Dou"
+	culture = han
+	religion = taoist
+}
+1055048=
+{
+	name = "Yun"
+	culture = han
+	religion = taoist
+}
+1055049=
+{
+	name = "Su"
+	culture = han
+	religion = taoist
+}
+1055050=
+{
+	name = "Pan"
+	culture = han
+	religion = taoist
+}
+1055051=
+{
+	name = "Ge"
+	culture = han
+	religion = taoist
+}
+1055052=
+{
+	name = "Xi"
+	culture = han
+	religion = taoist
+}
+1055053=
+{
+	name = "Peng"
+	culture = han
+	religion = taoist
+}
+1055054=
+{
+	name = "Lang"
+	culture = han
+	religion = taoist
+}
+1055055=
+{
+	name = "Lu"
+	culture = han
+	religion = taoist
+	coat_of_arms=
+	{
+		data={0 0 0 21 11 9 2}
+		religion="taoist"
+	}
+}
+1055056=
+{
+	name = "Chang"
+	culture = han
+	religion = taoist
+}
+1055057=
+{
+	name = "Ma"
+	culture = han
+	religion = taoist
+}
+1055058=
+{
+	name = "Fang"
+	culture = han
+	religion = taoist
+}
+1055060=
+{
+	name = "Bao"
+	culture = han
+	religion = taoist
+}
+1055062=
+{
+	name = "Fei"
+	culture = han
+	religion = taoist
+}
+1055063=
+{
+	name = "Lian"
+	culture = han
+	religion = taoist
+}
+1055064=
+{
+	name = "Cen"
+	culture = han
+	religion = taoist
+}
+1055065=
+{
+	name = "Xue"
+	culture = han
+	religion = taoist
+}
+1055066=
+{
+	name = "Lei"
+	culture = han
+	religion = taoist
+}
+1055067=
+{
+	name = "Ni"
+	culture = han
+	religion = taoist
+}
+1055068=
+{
+	name = "Teng"
+	culture = han
+	religion = taoist
+}
+1055069=
+{
+	name = "Yin"
+	culture = han
+	religion = taoist
+}
+1055070=
+{
+	name = "Luo"
+	culture = han
+	religion = taoist
+}
+1055071=
+{
+	name = "Bi"
+	culture = han
+	religion = taoist
+}
+1055072=
+{
+	name = "Hao"
+	culture = han
+	religion = taoist
+}
+1055073=
+{
+	name = "An"
+	culture = han
+	religion = taoist
+}
+1055074=
+{
+	name = "Yue"
+	culture = han
+	religion = taoist
+}
+1055075=
+{
+	name = "Pi"
+	culture = han
+	religion = taoist
+}
+1055076=
+{
+	name = "Bian"
+	culture = han
+	religion = taoist
+}
+1055077=
+{
+	name = "Kang"
+	culture = han
+	religion = taoist
+}
+1055078=
+{
+	name = "Bu"
+	culture = han
+	religion = taoist
+}
+1055079=
+{
+	name = "Gu"
+	culture = han
+	religion = taoist
+}
+1055080=
+{
+	name = "Meng"
+	culture = han
+	religion = taoist
+}
+1055081=
+{
+	name = "Ping"
+	culture = han
+	religion = taoist
+}
+1055082=
+{
+	name = "Huang"
+	culture = han
+	religion = taoist
+}
+1055083=
+{
+	name = "Mu"
+	culture = han
+	religion = taoist
+}
+1055084=
+{
+	name = "Xiao"
+	culture = han
+	religion = taoist
+}
+1055085=
+{
+	name = "Shao"
+	culture = han
+	religion = taoist
+}
+1055086=
+{
+	name = "Zhan"
+	culture = han
+	religion = taoist
+}
+1055087=
+{
+	name = "Mao"
+	culture = han
+	religion = taoist
+}
+1055088=
+{
+	name = "Di"
+	culture = han
+	religion = taoist
+}
+1055089=
+{
+	name = "Mi"
+	culture = han
+	religion = taoist
+}
+1055090=
+{
+	name = "Bei"
+	culture = han
+	religion = taoist
+}
+1055091=
+{
+	name = "Ping"
+	culture = han
+	religion = taoist
+}
+1055093=
+{
+	name = "Zang"
+	culture = han
+	religion = taoist
+}
+1055094=
+{
+	name = "Sima"
+	culture = han
+	religion = taoist
+}
+1055095=
+{
+	name = "Shangguan"
+	culture = han
+	religion = taoist
+}
+1055096=
+{
+	name = "Ouyang"
+	culture = han
+	religion = taoist
+}
+1055097=
+{
+	name = "Xiahou"
+	culture = han
+	religion = taoist
+}
+1055098=
+{
+	name = "Zhuge"
+	culture = han
+	religion = taoist
+}
+1055099=
+{
+	name = "Wenren"
+	culture = han
+	religion = taoist
+}
+1055100=
+{
+	name = "Dongfang"
+	culture = han
+	religion = taoist
+}
+1055101=
+{
+	name = "Huangfu"
+	culture = han
+	religion = taoist
+}
+1055102=
+{
+	name = "Yuchi"
+	culture = han
+	religion = taoist
+}
+1055103=
+{
+	name = "Gongyang"
+	culture = han
+	religion = taoist
+}
+1055104=
+{
+	name = "Gongsun"
+	culture = han
+	religion = taoist
+}
+1055105=
+{
+	name = "Zhongsun"
+	culture = han
+	religion = taoist
+}
+1055106=
+{
+	name = "Xuanyan"
+	culture = han
+	religion = taoist
+}
+1055107=
+{
+	name = "Linghu"
+	culture = han
+	religion = taoist
+}
+1055108=
+{
+	name = "Zhongli"
+	culture = han
+	religion = taoist
+}
+1055109=
+{
+	name = "Yuwen"
+	culture = han
+	religion = taoist
+}
+1055110=
+{
+	name = "Zhangsun"
+	culture = han
+	religion = taoist
+}
+1055111=
+{
+	name = "Murong"
+	culture = han
+	religion = taoist
+}
+1055112=
+{
+	name = "Huyan"
+	culture = han
+	religion = taoist
+}
+1055113=
+{
+	name = "Nangong"
+	culture = han
+	religion = taoist
+}
+1055114=
+{
+	name = "Dugu"
+	culture = han
+	religion = taoist
+}
+
+105837 = {
+	name="Yang" #Imperial family of Sui
+	culture="han"
+	religion="taoist"
+}
+
+105853 = {
+	name="Helan"
+	culture="han"
+	religion="taoist"
+}
+
+105854 = {
+	name="Chai"
+	culture="han"
+	religion="taoist"
+}
+
+105855 = {
+	name="Dao"
+	culture="han"
+	religion="taoist"
+}
+
+105856 = {
+	name="Doulu"
+	culture="han"
+	religion="taoist"
+}
+
+#################################
+### Jurchen Dynasties
+#################################
+
+1051153=
+{
+	name = "Wanyan"
+	culture = jurchen
+	religion = taoist
+	#used_for_random = no
+}
+1051154=
+{
+	name = "Ahanba"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051155=
+{
+	name = "AiöÔn"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051156=
+{
+	name = "Aotun"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051157=
+{
+	name = "Atai"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051158=
+{
+	name = "BujowÊ"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051159=
+{
+	name = "Juhung"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051160=
+{
+	name = "∆luÊ"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051161=
+{
+	name = "Fojomon"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051162=
+{
+	name = "FuÁian"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051163=
+{
+	name = "Giagu"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051164=
+{
+	name = "Giaoru"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051165=
+{
+	name = "Guaiuruan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051166=
+{
+	name = "HÊrsurgia"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051167=
+{
+	name = "HÊöÔriÊ"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051168=
+{
+	name = "MÊnin"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051169=
+{
+	name = "Nahu"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051170=
+{
+	name = "Sahala"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051171=
+{
+	name = "äaron"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051172=
+{
+	name = "äÔjan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051173=
+{
+	name = "Jang"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051174=
+{
+	name = "Tukdan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051175=
+{
+	name = "CÊncun"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051176=
+{
+	name = "Ugueisun"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051177=
+{
+	name = "Ulyan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051178=
+{
+	name = "UndihÊn"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051179=
+{
+	name = "Usaye"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051180=
+{
+	name = "WangsurÊwei"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051181=
+{
+	name = "Wongian"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051182=
+{
+	name = "Wangiyyan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051183=
+{
+	name = "Nalan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051184=
+{
+	name = "Tushan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051185=
+{
+	name = "Pusan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051186=
+{
+	name = "äuhu"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051187=
+{
+	name = "Wugulun"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051188=
+{
+	name = "Tangkuo"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051189=
+{
+	name = "Wendihen"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051190=
+{
+	name = "Wusazha"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051191=
+{
+	name = "Pucha"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051192=
+{
+	name = "Peiman"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051193=
+{
+	name = "Wulinda"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051194=
+{
+	name = "Tudan"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051195=
+{
+	name = "Heöilie"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051196=
+{
+	name = "Dilie"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051197=
+{
+	name = "Ikderi"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051198=
+{
+	name = "Aolimi"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051199=
+{
+	name = "Puali"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051200=
+{
+	name = "Yuelidu"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051201=
+{
+	name = "Tieli"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051202=
+{
+	name = "Punuli"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051203=
+{
+	name = "Odoli"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051204=
+{
+	name = "Huligai"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051205=
+{
+	name = "Tuowen"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051206=
+{
+	name = "Nianhe"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051207=
+{
+	name = "äuyaojia"
+	culture = jurchen
+	religion = tengri_pagan
+}
+
+1051208=
+{
+	name = "Wu"
+	culture = han
+	religion = taoist
+	used_for_random = no
+}
+
+# Borjigin clone for event spawned characters
+1051210=
+{
+	name="Borjigin"
+	culture="mongol"
+	religion="tengri_pagan"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 8 0 44 0 0 0 			
+		}
+		religion="catholic"
+	}
+	used_for_random=no
+}
+
+
+#################################
+
+
 1040021=
 {
 	name="Polo"
@@ -42622,7 +44299,7 @@
 }
 1040054=
 {
-	name="Kror√§n"
+	name="Kror‰n"
 	culture="tocharian"
 	religion="buddhist"
 }
@@ -42757,7 +44434,7 @@
 	religion = sunni
 }
 1045101 = {
-	name = Aqt√∂be
+	name = Aqtˆbe
 	culture = mongol
 	religion = sunni
 }
@@ -42805,4 +44482,2070 @@
 	name = Zhezdi
 	culture = cuman
 	religion = tengri_pagan
+}
+1053000 = {
+	name = Rav #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053001 = {
+	name = Paas #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053002 = {
+	name = Shkai #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053003 = {
+	name = Mastoratia #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053004 = {
+	name = Chipaz #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053005 = {
+	name = Nishkepaz #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053006 = {
+	name = "Ange Patiai" #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053007=
+{
+	name="Gˆk" #Ficticious
+	culture="turkish"
+	religion="sunni"
+}
+1053008=
+{
+	name="Mavi" #Ficticious
+	culture="turkish"
+	religion="sunni"
+}
+1053009=
+{
+	name="Yesil" #Ficticious
+	culture="turkish"
+	religion="sunni"
+}
+1053010=
+{
+	name="G¸Ál¸" #Ficticious
+	culture="turkish"
+	religion="sunni"
+}
+1053011=
+{
+	name="R¸zgar" #Ficticious
+	culture="turkish"
+	religion="sunni"
+}
+1053012=
+{
+	name="‹zengi" #Ficticious
+	culture="turkish"
+	religion="sunni"
+}
+1053013=
+{
+	name="Mastoron Kirdi" #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053014=
+{
+	name="Shkay" #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053015=
+{
+	name="Kardaz-Scrko" #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053016=
+{
+	name="Tushtyan" #Ficticious
+	culture = mordvin
+	religion = finnish_pagan
+}
+1053017=
+{
+	name="Norrevik"
+	culture="swedish"
+	religion="catholic"
+	coat_of_arms= {
+		data=
+		{ 1 1 23 7 3 4 3 0 23 3 3 4 3 7 0 1 0 0 0 7 0 1 0 0 0 }
+		religion="catholic"
+	}
+}
+1053018=
+{
+	name="OlsÈn"
+	culture="norwegian"
+	religion="catholic"
+	coat_of_arms = {
+		data=
+		{ 0 0 0 6 0 11 5 }
+		religion="hindu"
+	}
+	used_for_random=no
+}
+
+1053019=
+{
+	name="Lankinen" #Ficticious
+	culture = finnish
+	religion = finnish_pagan
+	coat_of_arms = {
+		data = {
+			0 1 0 16 5 12 9
+		}
+		religion="finnish_pagan"
+	}
+}
+
+1053020=
+{
+	name="Bjarnehed" #Ficticious
+	culture = swedish
+	religion = catholic
+	coat_of_arms = {
+		data = {
+			1 4 0 30 14 11 0 4 0 30 14 1 0 4 0 30 2 0 0 4 0 30 2 0 0 }
+		religion="catholic"
+	}
+	used_for_random=no
+}
+
+1053021=
+{
+	name="Bialecki" #Ficticious
+	culture = polish
+	religion = catholic
+	coat_of_arms = {
+		data = {
+			0 2 22 5 0 2 2 4 0 26 0 0 0 4 0 26 0 0 0 4 0 26 0 0 0 }
+		religion="catholic"
+	}
+	used_for_random=no
+}
+
+1053022=
+{
+	name="Kuiper" #Ficticious
+	culture = dutch
+	religion = catholic
+	coat_of_arms = {
+		data = {
+			0 4 0 8 7 12 1 0 0 34 3 1 1 0 0 34 3 1 1 0 0 34 3 1 1 }
+		religion="catholic"
+	}
+	used_for_random=no
+}
+
+1053023=
+{
+	name="SkjÊran" #Totally 100% historical
+	culture="norwegian"
+	religion="cathar"
+	used_for_random=no
+}
+
+1040066 = {
+	name="Jadaran"
+	culture = mongol
+}
+1040067 = {
+	name="Baarin"
+	culture = mongol
+}
+1040068 = {
+	name="Bargujin"
+	culture = mongol
+}
+1040069 = {
+	name="Borogchin"
+	culture = mongol
+}
+1040070 = {
+	name="Mongoljin"
+	culture = mongol
+}
+1040071 = {
+	name="Quralas"
+	culture = mongol
+}
+1040072 = {
+	name="Uvas Mergid"
+	culture = mongol
+}
+1040073 = {
+	name="Tatar"
+	culture = mongol
+}
+1040074 = {
+	name="Z¸b¸"
+	culture = mongol
+}
+1040075 = {
+	name="Oirat"
+	culture = mongol
+	religion = tengri_pagan
+}
+1040076 = {
+	name="Ikheres"
+	culture = mongol
+}
+1040077 = {
+	name="Eljigin"
+	culture = mongol
+}
+1040078 = {
+	name="Dˆrbet"
+	culture = mongol
+}
+1040079 = {
+	name="Chonos"
+	culture = mongol
+}
+1040080 = {
+	name="Bairam"
+	culture = mongol
+}
+214019={
+	name="Wintaling" 
+	culture="saxon"
+	religion="catholic"
+}
+1040081 = {
+   name="de Unale of Naples"
+   culture="italian"
+   religion="catholic"
+}
+
+1040082 = {
+   name="di Alando"
+   culture="italian"
+   religion="catholic"
+}
+
+1040083 = {
+   name="de Unale of Naples"
+   culture="italian"
+   religion="catholic"
+}
+
+1040084 = {
+   name="Cipolla"
+   culture="italian"
+   religion="catholic"
+}
+
+1040085 = {
+   name="Glandi"
+   culture="italian"
+   religion="catholic"
+}
+
+1040086 = {
+   name="Cappai"
+   culture="italian"
+   religion="catholic"
+}
+
+1040087 = {
+   name="Capraia"
+   culture="italian"
+   religion="catholic"
+}
+
+1040088 = {
+   name="di Cinarca"
+   culture="italian"
+   religion="catholic"
+}
+
+1040089 = {
+   name="Biancolaccio"
+   culture="italian"
+   religion="catholic"
+}
+
+1040090 = {
+   name="di Cozzi"
+   culture="italian"
+   religion="catholic"
+}
+
+1040091 = {
+   name="da Covasina"
+   culture="italian"
+   religion="catholic"
+}
+
+1040092 = {
+   name="di Ornano"
+   culture="italian"
+   religion="catholic"
+}
+
+1040093 = {
+   name="di Istria"
+   culture="italian"
+   religion="catholic"
+}
+
+1040094 = {
+   name="di Gallura"
+   culture="italian"
+   religion="catholic"
+}
+
+1040095 = {
+   name="di Logudoro"
+   culture="italian"
+   religion="catholic"
+}
+
+1040096 = {
+   name="di Agugliastra"
+   culture="italian"
+   religion="catholic"
+}
+
+1040097 ={
+   name="Salusiu de Lacon"
+   culture="italian"
+   religion="catholic"
+}
+1040098 ={
+   name="Torchitoriu de Ugunale"
+   culture="italian"
+   religion="catholic"
+}
+1040099 ={
+   name="de Lacon Gunale"
+   culture="italian"
+   religion="catholic"
+}
+1040100 ={
+   name="de Serra"
+   culture="italian"
+   religion="catholic"
+}
+1040101 ={
+   name="de Athen"
+   culture="italian"
+   religion="catholic"
+}
+1040102 ={
+   name="de Orrubu"
+   culture="italian"
+   religion="catholic"
+}
+1040103 ={
+   name="de Lacon Zori"
+   culture="italian"
+   religion="catholic"
+}
+1040104 ={
+   name="de Zori"
+   culture="italian"
+   religion="catholic"
+}
+1040105 ={
+   name="de Salanis"
+   culture="italian"
+   religion="catholic"
+}
+1040106 ={
+   name="Bas Serra"
+   culture="italian"
+   religion="catholic"
+}
+1040107 ={
+   name="de Kerki"
+   culture="italian"
+   religion="catholic"
+}
+1040108 ={
+   name="Cappai de Bas"
+   culture="italian"
+   religion="catholic"
+}
+1040109 ={
+   name="Gambella"
+   culture="italian"
+   religion="catholic"
+}
+1040110 ={
+   name="Spanu"
+   culture="italian"
+   religion="catholic"
+}
+1040111 ={
+   name="Sogostas"
+   culture="italian"
+   religion="catholic"
+}
+1040112 ={
+   name="Solinas"
+   culture="italian"
+   religion="catholic"
+}
+1040113 ={
+   name="Porcu"
+   culture="italian"
+   religion="catholic"
+}
+1040114 ={
+   name="Romanu"
+   culture="italian"
+   religion="catholic"
+}
+1040115 ={
+   name="Pisanu"
+   culture="italian"
+   religion="catholic"
+}
+1040116 ={
+   name="Lucchesu"
+   culture="italian"
+   religion="catholic"
+}
+1040117 ={
+   name="Sanna"
+   culture="italian"
+   religion="catholic"
+}
+1040118 ={
+   name="Mereu"
+   culture="italian"
+   religion="catholic"
+}
+1040119 ={
+   name="Pinna"
+   culture="italian"
+   religion="catholic"
+}
+1040120 ={
+   name="Virdis"
+   culture="italian"
+   religion="catholic"
+}
+1040121 ={
+   name="Manca"
+   culture="italian"
+   religion="catholic"
+}
+1040122 ={
+   name="Canu"
+   culture="italian"
+   religion="catholic"
+}
+1040123 ={
+   name="Nieddu"
+   culture="italian"
+   religion="catholic"
+}
+1040124 ={
+   name="Pintus"
+   culture="italian"
+   religion="catholic"
+}
+1040125 ={
+   name="Piras"
+   culture="italian"
+   religion="catholic"
+}
+1040126 ={
+   name="Melis"
+   culture="italian"
+   religion="catholic"
+}
+1040127 ={
+   name="Mura"
+   culture="italian"
+   religion="catholic"
+}
+1040128 ={
+   name="Murtas"
+   culture="italian"
+   religion="catholic"
+}
+1040129 ={
+   name="Floris"
+   culture="italian"
+   religion="catholic"
+}
+1040130 ={
+   name="Vacca"
+   culture="italian"
+   religion="catholic"
+}
+1040131 ={
+   name="Meloni"
+   culture="italian"
+   religion="catholic"
+}
+1040132 ={
+   name="Mele"
+   culture="italian"
+   religion="catholic"
+}
+1040133 ={
+   name="Fenu"
+   culture="italian"
+   religion="catholic"
+}
+1040134 ={
+   name="Puddu"
+   culture="italian"
+   religion="catholic"
+}
+1040135 ={
+   name="Boi"
+   culture="italian"
+   religion="catholic"
+}
+1040136 ={
+   name="Usai"
+   culture="italian"
+   religion="catholic"
+}
+1040137 ={
+   name="Pilloni"
+   culture="italian"
+   religion="catholic"
+}
+1040138 ={
+   name="Cadeddu"
+   culture="italian"
+   religion="catholic"
+}
+1040139 ={
+   name="Nuraghe"
+   culture="italian"
+   religion="catholic"
+}
+1040140 ={
+   name="Lodde"
+   culture="italian"
+   religion="catholic"
+}
+1040141 ={
+   name="Piga"
+   culture="italian"
+   religion="catholic"
+}
+1040142 ={
+   name="Nughedu"
+   culture="italian"
+   religion="catholic"
+}
+1040143 ={
+   name="Ardu"
+   culture="italian"
+   religion="catholic"
+}
+1040144 ={
+   name="Artitzu"
+   culture="italian"
+   religion="catholic"
+}
+1040145 ={
+   name="Zappu"
+   culture="italian"
+   religion="catholic"
+}
+1040146 ={
+   name="Zara"
+   culture="italian"
+   religion="catholic"
+}
+1040147 ={
+   name="Zurru"
+   culture="italian"
+   religion="catholic"
+}
+1040148 ={
+   name="Sardi"
+   culture="italian"
+   religion="catholic"
+}
+1040149 ={
+   name="SardÏgna"
+   culture="italian"
+   religion="catholic"
+}
+214020={
+	name="Dabuyid" 
+	culture="persian"
+	religion="zoroastrian"
+}
+242000={
+	name="al-Muzaffar" 
+	culture="greek"
+	religion="orthodox"
+}
+105800 =
+{
+	name="Purgyal"
+	culture="bodpa"
+	religion="buddhist"
+	coat_of_arms=
+	{
+		data={0 0 0 13 0 11 5}
+		religion="buddhist"
+	}
+}
+
+105801 = {
+	name="Namgyal"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105802 = {
+	name="Khon"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105803 = {
+	name="Glo"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105804 = {
+	name="Chakhar"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105805 = {
+	name="Lhomon"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105806 = {
+	name="Monyul"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105807 = {
+	name="Tsepong"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105808 = {
+	name="Zhangzhung"
+	culture="zhangzhung"
+	religion="bon"
+}
+
+105809 = {
+	name="Lig"
+	culture="zhangzhung"
+	religion="bon"
+}
+
+105810 = {
+	name="Ng¸lkhar"
+	culture="zhangzhung"
+	religion="bon"
+}
+
+105811 = {
+	name="Mang"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105812 = {
+	name="Ruyong"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105813 = {
+	name="Thonmi"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105814 = {
+	name="Myang"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105815 = {
+	name="Gnyal"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105816 = {
+	name="Gar"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105817 = {
+	name="Licchavi"
+	culture="nepali"
+	religion="buddhist"
+}
+
+105818 = {
+	name="Murong"
+	culture="khitan"
+	religion="tengri_pagan"
+}
+
+105819 = {
+	name="Li"
+	culture="han"
+	religion="taoist"
+}
+
+105820 = {
+	name="'Damgyi"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105821 = {
+	name="Chimza"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105822 = {
+	name="Nanam"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105823 = {
+	name="Meng" #Rulers of Nanzhou
+	culture="han" #bai
+	religion="buddhist"
+}
+
+105824 = {
+	name="Oddiyana"
+	culture="panjabi" #kashmiri
+	religion="hindu"
+}
+
+105825 = {
+	name="Katoch"
+	culture="panjabi" #kashmiri
+	religion="hindu"
+}
+
+105826 = {
+	name="Katyuri"
+	culture="hindustani" #khaskura
+	religion="hindu"
+}
+
+105827 = {
+	name="Karchen"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105828 = {
+	name="Lharig"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105829 = {
+	name="Bari"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105830 = {
+	name="Machig"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105831 = {
+	name="Sharpa"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105832 = {
+	name="Palrin"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105833 = {
+	name="Khangsarpa"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105834 = {
+	name="Lang"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+105835 = {
+	name="Tong"
+	culture="sumpa"
+	religion="bon"
+}
+
+105836 = {
+	name="Suhe"
+	culture="khitan"
+	religion="tengri_pagan"
+}
+
+105838 = {
+	name="Jinming"
+	culture="han"
+	religion="taoist"
+}
+
+105839 = {
+	name="Thakuri"
+	culture="nepali"
+	religion="buddhist"
+}
+
+105840 = {
+	name="Nuwakot Thakuri"
+	culture="nepali"
+	religion="hindu"
+}
+
+105841 = {
+	name="Suryavamsa"
+	culture="nepali"
+	religion="hindu"
+}
+
+105842 = {
+	name="Malla"
+	culture="nepali"
+	religion="hindu"
+}
+
+105843 = {
+	name="Chand"
+	culture="hindustani" #khaskura
+	religion="hindu"
+}
+
+105844 = {
+	name="Khasiya"
+	culture="hindustani" #khaskura
+	religion="hindu"
+}
+
+105845 = {
+	name="Parmar"
+	culture="hindustani" #garhwali
+	religion="hindu"
+}
+
+105846 = {
+	name="Kutumbi"
+	culture="panjabi" #kashmiri
+	religion="hindu"
+}
+
+105847 = {
+	name="Divira"
+	culture="panjabi" #kashmiri
+	religion="hindu"
+}
+
+105848 = {
+	name="Patola Sahi"
+	culture="panjabi" #kashmiri
+	religion="buddhist"
+}
+
+105849 = {
+	name="Kayani"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+
+105850 = {
+	name="Darel"
+	culture="panjabi" #kashmiri
+	religion="buddhist"
+}
+
+105851 = {
+	name="Trakhan"
+	culture="turkish"
+	religion="buddhist"
+}
+
+105852 = {
+	name="Raisiyya"
+	culture="turkish"
+	religion="shiite"
+}
+1059000 = {
+	name="Daroot"
+	culture="persian" #tajik
+	religion="zoroastrian"
+}
+
+1059001 = {
+	name="Sughnan"
+	culture="persian" #tajik
+	religion="shiite"
+}
+
+1059002 = {
+	name="Mirs"
+	culture="persian" #tajik
+	religion="sunni"
+}
+
+1059003 = {
+	name="Roshan"
+	culture="persian" #tajik
+	religion="sunni"
+}
+
+1059004 = {
+	name="Gorno"
+	culture="persian" #tajik
+	religion="sunni"
+}
+1059005 = {
+	name="Guliab"
+	culture="persian" #tajik
+	religion="shiite"
+}
+1059006 = {
+	name="Zulcarnei"
+	culture="persian" #tajik
+	religion="zoroastrian"
+}
+
+1059007 = {
+	name="Muhtajid"
+	culture="turkish" #uzbek
+	religion="sunni"
+}
+
+1053024 = { # Fictional
+	name="Shambhala"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+1053025 = { # Fictional
+	name="Lˆnts‰n"
+	culture="bodpa"
+	religion="buddhist"
+}
+
+1053026 = { # Fictional
+	name="Mgar"
+	culture="zhangzhung"
+	religion="bon"
+}
+
+1053027 = { # Fictional
+	name="Camakakhura"
+	culture="bodpa"
+	religion="bon"
+}
+
+1053028 = { # Fictional
+	name="Kekadhunama"
+	culture="bodpa"
+	religion="bon"
+}
+
+1053029 = { # Fictional
+	name="Miwoche"
+	culture="bodpa"
+	religion="bon"
+}
+
+1053030 = { # Fictional
+	name="Toompea"
+	culture="tangut"
+	religion="buddhist"
+}
+
+1059008 = {
+	name="Qiepantuo"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+
+1059009 = {
+	name="Shina"
+	culture="panjabi"
+	religion="bon"
+}
+
+1059010 = {
+	name="Makpon"
+	culture="panjabi"
+	religion="shiite"
+}
+
+1059011 = {
+	name="Hunza"
+	culture="panjabi"
+	religion="buddhist"
+}
+
+#Assyrian dynasties
+
+1059012 = {
+	name="Bukhtishu"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059013 = {
+	name="Qatwa"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059014 = {
+	name="Nimreh"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059015 = {
+	name="Gazarta"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059016 = {
+	name="Salamas"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059017 = {
+	name="Zakho"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059018 = {
+	name="Arbilaya"
+	culture="assyrian"
+	religion="nestorian"
+}
+1059019 = {
+	name="Ebheri"
+	culture="ashkenazi"
+	religion="jewish"
+}
+1059020 = {
+	name="Mush"
+	culture="armenian"
+	religion="miaphysite"
+}
+1059021 = {
+	name="Orduk"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059022={
+	name="Adi"
+	culture="kurdish"
+	religion="zoroastrian"
+}
+1059023 = {
+	name="Al-Dawla"
+	culture="persian"
+	religion="jewish"
+}
+
+1053300={
+	name = "Ding"
+	culture = han
+	religion = taoist
+}
+1053301={
+	name = "Yang"
+	culture = han
+	religion = taoist
+}
+1053302={
+	name = "Jia"
+	culture = han
+	religion = taoist
+}
+1053303={
+	name = "Ju"
+	culture = han
+	religion = taoist
+}
+1053304={
+	name = "Yang"
+	culture = han
+	religion = taoist
+}
+1059024 = { 
+	name="Yalavach"
+	culture="persian"
+	religion="sunni"
+}
+1059025 = { 
+	name="Arpardi"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059026 = { 
+	name="Barlas"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059027 = { 
+	name="Khorchi"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059028 = { 
+	name="Qaraunas"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059029 = {
+	name="Arlat"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059030 = {
+	name="Dughlat"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059031 = {
+	name="Kereyit"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+1059032 = {
+	name="Begchik"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+
+1059033 = {
+	name="Unkut"
+	culture="khitan"
+	religion="buddhist"
+}
+
+1059034 = {
+	name="Sunit"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+
+1059035 = {
+	name="Beshbalik"
+	culture="uyghur"
+	religion="buddhist"
+}
+
+1029300=
+{
+	name="Tuoba"
+	culture="khitan"
+	religion="tengri_pagan"
+}
+1029301=
+{
+	name="Helan"
+	culture="khitan"
+	religion="tengri_pagan"
+}
+1029302=
+{
+	name="Weiming"
+	culture="tangut"
+	religion="taoist"
+}
+1029303=
+{
+	name="Weimu"
+	culture="tangut"
+	religion="taoist"
+}
+1029304=
+{
+	name="Yangmi"
+	culture="tangut"
+	religion="taoist"
+}
+1029305=
+{
+	name="Zhuli"
+	culture="tangut"
+	religion="taoist"
+}
+1029306=
+{
+	name="Ezangquhuai"
+	culture="tangut"
+	religion="taoist"
+}
+1029307=
+{
+	name="Yeli"
+	culture="tangut"
+	religion="taoist"
+}
+1029308=
+{
+	name="Meiyi"
+	culture="tangut"
+	religion="taoist"
+}
+1029309=
+{
+	name="Mozang"
+	culture="tangut"
+	religion="taoist"
+}
+1029310=
+{
+	name="Duola"
+	culture="tangut"
+	religion="taoist"
+}
+1029311=
+{
+	name="Mikemote"
+	culture="tangut"
+	religion="taoist"
+}
+1029312=
+{
+	name="Momu"
+	culture="tangut"
+	religion="taoist"
+}
+1029313=
+{
+	name="Liang"
+	culture="han"
+	religion="taoist"
+}
+1029314=
+{
+	name="Wang"
+	culture="han"
+	religion="taoist"
+}
+1029315=
+{
+	name="Luo"
+	culture="han"
+	religion="taoist"
+}
+1029316=
+{
+	name="Cao"
+	culture="han"
+	religion="taoist"
+}
+1029317=
+{
+	name="Tuoba"
+	culture="tangut"
+	religion="taoist"
+}
+1029318=
+{
+	name="Xifeng"
+	culture="tangut"
+	religion="taoist"
+}
+1029319=
+{
+	name="Feiting"
+	culture="tangut"
+	religion="taoist"
+}
+1029320=
+{
+	name="Wangli"
+	culture="tangut"
+	religion="taoist"
+}
+1029321=
+{
+	name="Pochao"
+	culture="tangut"
+	religion="taoist"
+}
+1029322=
+{
+	name="Yeci"
+	culture="tangut"
+	religion="taoist"
+}
+1029323=
+{
+	name="Fangdang"
+	culture="tangut"
+	religion="taoist"
+}
+1029324=
+{
+	name="Miqin"
+	culture="tangut"
+	religion="taoist"
+}
+1029325=
+{
+	name="Tangwu"
+	culture="tangut"
+	religion="taoist"
+}
+1029326=
+{
+	name="Qitai"
+	culture="tangut"
+	religion="taoist"
+}
+1029327=
+{
+	name="Wumi"
+	culture="tangut"
+	religion="taoist"
+}
+1029328=
+{
+	name="Pochou"
+	culture="tangut"
+	religion="taoist"
+}
+1029329={
+	name="Qibi"
+	culture="uyghur"
+	religion="tengri_pagan"
+}
+1059100={
+	name="Wakhanshah"
+	culture="sogdian"
+	religion="tengri_pagan" # Hepthalite origins
+}
+1059101={
+	name="Muqannid"
+	culture="sogdian"
+	religion="sunni"
+}
+1059102={
+	name="Khuttalanshah"
+	culture="sogdian"
+	religion="buddhist"
+}
+1059103={
+	name="Banijurid"
+	culture="persian"
+	religion="sunni"
+}
+1059104={
+	name="Al-Duhli"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1059105={
+	name="Wardana"
+	culture="sogdian"
+	religion="nestorian"
+}
+1059106={
+	name="Al-Barm"
+	culture="sogdian"
+	religion="nestorian"
+}
+1053100 = {
+	name="Song"
+	culture="han"
+	religion="taoist"
+}
+1053101 = {
+	name="Lu"
+	culture="han"
+	religion="taoist"
+}
+1053102 = {
+	name="Wu"
+	culture="han"
+	religion="taoist"
+}
+1053103 = {
+	name="Gongsun"
+	culture="han"
+	religion="taoist"
+}
+1053104 = {
+	name="Guan"
+	culture="han"
+	religion="taoist"
+}
+1053105 = {
+	name="Lin"
+	culture="han"
+	religion="taoist"
+}
+1053106 = {
+	name="Qin"
+	culture="han"
+	religion="taoist"
+}
+1053107 = {
+	name="Huyan"
+	culture="han"
+	religion="taoist"
+}
+1053108 = {
+	name="Hua"
+	culture="han"
+	religion="taoist"
+}
+1053109 = {
+	name="Chai"
+	culture="han"
+	religion="taoist"
+}
+1053110 = {
+	name="Li"
+	culture="han"
+	religion="taoist"
+}
+1053111 = {
+	name="Zhu"
+	culture="han"
+	religion="taoist"
+}
+1053112 = {
+	name="Lu"
+	culture="han"
+	religion="taoist"
+}
+1053113 = {
+	name="Wu"
+	culture="han"
+	religion="taoist"
+}
+1053114 = {
+	name="Dong"
+	culture="han"
+	religion="taoist"
+}
+1053115 = {
+	name="Zhang"
+	culture="han"
+	religion="taoist"
+}
+1053116 = {
+	name="Yang"
+	culture="han"
+	religion="taoist"
+}
+1053117 = {
+	name="Xu"
+	culture="han"
+	religion="taoist"
+}
+1053118 = {
+	name="Suo"
+	culture="han"
+	religion="taoist"
+}
+1053119 = {
+	name="Dai"
+	culture="han"
+	religion="taoist"
+}
+1053120 = {
+	name="Liu"
+	culture="han"
+	religion="taoist"
+}
+1053121 = {
+	name="Li"
+	culture="han"
+	religion="taoist"
+}
+1053122 = {
+	name="Shi"
+	culture="han"
+	religion="taoist"
+}
+1053123 = {
+	name="Mu"
+	culture="han"
+	religion="taoist"
+}
+1053124 = {
+	name="Lei"
+	culture="han"
+	religion="taoist"
+}
+1053125 = {
+	name="Li"
+	culture="han"
+	religion="taoist"
+}
+1053126 = {
+	name="Ruan"
+	culture="han"
+	religion="taoist"
+}
+1053127 = {
+	name="Zhang"
+	culture="han"
+	religion="taoist"
+}
+1053129 = {
+	name="Yang"
+	culture="han"
+	religion="taoist"
+}
+1053130 = {
+	name="Shi"
+	culture="han"
+	religion="taoist"
+}
+1053131 = {
+	name="Xie"
+	culture="han"
+	religion="taoist"
+}
+1053132 = {
+	name="Yan"
+	culture="han"
+	religion="taoist"
+}
+1053133 = {
+	name="Hu"
+	culture="han"
+	religion="taoist"
+}
+1053134 = {
+	name="Sun"
+	culture="han"
+	religion="taoist"
+}
+1060000={
+	name="Kinda"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1060002={
+	name="Madhhij"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1029330={
+	name="Visha"
+	culture="saka"
+	religion="buddhist"
+}
+1029331=
+{
+	name="Hinaza"
+	culture="saka"
+	religion="buddhist"
+}
+1029332=
+{
+	name="Kustana"
+	culture="saka"
+	religion="buddhist"
+}
+1029333=
+{
+	name="Hvamna"
+	culture="saka"
+	religion="buddhist"
+}
+1029334=
+{
+	name="Gaysata"
+	culture="saka"
+	religion="buddhist"
+}
+1029335=
+{
+	name="Ustaka"
+	culture="saka"
+	religion="buddhist"
+}
+1029336=
+{
+	name="Birgamdara"
+	culture="saka"
+	religion="buddhist"
+}
+1029337=
+{
+	name="Phamnaa"
+	culture="saka"
+	religion="buddhist"
+}
+1029338=
+{
+	name="Ca"
+	culture="saka"
+	religion="buddhist"
+}
+1029339=
+{
+	name="Yuttina"
+	culture="saka"
+	religion="buddhist"
+}
+
+1053200={ # Fictional
+	name="Phug"
+	culture="zhangzhung"
+	religion="bon"
+}
+1053201={ # Fictional
+	name="Pung"
+	culture="zhangzhung"
+	religion="bon"
+}
+1053202={ # Fictional
+	name="Brusha"
+	culture="zhangzhung"
+	religion="bon"
+}
+1053203={ # Fictional
+	name="Samtho"
+	culture="sumpa"
+	religion="bon"
+}
+1053204={ # Fictional
+	name="Nagchu"
+	culture="sumpa"
+	religion="bon"
+}
+1053205={ # Fictional
+	name="Qangtang"
+	culture="sumpa"
+	religion="bon"
+}
+105857 = {
+	name="Gurib"
+	culture="zhangzhung"
+	religion="bon"
+}
+105858 = {
+	name="Mu"
+	culture="zhangzhung"
+	religion="bon"
+}
+105859 = {
+	name="Triwer"
+	culture="zhangzhung"
+	religion="bon"
+}
+105860 = {
+	name="Khyung"
+	culture="zhangzhung"
+	religion="bon"
+}
+105861 = {
+	name="Tsepang"
+	culture="zhangzhung"
+	religion="bon"
+}
+105862 = {
+	name="Mra"
+	culture="zhangzhung"
+	religion="bon"
+}
+105863 = {
+	name="Chakpa"
+	culture="zhangzhung"
+	religion="bon"
+}
+105864 = {
+	name="Owo"
+	culture="zhangzhung"
+	religion="bon"
+}
+105865 = {
+	name="Hˆ"
+	culture="zhangzhung"
+	religion="bon"
+}
+105866 = {
+	name="Draktsa"
+	culture="zhangzhung"
+	religion="bon"
+}
+105867 = {
+	name="Dro"
+	culture="zhangzhung"
+	religion="bon"
+}
+105868 = {
+	name="Namthuk"
+	culture="zhangzhung"
+	religion="bon"
+}
+105869 = {
+	name="Nganlam"
+	culture="zhangzhung"
+	religion="bon"
+}
+105870 = {
+	name="Pa"
+	culture="zhangzhung"
+	religion="bon"
+}
+105871 = {
+	name="Zhu"
+	culture="zhangzhung"
+	religion="bon"
+}
+105872 = {
+	name="Meu"
+	culture="zhangzhung"
+	religion="bon"
+}
+105873 = {
+	name="Bru"
+	culture="zhangzhung"
+	religion="bon"
+}
+105874 = {
+	name="Kong"
+	culture="zhangzhung"
+	religion="bon"
+}
+105875 = {
+	name="Dak"
+	culture="zhangzhung"
+	religion="bon"
+}
+105876 = {
+	name="Nyang"
+	culture="zhangzhung"
+	religion="bon"
+}
+105877 = {
+	name="Tridun"
+	culture="zhangzhung"
+	religion="bon"
+}
+105878 = {
+	name="Shang"
+	culture="zhangzhung"
+	religion="bon"
+}
+105879 = {
+	name="Phacho"
+	culture="zhangzhung"
+	religion="bon"
+}
+105880 = {
+	name="Rawa"
+	culture="zhangzhung"
+	religion="bon"
+}
+105881 = {
+	name="Chuktshang"
+	culture="zhangzhung"
+	religion="bon"
+}
+105882 = {
+	name="Namru"
+	culture="zhangzhung"
+	religion="bon"
+}
+105896 = {
+	name="Se"
+	culture="zhangzhung"
+	religion="bon"
+}
+105897 = {
+	name="Ra"
+	culture="zhangzhung"
+	religion="bon"
+}
+105883 = {
+	name="Sumpa"
+	culture="sumpa"
+	religion="bon"
+}
+105884 = {
+	name="Supiya"
+	culture="sumpa"
+	religion="bon"
+}
+105885 = {
+	name="Sunpo"
+	culture="sumpa"
+	religion="bon"
+}
+105886 = {
+	name="Supi"
+	culture="sumpa"
+	religion="bon"
+}
+105887 = {
+	name="Suvarnagotra"
+	culture="sumpa"
+	religion="bon"
+}
+105888 = {
+	name="Dongkar"
+	culture="sumpa"
+	religion="bon"
+}
+105889 = {
+	name="Magyal"
+	culture="sumpa"
+	religion="bon"
+}
+105890 = {
+	name="Ge"
+	culture="sumpa"
+	religion="bon"
+}
+105891 = {
+	name="Belpa"
+	culture="sumpa"
+	religion="bon"
+}
+105892 = {
+	name="Sekhor"
+	culture="sumpa"
+	religion="bon"
+}
+105893 = {
+	name="Kye"
+	culture="sumpa"
+	religion="bon"
+}
+105894 = {
+	name="Namra"
+	culture="sumpa"
+	religion="bon"
+}
+105895 = {
+	name="Rigˆ"
+	culture="sumpa"
+	religion="bon"
+}
+105898 = {
+	name="Chudmar"
+	culture="sumpa"
+	religion="bon"
+}
+
+105899 = {
+	name="Nang"
+	culture="zhangzhung"
+	religion="bon"
+}
+105900 = {
+	name="Ngam"
+	culture="zhangzhung"
+	religion="bon"
+}
+105901 = {
+	name="Rme'u"
+	culture="zhangzhung"
+	religion="bon"
+}
+105902 = {
+	name="Spa"
+	culture="zhangzhung"
+	religion="bon"
+}
+105903 = {
+	name="Bel"
+	culture="bodpa"
+	religion="bon"
+}
+105904 = {
+	name="We"
+	culture="bodpa"
+	religion="bon"
+}
+105905 = {
+	name="Gos"
+	culture="bodpa"
+	religion="buddhist"
+}
+105906 = {
+	name="Chimshang"
+	culture="bodpa"
+	religion="buddhist"
+}
+105907 = {
+	name="Broza"
+	culture="bodpa"
+	religion="buddhist"
+}
+105908 = {
+	name="Dro"
+	culture="bodpa"
+	religion="buddhist"
+}
+105909 = {
+	name="Nyang"
+	culture="bodpa"
+	religion="bon"
+}
+105910 = {
+	name="Khyungpo"
+	culture="bodpa"
+	religion="bon"
+}
+105911 = {
+	name="Omade"
+	culture="bodpa"
+	religion="bon"
+}
+105912 = {
+	name="Zhang"
+	culture="bodpa"
+	religion="bon"
+}
+105913 = {
+	name="Khu"
+	culture="bodpa"
+	religion="bon"
+}
+105914 = {
+	name="Nge"
+	culture="bodpa"
+	religion="bon"
+}
+### Yemeni Dynasties
+590=
+{
+	name="Sulayhid"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051211 = {
+	name="al-Zawayhi"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051212 = {
+	name="Mufaddalid"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051213 = {
+	name="Nadjahid"
+	culture="ethiopian"
+	religion="shiite"
+}
+1051214 = {
+	name="Zurayid"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051215 = {
+	name="Bannu Man"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1051216 = {
+	name="Mahdid"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051217 = {
+	name="Hatimid"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051218 = {
+	name="Sulaymanid"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+5061088 = {
+	name="Kastriotis"
+	culture="greek"
+}
+
+5061089 = {
+	name="Skleros"	
+	culture = italian
+}
+5061090 = {
+	name="Monomachos"
+	culture = italian
+}
+5061091 = {
+	name = "Kourkoas"
+	culture = greek
+}
+5061092 = {
+	name = "Euferbenos"
+	culture = greek
+}
+5061093 = {
+	name = "Aparamandara"
+	culture = bengali
+}
+5062094 = {
+	name = "Vokil"
+	culture = bolghar
+}
+5062095= {
+	name = "Permyakid"
+	culture = komi
+}
+5062096 = {
+	name = "Erdevulu"
+	culture = bolghar
+}
+
+5062097 = {
+	name = "di Padua"
+	culture = italian	
+}
+
+5062098 = {
+	name = "Bunduqdarid"
+	culture = turkish
 }
